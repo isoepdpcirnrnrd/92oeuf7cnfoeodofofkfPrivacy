@@ -7574,6 +7574,7 @@ fugato
 fugatos
 fughette
 fugles
+fujoshi
 fulfils
 fulica
 fulicinae
@@ -8945,6 +8946,7 @@ hippopotamian
 hippotragine
 hircocerf
 hirneola
+hirotoshi
 hispanicism
 hispanidads
 hispinae
@@ -8957,6 +8959,7 @@ histotropic
 histriomastix
 histrionicism
 hithe
+hitoshi
 hiver
 hiving
 hlidhskjalf
@@ -10072,6 +10075,7 @@ jorge
 jornadas
 joropos
 joseite
+joshi
 jotnian
 jots
 journaliser
@@ -10194,6 +10198,7 @@ karatekas
 karmathian
 karoo
 karos
+karoshi
 karthli
 karyogamies
 karyons
@@ -17046,6 +17051,7 @@ roset
 rosetan
 rosette
 roshambo
+roshi
 rosinier
 rosinol
 rosminian
@@ -17396,6 +17402,7 @@ satinette
 satinier
 satiric
 satiriser
+satoshi
 satterthwaite
 saturnali
 saturnian
@@ -20288,6 +20295,7 @@ tokelauan
 token
 tokneneng
 tokoloshe
+tokoloshi
 tokomak
 tokopat
 tolan
@@ -20895,6 +20903,7 @@ umbrello
 umbrette
 umbrils
 umbrina
+umeboshi
 umfazi
 umiac
 umiaqs
