@@ -714,7 +714,6 @@ amphisbaena
 amphisbaenae
 amphisbaenas
 amphisbaenian
-amphistomatal
 amphitricha
 amphitruo
 amphivasal
@@ -923,10 +922,8 @@ antefixal
 anteflexion
 antehuman
 antemetallic
-antenatal
 antenatals
 antenna
-antepalatal
 anteroflexion
 anteva
 antheia
@@ -1138,7 +1135,6 @@ apocalyptist
 apocholic
 apocopic
 apodemal
-apodematal
 apogamies
 apogeotropic
 apoliticism
@@ -1499,7 +1495,6 @@ asterisks
 asthenia
 asthenopic
 astheny
-astomatal
 astoned
 astracism
 astragals
@@ -2407,7 +2402,6 @@ bissextiles
 bissoned
 bistetrazole
 bistournage
-bistratal
 bistriazole
 bistros
 bisyllabic
@@ -3907,7 +3901,6 @@ chromier
 chromo
 chromogen
 chromonemal
-chromonematal
 chromophils
 chromophyll
 chromoscopic
@@ -4094,7 +4087,6 @@ clerum
 cleveite
 cleverishly
 climactery
-climatal
 climatize
 clinandrdria
 clinandria
@@ -4425,7 +4417,6 @@ conjugal
 conjugatae
 conjugial
 conjurors
-connatal
 connaught
 conne
 connexion
@@ -5161,7 +5152,6 @@ dashpots
 dasya
 datagloves
 datakit
-datal
 datals
 datary
 datil
@@ -6851,7 +6841,6 @@ ethicism
 ethiopic
 ethize
 ethmonasal
-ethmopalatal
 ethnicism
 ethnonyms
 ethonomic
@@ -7145,7 +7134,6 @@ fashioned
 fashionier
 fassaite
 fastish
-fatal
 fatals
 fatil
 fattily
@@ -8495,7 +8483,6 @@ gutrots
 gutser
 guttery
 gutturonasal
-gutturopalatal
 guyots
 guzzledom
 gwyddbwyll
@@ -8534,7 +8521,6 @@ habdalah
 habendums
 habilimentary
 habitat
-habitatal
 habitual
 habitude
 habitues
@@ -8549,7 +8535,6 @@ hackles
 hadji
 hadromerina
 haemal
-haematal
 haematinon
 haematocystis
 haematoin
@@ -8822,7 +8807,6 @@ helvellic
 helvetia
 helving
 hemal
-hematal
 hematocystis
 hematogen
 hemeralopic
@@ -9004,7 +8988,6 @@ hexobarbitals
 hexogen
 hexylresorcinol
 heygh
-hiatal
 hibernacles
 hibernacula
 hibernian
@@ -9707,7 +9690,6 @@ infract
 infradentary
 infrahuman
 infrapatellar
-infrastigmatal
 infratonsillar
 infrugal
 infusoria
@@ -9873,7 +9855,6 @@ intraligamentary
 intralingual
 intralobar
 intranasal
-intranatal
 intransigentist
 intrasellar
 intrastromal
@@ -10336,7 +10317,6 @@ kasme
 kaszanka
 katabanian
 katabolic
-katal
 katals
 katangese
 kataphrenia
@@ -10623,7 +10603,6 @@ labiatae
 labiodentals
 labiolingual
 labionasal
-labiopalatal
 labiovelar
 labis
 laborsaving
@@ -10768,7 +10747,6 @@ latebra
 latentize
 lateriflexion
 lateroflexion
-laterostigmatal
 latewhiles
 lathereeve
 lathhouse
@@ -11021,7 +10999,6 @@ linguanasal
 linguas
 linguicas
 lingulid
-linguopalatal
 linier
 liniya
 linkrot
@@ -11672,7 +11649,6 @@ mawp
 maxillar
 maxillipedary
 maxillojugal
-maxillopalatal
 maximiser
 maximon
 maxixe
@@ -11695,7 +11671,6 @@ meane
 meanwhiles
 meare
 measle
-meatal
 meatily
 mebsuta
 mecca
@@ -11715,7 +11690,6 @@ medicean
 medidia
 medigap
 medinas
-mediopalatal
 meditatist
 medivac
 medjidieh
@@ -11870,7 +11844,6 @@ mesatipellic
 mescalero
 meseems
 mesencephalons
-mesenchymatal
 mesenna
 mesentery
 meshugge
@@ -12803,12 +12776,10 @@ narwals
 nasal
 naskhi
 nasoalveola
-nasopalatal
 nasosubnasal
 nastily
 nasua
 natak
-natal
 natals
 natatoria
 natica
@@ -12889,7 +12860,6 @@ neocriticism
 neofascism
 neomenia
 neomenian
-neonatal
 neoned
 neonomian
 neophiles
@@ -13127,7 +13097,6 @@ nonevolving
 nonexerciser
 nonextinct
 nonfactual
-nonfatal
 nonfeverishly
 nonforeign
 nonforgiving
@@ -13177,7 +13146,6 @@ nonnomadic
 nonnovels
 nonobserving
 nonomad
-nonpalatal
 nonparabolic
 nonpareils
 nonpariello
@@ -13381,7 +13349,6 @@ obligatos
 obligatum
 obligor
 oblongatae
-oblongatal
 oblongitude
 obomegoid
 obrazil
@@ -13851,7 +13818,6 @@ outweighed
 outwhirl
 outwiles
 outwrought
-outzany
 ouverte
 ouyezd
 ovambo
@@ -14103,12 +14069,10 @@ palaeomagnetist
 palaeometallic
 palaeoniscoid
 palaeornithinae
-palaeostriatal
 palaeostriatum
 palaite
 palamae
 palanka
-palatal
 palatals
 palatinian
 palatist
@@ -14127,7 +14091,6 @@ paleocrystallic
 paleola
 paleomagnetist
 paleometallic
-paleostriatal
 paleostriatum
 palestinian
 paletots
@@ -14331,7 +14294,6 @@ parasitize
 parasitotropic
 parasolette
 parasomnia
-parastatal
 parastatals
 parasuchian
 parasymbiont
@@ -14673,7 +14635,6 @@ perigastrula
 perilobar
 perils
 perilymphangial
-perinatal
 periodids
 periodontist
 periosts
@@ -15596,13 +15557,9 @@ posthouse
 postilioned
 postillioned
 postils
-postmeatal
 postmillennian
 postmortems
 postnasal
-postnatal
-postneonatal
-postpalatal
 postpatellar
 postphthisic
 postpituitary
@@ -15676,7 +15633,6 @@ pramnian
 prankishly
 prankles
 prankt
-pratal
 pravin
 preabstract
 preaccept
@@ -15816,13 +15772,11 @@ premoves
 premoving
 prems
 prenasal
-prenatal
 prenatals
 prenups
 preobserve
 preobserving
 preoccasioned
-prepalatal
 preparliamentary
 prepatellar
 prepaving
@@ -15893,7 +15847,6 @@ priestery
 priestish
 prieving
 priggishly
-primatal
 primatals
 primeur
 primigenian
@@ -16088,7 +16041,6 @@ protometallic
 protometals
 proton
 protonemal
-protonematal
 protonotariat
 protonotary
 protophloems
@@ -16223,7 +16175,6 @@ pteropod
 pterygial
 pterygogenea
 pterygoid
-pterygopalatal
 pteryla
 ptilonorhynchinae
 ptinid
@@ -16608,7 +16559,6 @@ rashly
 rasoir
 rason
 rastik
-ratal
 ratals
 ratan
 ratatat
@@ -16898,7 +16848,6 @@ reoils
 reorganiser
 repartitioned
 repaving
-repeatal
 reperceiving
 repercept
 repertoire
@@ -17012,7 +16961,6 @@ retotals
 retract
 retraite
 retransfer
-retreatal
 retreatist
 retrieving
 retrocaecal
@@ -17463,7 +17411,6 @@ salopette
 salpacean
 salpingectomies
 salpingonasal
-salpingopalatal
 salpingopterygoid
 salpingostenochoria
 salpingostomies
@@ -19047,7 +18994,6 @@ stary
 stasidia
 stasimon
 stasisidia
-statal
 statary
 statehouse
 stationed
@@ -19147,7 +19093,6 @@ stichidia
 stickles
 stickums
 sticta
-stigmatal
 stigmatiser
 stigmatist
 stigmatize
@@ -19180,7 +19125,6 @@ stolkjaerre
 stoln
 stolons
 stomal
-stomatal
 stomatomenia
 stomatopod
 stomatorrhagia
@@ -19233,7 +19177,6 @@ strappadoed
 stratagem
 stratagematist
 stratagems
-stratal
 stratege
 strathspey
 stratig
@@ -19255,7 +19198,6 @@ streptocarpi
 streptomycetes
 stret
 strette
-striatal
 striatum
 strickles
 strictish
@@ -19275,7 +19217,6 @@ strobils
 stroboscopic
 stroken
 stromal
-stromatal
 strooken
 strophaic
 strophe
@@ -19415,7 +19356,6 @@ subsovereign
 substantize
 substellar
 substract
-substratal
 substratum
 subsulphid
 subsystems
@@ -19597,7 +19537,6 @@ supracaecal
 supracoxal
 suprahuman
 supraintellectual
-suprameatal
 supranasal
 supraorbitar
 suprapubic
@@ -20394,7 +20333,6 @@ thriftily
 thrioboly
 thriver
 thriving
-throatal
 throatily
 thrombectomies
 thrombocytopenia
@@ -21533,7 +21471,6 @@ unobserving
 unoccasioned
 unopinioned
 unoutspoken
-unpalatal
 unpalisadoed
 unparadoxal
 unparagoned
@@ -22666,7 +22603,6 @@ zamouse
 zanabazar
 zanier
 zanja
-zany
 zanza
 zanzibar
 zapateos
@@ -22715,7 +22651,6 @@ zirconian
 zirianian
 zitzit
 zitzith
-zizany
 zizith
 zoaeae
 zoanthacea
