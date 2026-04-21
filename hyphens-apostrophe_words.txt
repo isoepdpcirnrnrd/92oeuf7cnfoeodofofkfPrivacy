@@ -1832,8 +1832,6 @@ murder-suicide
 murder-suicides
 must-do
 must-dos
-n-acetylmuramyl-l-alanyl-d-isoglutamine
-n-acetylmuramyl-l-alanyl-d-isoglutamines
 n-dimensional
 n-formyl-l-methionyl-l-leucyl-l-phenylalanine
 n-formyl-l-methionyl-l-leucyl-l-phenylalanines
@@ -2004,10 +2002,6 @@ one-dimensional
 one-dimensionalities
 one-dimensionality
 one-dimensionally
-one-hundred-percenter
-one-hundred-percenters
-one-hundred-percentism
-one-hundred-percentisms
 one-idea'd
 one-ideaed
 one-star
