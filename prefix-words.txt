@@ -485,6 +485,7 @@ alimentary
 alimony
 alingual
 aliquots
+aliyas
 aliyos
 alkahestica
 alkaliser
@@ -679,6 +680,7 @@ amtrak
 amusette
 amuyong
 amygdalohippocampectomies
+amylan
 amylogen
 amylopsase
 amyosthenia
@@ -1620,6 +1622,7 @@ azoxime
 azoxybenzene
 aztecan
 baaing
+babaylan
 babbishly
 babblishly
 babied
@@ -1734,6 +1737,7 @@ bambusa
 bampots
 bandage
 bandariya
+bandariyas
 bandeau
 bandeira
 bandelette
@@ -4795,6 +4799,7 @@ dagesh
 daggles
 daghesh
 daguerreotyper
+dahabiyas
 dahalokely
 daibutsu
 daiko
@@ -5507,6 +5512,7 @@ divorceuse
 divoto
 divots
 dixie
+diyas
 dizzard
 dizzies
 djent
@@ -5693,6 +5699,7 @@ dreamier
 dreamwhiles
 dreare
 dreep
+dreidel
 dreint
 drekky
 drengh
@@ -5817,6 +5824,7 @@ dwiles
 dyadic
 dyehouse
 dykereeve
+dylan
 dynam
 dynamitish
 dynamitist
@@ -6826,6 +6834,7 @@ ficula
 fidawi
 fideicommissa
 fideicommissumissa
+fidel
 fidelio
 fidgetily
 fidia
@@ -7277,6 +7286,7 @@ gaggles
 gainage
 gaingiving
 gainstriving
+galabiyas
 galactagoguic
 galaginae
 galahad
@@ -7299,6 +7309,7 @@ galidia
 galilee
 galiots
 galipots
+gallabiyas
 gallantize
 gallein
 gallerygoers
@@ -7679,6 +7690,7 @@ goetia
 gogga
 goggles
 goglet
+goidel
 goitrogen
 goldfinny
 goldin
@@ -7933,6 +7945,7 @@ gubbo
 guberla
 gubernacula
 guberniya
+guberniyas
 gucki
 gudgeoned
 guemal
@@ -8251,6 +8264,7 @@ heftily
 hegemony
 hegumenoi
 heils
+heinz
 heishe
 heishi
 hejazi
@@ -8466,6 +8480,7 @@ hibernicism
 hiccoughed
 hicoria
 hidage
+hidel
 hiemal
 hiems
 hierarchize
@@ -9105,6 +9120,7 @@ inexactitude
 inextinct
 infamies
 infantado
+infidel
 infinitary
 infinitize
 infinitude
@@ -9435,6 +9451,7 @@ izafat
 izard
 izoklakeite
 izvestia
+izvestiyas
 izzard
 jabot
 jabots
@@ -9462,6 +9479,8 @@ jalebi
 jallebi
 jalouse
 jamahiriya
+jamahiriyas
+jambiyas
 jambo
 jambolan
 jambs
@@ -9620,6 +9639,7 @@ julidan
 jumbal
 jumbo
 jumhouriya
+jumhouriyas
 jumpoff
 jumpshots
 jumpsuits
@@ -9804,6 +9824,7 @@ kibbutzim
 kibitz
 kibitzed
 kickxia
+kidel
 kikar
 kileskus
 kilim
@@ -9866,6 +9887,7 @@ kivikivi
 kiwai
 kiwanian
 kiwifruits
+kiyas
 kkakdugi
 klatsch
 klaxon
@@ -9876,9 +9898,11 @@ kleptos
 kletterschuh
 klikitat
 knack
+knaidel
 knappishly
 knars
 knavishly
+kneidel
 knickknack
 knicknack
 kniving
@@ -12680,6 +12704,7 @@ omikuji
 ommatidia
 ommatitidia
 omnes
+omnifidel
 omnihuman
 omnilingual
 omnitenent
@@ -12902,6 +12927,8 @@ otosteon
 otsukimi
 oubliette
 oudemian
+ougiyas
+ouguiyas
 ourali
 ourie
 ouroboroi
@@ -15376,6 +15403,7 @@ qawwals
 qipchaq
 qipchaqs
 qishlaqs
+qiyas
 qorma
 quackishly
 quackles
@@ -16784,6 +16812,7 @@ seghol
 segmentary
 segmentize
 segue
+seidel
 seigneurie
 seilenoi
 seils
@@ -18360,6 +18389,7 @@ supereminent
 superengraving
 superette
 superficie
+superfidel
 superflexion
 superfrontals
 superheartily
@@ -18507,6 +18537,7 @@ sympetaly
 symphiles
 symphonette
 symphyla
+symphylan
 symphyseotomies
 symphysiotomies
 symphytize
@@ -18744,6 +18775,7 @@ tapinocephaly
 tapiser
 taproots
 taqiya
+taqiyas
 taquito
 taramea
 tarantaraing
@@ -20448,6 +20480,7 @@ urethrectomies
 urethroscopic
 urethrospasm
 urethrotomic
+urethylan
 urgonian
 uriconian
 urinogenitary
@@ -21190,6 +21223,7 @@ xiphydria
 xirula
 xocoatl
 xyla
+xylan
 xylems
 xylinid
 xylitol
@@ -21244,6 +21278,7 @@ yewen
 yferre
 yidaki
 yikirgaulit
+yinz
 ylems
 yobbishly
 yogini
