@@ -95,6 +95,7 @@ acemetae
 acepots
 acerbitude
 acerbity
+acestes
 acetaldehyde
 acetals
 acetamido
@@ -329,6 +330,7 @@ aftercataract
 aftereye
 afterfruits
 afterparty
+aftertastes
 aftonian
 agadic
 agalaxia
@@ -366,6 +368,7 @@ agnosia
 agnosticism
 agoge
 agoho
+agonistes
 agonostomus
 agonothetes
 agoranomus
@@ -736,6 +739,7 @@ anaerobies
 anaerobiont
 anaesthetist
 anaesthetize
+anagnostes
 anagoge
 anagrammatist
 anagrammatize
@@ -754,6 +758,7 @@ anaphylactogen
 anaphylatoxin
 anaplasma
 anapsidan
+anarcestes
 anarchize
 anarthropod
 anaspida
@@ -1046,6 +1051,7 @@ antispectroscopic
 antispermotoxin
 antispiritual
 antistatist
+antistes
 antistrophe
 antistrophize
 antithesism
@@ -1294,6 +1300,7 @@ argals
 argemony
 argentarii
 argentinian
+argestes
 arghel
 arghoul
 argillic
@@ -1350,6 +1357,7 @@ arricciatos
 arrivederla
 arriver
 arrivisme
+arrivistes
 arrouse
 arrowier
 arrowroots
@@ -1383,6 +1391,7 @@ artigi
 artily
 artiodactyla
 artist
+artistes
 artize
 artocarpi
 artophophoria
@@ -1539,6 +1548,7 @@ attotesla
 attourne
 attract
 aubergine
+aubergistes
 aubretia
 aubrietia
 aucanian
@@ -1559,6 +1569,7 @@ audiviser
 auftakt
 augusta
 auguste
+augustes
 augustinian
 auksinai
 auksinas
@@ -1793,6 +1804,7 @@ baleare
 balibuntals
 balikbayan
 balistarii
+balistes
 ballabiles
 balladic
 balladromic
@@ -1943,6 +1955,7 @@ bassanello
 bassette
 bassinet
 bastarda
+bastes
 bastiles
 bastinade
 bastinado
@@ -1960,6 +1973,7 @@ bathmotropic
 bathochromic
 bathochromy
 bathonian
+batistes
 batoidei
 batoned
 batonga
@@ -2326,6 +2340,7 @@ bioscopic
 biosystematist
 bioterrors
 biotoxin
+biowastes
 biparty
 biphase
 bipunctual
@@ -2413,6 +2428,7 @@ bloodroots
 bloodthirstily
 bloomier
 bloosmed
+bloquistes
 blossomier
 blots
 bloubiskop
@@ -2923,6 +2939,7 @@ caconymies
 caconyms
 cacoxene
 cacqueteuse
+cactoblastes
 cactoblastis
 cacur
 caddishly
@@ -2937,6 +2954,7 @@ caecal
 caecocolic
 caedmonian
 caelum
+caenolestes
 caesuras
 cafenet
 cafetoria
@@ -3260,6 +3278,7 @@ cassumunars
 castanian
 castellany
 castellar
+castes
 casthouse
 castratos
 casual
@@ -3358,6 +3377,7 @@ cedula
 ceile
 ceils
 ceint
+celestes
 celestinian
 celestitude
 celibatist
@@ -3407,6 +3427,7 @@ cephalopod
 cephalothecal
 cephalotomies
 cephid
+cerastes
 ceratobatrachinae
 ceratocricoid
 ceratocystis
@@ -3886,6 +3907,7 @@ cimmaron
 cinchona
 cinchonidia
 cinct
+cineastes
 cinemagoers
 cinematize
 cineolic
@@ -3988,6 +4010,7 @@ clerkess
 clerum
 cleveite
 cleverishly
+clidastes
 climactery
 climatize
 clinid
@@ -4058,6 +4081,7 @@ cocadas
 cocarcinogen
 coccidia
 coccoid
+coccothraustes
 coccygine
 cochleae
 cochleare
@@ -4510,6 +4534,7 @@ cossnent
 costals
 costanoan
 costectomies
+costes
 costocolic
 costocoracoid
 costotomies
@@ -5254,6 +5279,7 @@ dermatomic
 dermatorrhagia
 dermatotropic
 dermatropic
+dermestes
 dermohemal
 dermotropic
 dernier
@@ -5653,6 +5679,7 @@ dissimilitude
 dissimuler
 dissyllabic
 dissympathize
+distastes
 disthroned
 distils
 distinct
@@ -6005,6 +6032,7 @@ dylan
 dynam
 dynamitish
 dynamitist
+dynastes
 dynasticism
 dynastidan
 dynastinae
@@ -6043,11 +6071,13 @@ eastlin
 eatery
 ebauche
 ebauchoir
+ebenistes
 ebullioscopic
 eburnian
 ecbolic
 ecca
 eccles
+ecclesiastes
 ecclesiasticism
 eccremocarpi
 echafaudage
@@ -6079,6 +6109,7 @@ ectadenia
 ectoparasitica
 ectopatagia
 ectopic
+ectopistes
 ectoproct
 ectopterygoid
 ectosomal
@@ -6268,6 +6299,7 @@ enapt
 encaenia
 encapsule
 encarpi
+encaustes
 enceint
 encephalasthenia
 encephalitogen
@@ -6629,6 +6661,7 @@ etacism
 etalons
 etatisme
 etatist
+etatistes
 eteocles
 eteocretes
 ethaldehyde
@@ -6970,6 +7003,7 @@ felafel
 felinae
 fellic
 felons
+felquistes
 femal
 femetary
 femmier
@@ -7253,6 +7287,7 @@ foresteep
 forestery
 forestish
 foret
+foretastes
 foretoken
 foretriangles
 foreuse
@@ -7291,6 +7326,7 @@ forte
 fortitude
 fortranh
 fortuitist
+forwastes
 forzatos
 fossette
 fossils
@@ -7591,6 +7627,7 @@ ganoidei
 ganowanian
 ganza
 gaolbroken
+garagistes
 garboils
 garda
 gardenia
@@ -7748,6 +7785,7 @@ gerontoxon
 geropigas
 gesnera
 gestaltist
+gestes
 gesundheit
 getae
 ghafir
@@ -8438,6 +8476,7 @@ hasan
 hasinai
 haskalah
 hasks
+hastes
 hastily
 hastish
 hatchels
@@ -8475,6 +8514,7 @@ heartbroken
 heartily
 heartsette
 hearty
+heastes
 heathendom
 heathenishly
 heatspots
@@ -8637,6 +8677,7 @@ hermitize
 hermogenian
 herniotomies
 heroicomic
+herpestes
 herpestinae
 herpolhode
 herringboned
@@ -8911,6 +8952,7 @@ horsedom
 horseflesh
 horseshoers
 horsetails
+horstes
 hosannaing
 hospitals
 hospitize
@@ -9299,6 +9341,7 @@ immutual
 impactual
 imparisyllabic
 impassioned
+impastes
 impedimentary
 imperils
 impermanent
@@ -9530,6 +9573,7 @@ intervallic
 intervertebra
 inthroned
 intifadas
+intimistes
 intinct
 intonaci
 intoned
@@ -9903,6 +9947,7 @@ juramentado
 jurel
 jurors
 jurupaite
+jusqu'au-boutistes
 jusquaboutisme
 jusquaboutist
 jussi
@@ -10312,6 +10357,7 @@ lafayette
 lagenae
 lagenas
 lagenian
+lagorchestes
 lagostomus
 lagune
 lahar
@@ -10327,6 +10373,7 @@ lakatan
 lamaite
 lamastery
 lambadas
+lambastes
 lambdacism
 lambies
 lamblia
@@ -10371,6 +10418,7 @@ langar
 langhian
 langooty
 langouste
+langoustes
 langrel
 langspils
 languette
@@ -10468,6 +10516,7 @@ leafen
 leamed
 leare
 leatherette
+lebistes
 lecaniinae
 lecanoscopic
 leccy
@@ -11146,6 +11195,7 @@ mangkukulam
 mangles
 mangonel
 mangouste
+mangoustes
 mangroves
 mangwe
 manicotti
@@ -11878,6 +11928,7 @@ moderniser
 modif
 modioli
 modishly
+modistes
 modoc
 modula
 moduli
@@ -12311,6 +12362,7 @@ mysidacea
 mysosts
 mystax
 mystery
+mystes
 mysticetes
 mysticism
 mytacism
@@ -12357,6 +12409,7 @@ naiver
 naivetes
 nakhod
 nakir
+namastes
 namby
 namda
 named
@@ -13166,6 +13219,7 @@ oreillette
 oreophasinae
 oreotragine
 oresteia
+orestes
 organette
 organicism
 organiser
@@ -13193,6 +13247,7 @@ ornamentist
 orniscopic
 ornithischian
 ornithodelphian
+ornitholestes
 ornithomantist
 ornithopappi
 ornithopod
@@ -13310,6 +13365,7 @@ outasks
 outbeamed
 outbrawl
 outbroken
+outcastes
 outcavils
 outcept
 outchase
@@ -13372,6 +13428,7 @@ outtasks
 outtravels
 outtrots
 outwar
+outwastes
 outweaponed
 outweighed
 outwhirl
@@ -13423,6 +13480,7 @@ overgorge
 overgratitude
 overhailes
 overharshly
+overhastes
 overhastily
 overhaughtily
 overhauler
@@ -13493,6 +13551,7 @@ ovicapsule
 ovinae
 ovisac
 ovomucoid
+ovotestes
 ovotestis
 owenia
 owenian
@@ -13905,6 +13964,7 @@ passangrahan
 passerina
 passioned
 passir
+pastes
 pasteups
 pasteurelleae
 pasteuriser
@@ -14088,6 +14148,7 @@ pentathlon
 pentathlons
 pentatomic
 pentecostals
+penthestes
 penthouse
 pentitol
 pentobarbitals
@@ -14109,6 +14170,7 @@ peptize
 peptogen
 peptoniser
 peptotoxin
+pequistes
 peract
 peraeopod
 peratae
@@ -14478,6 +14540,7 @@ phytotomies
 phytotoxin
 piacula
 pianette
+pianistes
 pianistiec
 pianka
 pianoforte
@@ -14629,6 +14692,7 @@ piscinas
 pisco
 pishoge
 pissoir
+pistes
 pistia
 pistillar
 pistils
@@ -14723,6 +14787,7 @@ plenitude
 plentitude
 plenty
 pleomastia
+pleonastes
 pleonexia
 pleopod
 plerocercoid
@@ -14828,6 +14893,7 @@ poignado
 poikilothermies
 poinado
 pointillisme
+pointillistes
 poire
 poiser
 poisoned
@@ -14845,6 +14911,7 @@ polatouche
 poliadic
 policedom
 polissoir
+polistes
 polit
 politeia
 politist
@@ -15058,6 +15125,7 @@ posterette
 postfixal
 postflexion
 postgracile
+posthastes
 posthoc
 posthouse
 postilioned
@@ -15265,6 +15333,7 @@ prenups
 preobserve
 preoccasioned
 preparliamentary
+prepastes
 prepatellar
 prepituitary
 preponed
@@ -15297,6 +15366,7 @@ presympathize
 presystolic
 pretan
 pretannage
+pretastes
 pretensioned
 preterhuman
 pretersensual
@@ -15374,6 +15444,7 @@ prochurchian
 procinct
 procne
 procoracoid
+procrustes
 proctorrhagia
 proctoscopic
 proctospasm
@@ -15965,6 +16036,7 @@ radiothermies
 radiotropic
 radiov
 radula
+radwastes
 raffishly
 rafik
 rafraichissoir
@@ -16362,6 +16434,7 @@ ressalah
 restationed
 resteep
 restems
+restes
 resthouse
 restigmatize
 restis
@@ -16371,6 +16444,7 @@ resystematize
 retackles
 retails
 retan
+retastes
 reteamed
 retems
 retes
@@ -16541,6 +16615,7 @@ riots
 ripa
 riparii
 ripoff
+ripostes
 riposts
 riroriro
 riser
@@ -16752,6 +16827,7 @@ sabots
 sabrina
 saburra
 sacae
+sacahuistes
 saccadic
 saccha
 saccharochemotropic
@@ -16935,6 +17011,7 @@ sarcinae
 sarcinas
 sarcocystis
 sarcoid
+sarcolestes
 sarconet
 sarcopenia
 sarcophagine
@@ -16987,6 +17064,7 @@ saurel
 saurischian
 sauropod
 sauropsidan
+saurornitholestes
 saury
 saussuritize
 sautoir
@@ -17572,6 +17650,7 @@ shockumentary
 shode
 shoers
 shoggles
+shoji
 shojo
 sholom
 shona
@@ -17687,6 +17766,7 @@ simonian
 simonkolleite
 simony
 simpletonian
+simplistes
 simuler
 sinae
 sinaite
@@ -17897,6 +17977,7 @@ snaphaan
 snappishly
 snapshots
 snars
+snastes
 sneak
 sneakeups
 sneakishly
@@ -18614,6 +18695,7 @@ subcabinet
 subcaecal
 subcalibre
 subcaptaincy
+subcastes
 subcellar
 subcerebellar
 subchela
@@ -19090,6 +19172,7 @@ taboret
 tachardiinae
 tachinid
 tachisme
+tachistes
 tachistoscopic
 tachyons
 tachyphagia
@@ -19200,6 +19283,7 @@ tamponade
 tamponage
 tamponed
 tanaidacea
+tanaistes
 tanaka
 tanchelmian
 tanchoir
@@ -19277,6 +19361,7 @@ tasajo
 tasks
 tasmanian
 tastekin
+tastes
 tastily
 tatary
 tataupa
@@ -19452,6 +19537,7 @@ testacean
 testamentary
 testamurs
 testatum
+testes
 testicles
 testily
 testimony
@@ -19672,6 +19758,7 @@ thuribuler
 thurle
 thwaite
 thwartsaw
+thyestes
 thymectomies
 thymiama
 thymier
@@ -19843,6 +19930,7 @@ tonsillotomies
 tonsils
 tooken
 toolhouse
+toothpastes
 toothy
 toots
 topagnosia
@@ -20207,6 +20295,7 @@ tryphena
 trypsinogen
 tryptogen
 trysails
+trystes
 tsaddiks
 tsadiks
 tsarina
@@ -21163,6 +21252,8 @@ verre
 versette
 versicles
 versioned
+verslibristes
+verstes
 versual
 vertebra
 verticil
@@ -21272,6 +21363,7 @@ virgouleuse
 virtual
 virtued
 virtues
+visagistes
 visaing
 visayan
 viscerotropic
@@ -21437,6 +21529,7 @@ wassails
 wastelot
 wastelots
 wastery
+wastes
 watapeh
 watcheye
 watchhouse
@@ -21519,6 +21612,7 @@ whatzit
 whaup
 wheam
 wheare
+wheatpastes
 wheelhouse
 wheem
 wheeped
