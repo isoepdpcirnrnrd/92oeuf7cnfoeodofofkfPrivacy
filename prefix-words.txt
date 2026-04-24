@@ -612,7 +612,6 @@ aminogen
 aminotriazole
 amioidei
 amixia
-amizilis
 amlikar
 amman
 ammocetes
@@ -1123,7 +1122,6 @@ approving
 apraxia
 apricot
 apricots
-aprilis
 aproned
 apropos
 aprosexia
@@ -2414,7 +2412,6 @@ bosnian
 bosomier
 boson
 bossism
-bosslet
 bossy
 bossyboots
 bostonian
@@ -2668,7 +2665,6 @@ bughouse
 bugles
 buglet
 bukkake
-bulbilis
 bulbils
 bulghur
 bulgine
@@ -3189,7 +3185,6 @@ cedis
 cedre
 cedula
 ceile
-ceilis
 ceils
 ceint
 celestinian
@@ -3492,7 +3487,6 @@ childage
 childishly
 chiles
 chiliadic
-chilis
 chilladas
 chilomastix
 chilopod
@@ -4283,7 +4277,6 @@ corrido
 corridor
 corrosiving
 corselette
-corslet
 corso
 cortado
 cortege
@@ -4532,10 +4525,7 @@ crooves
 croquette
 croset
 crosette
-croslet
-crosscrosslet
 crossette
-crosslet
 crotals
 croton
 crotonaldehyde
@@ -4610,7 +4600,6 @@ cujam
 culebra
 culicifugal
 culpa
-culpabilis
 cultish
 cultishly
 cultist
@@ -5267,7 +5256,6 @@ diksha
 dilemi
 dilettantish
 dilettantist
-dilis
 dillenia
 dilogarithm
 diltiazems
@@ -6154,7 +6142,6 @@ enteropneusta
 enterospasm
 enterostomal
 enterostomies
-enterosyphilis
 enterotomies
 enterotoxin
 enterpillar
@@ -7108,7 +7095,6 @@ frijol
 frisco
 frisette
 frisks
-frislet
 frith
 frithsoken
 fritzed
@@ -7499,7 +7485,6 @@ gimel
 gimmies
 gingals
 gingerroots
-gingilis
 gingiva
 gingivectomies
 gingles
@@ -7686,7 +7671,6 @@ gorgonian
 gormandiser
 gormier
 gortonian
-goslet
 gossipy
 gossy
 gotha
@@ -7710,7 +7694,6 @@ grabbots
 grabouche
 gracile
 graciles
-gracilis
 grackles
 gradationed
 graeae
@@ -8117,14 +8100,11 @@ harpooned
 harridan
 harrisia
 harshly
-harslet
 hartals
 haruspex
 hasan
 hasinai
 hasks
-haslet
-hasslet
 hastily
 hastish
 hatchels
@@ -8304,7 +8284,6 @@ hercynian
 hereanent
 hereditary
 hereditist
-heredosyphilis
 heriots
 herkogamies
 hermandads
@@ -8636,7 +8615,6 @@ humaniser
 humanitary
 humbo
 humidor
-humilis
 humilitude
 humogen
 humoresks
@@ -9282,8 +9260,6 @@ isidia
 isinai
 isindazole
 islamitish
-islet
-ismailis
 isoagglutinogen
 isoaminiles
 isoasparagine
@@ -9478,7 +9454,6 @@ jingals
 jingles
 jinglet
 jingoed
-jinjilis
 jinny
 jinricksha
 jinriksha
@@ -9969,7 +9944,6 @@ lamplit
 lampooned
 lampposts
 lampreys
-lampsilis
 lampukas
 lamut
 lanai
@@ -10536,7 +10510,6 @@ maceranduba
 machacas
 machetes
 machiavellic
-machilis
 mackerel
 mackles
 macles
@@ -11289,7 +11262,6 @@ minutary
 minxishly
 miombo
 miqra
-mirabilis
 miracicidia
 miracidia
 miracles
@@ -11794,7 +11766,6 @@ myelocoele
 myelomenia
 myelons
 myelospasm
-myelosyphilis
 mylohyoidei
 mylonitize
 myocoele
@@ -12034,7 +12005,6 @@ neuropod
 neuroscientist
 neurospasm
 neurosthenia
-neurosyphilis
 neuroticism
 neurotomies
 neurotoxia
@@ -13296,7 +13266,6 @@ parastatals
 parasuchian
 parasymbiont
 parasynaptist
-parasyphilis
 parataniwhas
 parathas
 parathyroidectomies
@@ -13980,7 +13949,6 @@ piles
 pileum
 pileups
 pilikai
-pilis
 pillar
 pillau
 pillioned
@@ -15015,7 +14983,6 @@ pseudoscopic
 pseudospiritual
 pseudostereoscopic
 pseudosuchian
-pseudosyphilis
 pseudotribal
 pseudotributary
 pseudovelar
@@ -15128,7 +15095,6 @@ purlieuman
 purparty
 purplelip
 purpuras
-purslet
 pursual
 pursuits
 purveyal
@@ -15300,7 +15266,6 @@ quintals
 quintary
 quintette
 quintiles
-quintilis
 quintuply
 quinzies
 quiritary
@@ -16301,7 +16266,6 @@ saracenian
 sarah
 saratogan
 sarcenet
-sarcilis
 sarcinas
 sarcocystis
 sarcoid
@@ -16698,7 +16662,6 @@ senecan
 senectitude
 senectude
 seniles
-senilis
 senna
 senonian
 senoufo
@@ -16786,7 +16749,6 @@ sextarii
 sextary
 sextette
 sextiles
-sextilis
 sextodecimo
 sextuply
 sfogato
@@ -16859,7 +16821,6 @@ shela
 sheltery
 shelving
 shemitish
-shemu
 shenzhen
 sheolic
 shepherdage
@@ -17873,7 +17834,6 @@ strickles
 strictish
 stridor
 strigiles
-strigilis
 strigils
 strigine
 strinkles
@@ -18029,7 +17989,6 @@ subterhuman
 subtersensual
 subtextual
 subtherapeutic
-subtilis
 subtiliser
 subtopic
 subtotals
@@ -18360,7 +18319,6 @@ synthetist
 synthetize
 syntropic
 syntypicism
-syphilis
 syphonage
 syphoned
 syren
@@ -18418,7 +18376,6 @@ taeninidia
 tafferel
 taffrails
 tafinagh
-tagabilis
 tagetes
 tagine
 taglet
@@ -18573,7 +18530,6 @@ tartufo
 tarty
 tasajo
 tasks
-taslet
 tasmanian
 tastekin
 tastily
@@ -19149,7 +19105,6 @@ torenia
 toret
 toreutic
 torgoch
-torilis
 torma
 tormentils
 tornade
@@ -19313,7 +19268,6 @@ trenails
 trentals
 treponemal
 treppe
-tresslet
 tret
 trevette
 trewel
@@ -20837,7 +20791,6 @@ wiglet
 wilcoxon
 wildishly
 wiles
-wilis
 wilkeite
 william
 willowier
