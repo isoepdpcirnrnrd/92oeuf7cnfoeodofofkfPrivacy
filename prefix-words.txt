@@ -7472,6 +7472,7 @@ frescoers
 freshly
 fretish
 fretize
+fretsaw
 frette
 freycinetia
 fricandeau
@@ -13563,6 +13564,7 @@ outroots
 outros
 outroving
 outsails
+outsaw
 outscreamed
 outserve
 outserving
@@ -14876,6 +14878,7 @@ pitheciinae
 pithecism
 pithecoid
 pitots
+pitsaw
 pituitary
 pivots
 pixie
@@ -17958,6 +17961,7 @@ sieving
 siffleuse
 sigfiles
 sighed
+sightsaw
 sigils
 sigmaspire
 sigmoidectomies
@@ -18546,6 +18550,7 @@ splenotoxin
 splinterd
 splintery
 split
+splitsaw
 splittist
 splog
 sploots
@@ -20017,6 +20022,7 @@ thumbpots
 thuribuler
 thurle
 thwaite
+thwartsaw
 thymectomies
 thymiama
 thymier
