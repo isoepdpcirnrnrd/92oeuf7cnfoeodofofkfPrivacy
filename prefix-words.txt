@@ -1,6 +1,5 @@
 aardvark
 aaron
-abacas
 abacaxi
 abaiser
 abamp
@@ -121,7 +120,6 @@ acheronian
 achieving
 achilleid
 achillein
-achlorhydria
 acholic
 achomawi
 achroglobin
@@ -483,7 +481,6 @@ aletap
 alethopteis
 alette
 aleutic
-alexandria
 alexandrina
 alexia
 alexian
@@ -539,7 +536,6 @@ allelotropic
 alleluia
 alleluja
 allobar
-allocatee
 allochetia
 allochlorophyll
 allogamies
@@ -572,7 +568,6 @@ aloedary
 alopecoid
 alouette
 aloysius
-alpacas
 alphabetary
 alphabetiser
 alphabetist
@@ -755,7 +750,6 @@ analogal
 analphabetes
 analyt
 anamnia
-anandria
 ananym
 anapaite
 anaphase
@@ -802,7 +796,6 @@ ancylodactyla
 ancylopod
 andirin
 andouillette
-andria
 androcles
 androdioecism
 androgen
@@ -2034,7 +2027,6 @@ bearnaise
 beastily
 beastish
 beatae
-beatee
 beati
 beatitude
 beauclerc
@@ -2939,11 +2931,9 @@ cabotinage
 cabots
 cabuya
 cacam
-cacas
 cacatuinae
 caccabis
 cacei
-cachacas
 cachalots
 cachepot
 cachepots
@@ -2997,7 +2987,6 @@ calabazas
 calahan
 calaite
 calamagrostis
-calandria
 calandrinae
 calathi
 calathian
@@ -3158,7 +3147,6 @@ carabidan
 carabin
 carabinier
 caraboa
-caracas
 caracoa
 caract
 caraho
@@ -3380,7 +3368,6 @@ cautivo
 cavalero
 cavatinas
 caveat
-caveatee
 cavels
 caveola
 cavils
@@ -3538,7 +3525,6 @@ chammies
 chamoisette
 chamomiles
 chamorro
-champacas
 champagnes
 championed
 champlev
@@ -3621,7 +3607,6 @@ cheapishly
 cheaply
 cheapshots
 cheare
-cheatee
 cheatery
 checke
 checkrails
@@ -3812,7 +3797,6 @@ choliambs
 cholic
 chometz
 chommies
-chondria
 chondriosomal
 chondrocoracoid
 chondroganoidei
@@ -4041,8 +4025,6 @@ cleveite
 cleverishly
 climactery
 climatize
-clinandrdria
-clinandria
 clinid
 clinocephaly
 clinopinacoid
@@ -4057,7 +4039,6 @@ clitoria
 clitoridectomies
 cliver
 cloacae
-cloacas
 cloacean
 clochette
 clockhouse
@@ -4102,7 +4083,6 @@ coalmouse
 coaltitude
 coappriser
 coascend
-coatee
 coati
 coattails
 coaxal
@@ -4176,7 +4156,6 @@ colbies
 colchian
 coldhouse
 colectomies
-colegatee
 colemouse
 coleoptiles
 colibri
@@ -4187,7 +4166,6 @@ collapsar
 collapsed
 collar
 collarette
-collatee
 collegatary
 collegese
 collegial
@@ -4276,7 +4254,6 @@ commots
 commoves
 commoving
 communaliser
-communicatee
 communiqu
 communistery
 communitary
@@ -4614,7 +4591,6 @@ couche
 couchette
 cougar
 coughed
-coulibiacas
 couloir
 councils
 counselee
@@ -4955,7 +4931,6 @@ cyanomethemoglobin
 cyanophycean
 cyathi
 cyberathletes
-cyberchondria
 cycladic
 cycledom
 cycles
@@ -5141,7 +5116,6 @@ decagynian
 decal
 decametre
 decan
-decandria
 decantist
 decarboniser
 decasyllabic
@@ -5179,7 +5153,6 @@ decurving
 decussoria
 dedan
 dedendums
-dedicatee
 dedogmatize
 dedolomitize
 dedramatize
@@ -5189,7 +5162,6 @@ deeve
 deeving
 defaitisme
 defamed
-defeatee
 defeatist
 defeit
 defiles
@@ -5222,7 +5194,6 @@ dekametre
 delapsed
 delay
 deleaving
-delegatee
 delegati
 deletery
 deletes
@@ -5471,7 +5442,6 @@ diamagnetize
 diamido
 diamidogen
 diaminogen
-diandria
 diapasm
 diapason
 diaphototropic
@@ -5865,7 +5835,6 @@ domus
 donack
 donar
 donatary
-donatee
 donatist
 donegals
 donepezils
@@ -6210,7 +6179,6 @@ editioned
 editorialiser
 edomitish
 edriophthalmian
-educatee
 edwina
 eensy
 effatum
@@ -6484,7 +6452,6 @@ enmoves
 enmoving
 ennage
 enneadic
-enneahedria
 enneasyllabic
 enneathlon
 enneathlons
@@ -6783,7 +6750,6 @@ eucaryons
 eucaryots
 eucharistize
 euchlaena
-euchlorhydria
 eucleid
 euclid
 euconjugatae
@@ -7103,7 +7069,6 @@ feint
 feistily
 felafel
 felinae
-fellatee
 fellic
 felons
 femal
@@ -7451,7 +7416,6 @@ foxtails
 foxtrots
 foyaite
 foyle
-fracas
 fract
 fractals
 fractioned
@@ -8042,7 +8006,6 @@ gnathopod
 gnomic
 gnosticism
 goalposts
-goatee
 goatish
 goatishly
 goave
@@ -8402,7 +8365,6 @@ gymnurinae
 gymsuits
 gynaecoid
 gynaecomastia
-gynandria
 gynecoid
 gynecomastia
 gynodioecism
@@ -8764,7 +8726,6 @@ heptachlor
 heptacolic
 heptadic
 heptaglots
-heptandria
 heptasyllabic
 heptathletes
 heptathlon
@@ -8862,7 +8823,6 @@ hexaglots
 hexagynian
 hexahydrobenzene
 hexahydrothymol
-hexandria
 hexasticha
 hexastigm
 hexasyllabic
@@ -8880,8 +8840,6 @@ hibernacles
 hibernacula
 hibernian
 hibernicism
-hicatee
-hiccatee
 hiccoughed
 hicoria
 hidage
@@ -9121,7 +9079,6 @@ huckstery
 huddledom
 hudsonian
 huffishly
-hugmatee
 huguenots
 huipiles
 huipils
@@ -9180,7 +9137,6 @@ hydrastis
 hydratropic
 hydrazino
 hydrazobenzene
-hydria
 hydrid
 hydroalcoholic
 hydrobromic
@@ -9238,7 +9194,6 @@ hyperalgebra
 hyperanabolic
 hyperbolic
 hyperbrachycephaly
-hyperchlorhydria
 hypercoracoid
 hypercrisia
 hypercriticism
@@ -9294,9 +9249,6 @@ hypnotoxin
 hypoadenia
 hypoadrenia
 hypobasal
-hypochdria
-hypochlorhydria
-hypochondria
 hypochondriacism
 hypochromic
 hypocistis
@@ -9385,7 +9337,6 @@ icicles
 iconian
 iconoclasticism
 iconomaticism
-icosandria
 icterid
 idahoans
 idealiser
@@ -9452,7 +9403,6 @@ imido
 imidogen
 iminazole
 imipenems
-imitatee
 immanacles
 immanent
 immanentist
@@ -9601,7 +9551,6 @@ inkos
 inkosi
 inkpots
 inkspots
-inlapidatee
 innage
 innermosts
 innerve
@@ -9709,7 +9658,6 @@ interpubic
 interrails
 interreceiving
 interreign
-interrogatee
 interseamed
 interspire
 interstellar
@@ -9945,7 +9893,6 @@ japishly
 japonicas
 japygoid
 jaquette
-jararacas
 jararaka
 jargoned
 jargonel
@@ -10425,7 +10372,6 @@ kotschubeite
 kotuku
 kotukutuku
 kotwals
-koulibiacas
 koumis
 koupreys
 kouras
@@ -10692,7 +10638,6 @@ legaliser
 legals
 legantinelegatary
 legatary
-legatee
 legati
 legato
 legatos
@@ -11158,13 +11103,11 @@ macadamed
 macadamiser
 macaron
 macaronicism
-macas
 maccheroncini
 macchiatos
 macedon
 macedonian
 maceranduba
-machacas
 machairodontinae
 machetes
 machiavellic
@@ -11336,7 +11279,6 @@ mamoty
 mampoers
 manacles
 manage
-manatee
 manchette
 mancunian
 mandaite
@@ -11344,7 +11286,6 @@ mandapa
 mandarah
 mandarindom
 mandatary
-mandatee
 mandatum
 mandems
 mandingan
@@ -11392,7 +11333,6 @@ mapuche
 maquahuitl
 maquette
 marabis
-maracas
 maracuja
 maragato
 marah
@@ -12079,7 +12019,6 @@ miszoned
 mitannian
 mithraicism
 mithridatize
-mitochondria
 mitogen
 mitrailleuse
 mitsukurina
@@ -12161,7 +12100,6 @@ monachize
 monactinellidan
 monadelphian
 monadic
-monandria
 monaphase
 monarchian
 monarchize
@@ -12676,7 +12614,6 @@ nebulon
 necessism
 necessitude
 necessitudo
-neckatee
 neckshots
 necro
 necrophagia
@@ -13235,7 +13172,6 @@ octadic
 octadrachm
 octaeterid
 octals
-octandria
 octangles
 octary
 octet
@@ -13302,7 +13238,6 @@ oleic
 olein
 oleum
 oligarchize
-oligidria
 oligochaeta
 oligochaetes
 oligophrenia
@@ -13370,7 +13305,6 @@ oozoid
 opaleye
 opalinid
 operagoers
-operatee
 operatize
 opercula
 operette
@@ -13833,7 +13767,6 @@ paar
 paauw
 pabouche
 pacaguara
-pacas
 pacaya
 paccha
 pacchionian
@@ -14210,11 +14143,9 @@ pastinas
 pastis
 pastitsio
 pastorali
-patacas
 patagia
 patagial
 patagonian
-patee
 patellar
 patellectomies
 patellidan
@@ -14379,7 +14310,6 @@ pentadrachm
 pentaerythritol
 pentagynian
 pentamerid
-pentandria
 pentangles
 pentasyllabic
 pentathla
@@ -14442,8 +14372,6 @@ periboloi
 pericaecal
 pericecal
 perichaetia
-perichdria
-perichondria
 pericles
 pericopic
 pericycles
@@ -14986,7 +14914,6 @@ plastery
 plasticiser
 plasticism
 plastilinas
-plastochondria
 plastogamies
 plataleinae
 platan
@@ -15171,7 +15098,6 @@ polyadenia
 polyadic
 polyaffectioned
 polyamory
-polyandria
 polyanthas
 polyatomic
 polyaxon
@@ -15332,7 +15258,6 @@ portugais
 portugal
 portugese
 portulaca
-portulacas
 portunian
 porwiggles
 porwigle
@@ -15567,7 +15492,6 @@ prelaryngoscopic
 prelatish
 prelatist
 prelatize
-prelegatee
 prelegendary
 prelims
 prelingual
@@ -16600,7 +16524,6 @@ reliving
 rello
 rellyan
 reloans
-relocatee
 relot
 remagnetize
 remails
@@ -19429,7 +19352,6 @@ symposiac
 symposisia
 symptomatize
 synagogal
-synandria
 synangial
 synapheia
 synapsed
@@ -19450,7 +19372,6 @@ syndactyli
 syndesmies
 syndromic
 syndyasmian
-synedria
 synentognathi
 syngamies
 syngnathi
@@ -19794,7 +19715,6 @@ telharmony
 tellar
 tellinacea
 tellinacean
-telodendria
 telogen
 telomian
 telomic
@@ -19899,7 +19819,6 @@ tetrahydrocannabinol
 tetrahymenas
 tetraiodophenolphthalein
 tetramastia
-tetrandria
 tetraoninae
 tetrapneumonian
 tetrapyla
@@ -19995,7 +19914,6 @@ therapeutist
 theraphosid
 thereanent
 therewhiles
-theriacas
 therianthropic
 thermette
 thermidor
@@ -20446,7 +20364,6 @@ traymobiles
 treacles
 treason
 treasury
-treatee
 treatiser
 trecentist
 treckschuyt
@@ -20474,7 +20391,6 @@ treys
 triacontaeterid
 triadic
 triakisoctahedrid
-triandria
 triangles
 triangulid
 triarii
@@ -22210,7 +22126,6 @@ xerophagia
 xerophiles
 xieite
 xiphiura
-xiphydria
 xirula
 xocoatl
 xyla
@@ -22373,7 +22288,6 @@ zombies
 zomotherapeutic
 zonar
 zoned
-zoodendria
 zooerastia
 zoogametes
 zoogamies
