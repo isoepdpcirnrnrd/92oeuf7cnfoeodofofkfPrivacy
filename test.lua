@@ -4,17 +4,17 @@ local Words = {}
 local loaded = false
 local WordDictionary = {}
 local searchCache = {}
+local cacheSize = 0
+local MAX_CACHE = 200
 local currentPage = 1
 local wordsPerPage = 50
 local sortMode = "Random"
-local randomLoopRunning = false
-local lastInput = ""
 local KillerMap = {}
 local killerUrl=(function()local a={104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,81,55,90,120,78,51,76,56,109,84,50,80,69,119,72,107,65,57,99,70,114,88,121,83,47,82,57,118,45,49,122,45,75,45,101,78,112,45,55,87,100,88,50,45,113,76,109,84,45,47,114,101,102,115,47,104,101,97,100,115,47,115,111,109,101,116,104,105,110,103,47,112,114,101,102,105,120,45,119,111,114,100,115,46,116,120,116}local b={}for i=1,#a do b[i]=string.char(a[i])end;return table.concat(b)end)()
 
 pcall(function()
     local res = request({Url = killerUrl, Method = "GET"})
-    if res and res.Body then
+    if res and res.Success and res.Body then
         for w in res.Body:gmatch("[^\r\n]+") do
             KillerMap[w:lower()] = true
         end
@@ -26,7 +26,7 @@ local function LoadWords()
     if loaded then return end
     pcall(function()
         local res = request({Url = url, Method = "GET"})
-        if res and res.Body then
+        if res and res.Success and res.Body then
             for w in res.Body:gmatch("[^\r\n]+") do
                 local wordLower = w:lower()
                 table.insert(Words, wordLower)
@@ -36,11 +36,17 @@ local function LoadWords()
                 end
                 table.insert(WordDictionary[firstLetter], wordLower)
             end
+            table.sort(Words)
+
+            for _, list in pairs(WordDictionary) do
+                table.sort(list)
+            end
+
             loaded = true
         end
     end)
 end
-spawn(LoadWords)
+task.spawn(LoadWords)
 
 local function shuffle(t)
     for i = #t, 2, -1 do
@@ -87,10 +93,17 @@ local function SuggestWords(input, count)
     local wordList = WordDictionary[firstLetter] or {}
     local searchList = #wordList > 0 and wordList or Words
 
+    local foundStart = false
+
     for i = 1, #searchList do
         local word = searchList[i]
+
         if word:sub(1, #input) == input then
+            foundStart = true
             table.insert(possible, word)
+
+        elseif foundStart then
+            break
         end
     end
 
@@ -124,10 +137,19 @@ local function SuggestWords(input, count)
     end
 
     if sortMode ~= "Random" and sortMode ~= "Killer" then
+        if not searchCache[cacheKey] then
+            cacheSize += 1
+        end
+
         searchCache[cacheKey] = results
+
+        if cacheSize > MAX_CACHE then
+            searchCache = {}
+            cacheSize = 0
+        end
     end
 
-    return results
+return results
 end
 
 local Players = game:GetService("Players")
@@ -275,7 +297,7 @@ minimizeButton.MouseButton1Click:Connect(function()
 end)
 
 closeButton.MouseButton1Click:Connect(function()
-    b:Destroy()
+    a:Destroy()
 end)
 
 local prefixLabel = Instance.new("TextLabel", contentFrame)
@@ -452,10 +474,21 @@ function UpdateSuggestions(fromTyping)
     end
 end
 
+local typingId = 0
+
 h:GetPropertyChangedSignal("Text"):Connect(function()
+    typingId += 1
+    local currentId = typingId
+
     task.wait(0.1)
-    if not h or not h.Parent then return end
-    UpdateSuggestions(true)
+
+    if currentId ~= typingId then
+        return
+    end
+
+    if h and h.Parent then
+        UpdateSuggestions(true)
+    end
 end)
 
 prevButton.MouseButton1Click:Connect(function()
@@ -473,8 +506,8 @@ nextButton.MouseButton1Click:Connect(function()
     end
 end)
 
-spawn(function()
-    while not loaded do wait(0.1) end
+task.spawn(function()
+    while not loaded do task.wait(0.1) end
 
     statusLabel.Text = "Words Loaded Successfully!"
     statusLabel.TextColor3 = Color3.fromRGB(80,150,255)
@@ -498,11 +531,11 @@ spawn(function()
     notify("Word Finder V3.25 is now active! All words work on Pro Server.")
     wait(0.1)
     notify("Updated Dictionary By Quavix.")
-    wait(0.1)
+    task.wait(0.1)
     notify("Script Privated!")
-    wait(5)
+    task.wait(5)
     notify("Dictionary had been Updated But NOT FULLY ACCURATE! (Updated 10)")
-    wait(10)
+    task.wait(10)
 
     statusLabel.Visible = false
 
@@ -511,33 +544,51 @@ spawn(function()
     end
 end)
 
-local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 
-local function detectPrefix()
-    for _, obj in ipairs(PlayerGui:GetDescendants()) do
-        if obj.Name == "CurrentWord" then
-            local letters = {}
+local currentWordGui = nil
 
-            for _, child in ipairs(obj:GetChildren()) do
-                if child and child:IsA("GuiObject") and child.Visible then
-                    local letterLabel = child:FindFirstChild("Letter")
-                    if letterLabel and letterLabel:IsA("TextLabel") then
-                        table.insert(letters, {letterLabel.Text, child.AbsolutePosition.X})
-                    end
+task.spawn(function()
+    while not currentWordGui do
+        currentWordGui = PlayerGui:FindFirstChild("CurrentWord", true)
+        task.wait(1)
+    end
+end)
+
+local function detectPrefix()
+    if currentWordGui and currentWordGui.Parent then
+        local obj = currentWordGui
+        local letters = {}
+
+        for _, child in ipairs(obj:GetChildren()) do
+            if child and child:IsA("GuiObject") and child.Visible then
+                local letterLabel = child:FindFirstChild("Letter")
+
+                if letterLabel and letterLabel:IsA("TextLabel") then
+                    table.insert(letters, {
+                        letterLabel.Text,
+                        child.AbsolutePosition.X
+                    })
                 end
             end
-
-            table.sort(letters, function(a, b) return a[2] < b[2] end)
-
-            local result = ""
-            for i = 1, #letters do
-                result = result .. letters[i][1]
-            end
-
-            return string.lower(result)
         end
+
+        table.sort(letters, function(a, b)
+            return a[2] < b[2]
+        end)
+
+        local result = ""
+
+        for i = 1, #letters do
+            result = result .. letters[i][1]
+        end
+
+        return string.lower(result)
+    end
+
+    if not currentWordGui or not currentWordGui.Parent then
+        currentWordGui = PlayerGui:FindFirstChild("CurrentWord", true)
     end
 
     return ""
