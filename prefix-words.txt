@@ -5739,6 +5739,7 @@ dodonaena
 dodonian
 dodos
 doeglic
+doenjang-guk
 doers
 dofunny
 dogal
@@ -5791,6 +5792,7 @@ donepezils
 donet
 donga
 dongles
+dongon
 donjons
 donko
 donkos
@@ -5996,6 +5998,7 @@ duncish
 duncishly
 dungan
 dungeoned
+dungon
 dunkadoo
 dunnage
 dunnier
@@ -17624,6 +17627,7 @@ shilluk
 shillyshallyer
 shimmies
 shingles
+shingon
 shinier
 shinny
 shinola
@@ -20313,6 +20317,7 @@ tsuki
 tsukimi
 tsurugi
 tswana
+tteokguk
 tubaron
 tubatoxin
 tubectomies
@@ -21830,6 +21835,7 @@ yakka
 yaksha
 yamanai
 yamun
+yangon
 yankeedom
 yaply
 yaquina
