@@ -282,6 +282,7 @@ dictyosteles
 dipolar
 diyas
 djerib
+doenjang-guk
 donegals
 dothideacea
 douanier
@@ -793,6 +794,7 @@ sheenier
 sheepsplit
 shikimi
 shinier
+shoji
 sidesplit
 signage
 sikimi
@@ -916,6 +918,7 @@ tronage
 trousseaux
 trumeaux
 tsukimi
+tteokguk
 tubicolar
 tunier
 tunnage
