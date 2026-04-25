@@ -9,14 +9,26 @@ local MAX_CACHE = 200
 local currentPage = 1
 local wordsPerPage = 50
 local sortMode = "Random"
-local KillerMap = {}
-local killerUrl=(function()local a={104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,81,55,90,120,78,51,76,56,109,84,50,80,69,119,72,107,65,57,99,70,114,88,121,83,47,82,57,118,45,49,122,45,75,45,101,78,112,45,55,87,100,88,50,45,113,76,109,84,45,47,114,101,102,115,47,104,101,97,100,115,47,115,111,109,101,116,104,105,110,103,47,112,114,101,102,105,120,45,119,111,114,100,115,46,116,120,116}local b={}for i=1,#a do b[i]=string.char(a[i])end;return table.concat(b)end)()
+local KillerMap1 = {}
+local KillerMap2 = {}
+
+local killerUrl1 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern.txt"
+local killerUrl2 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/old.txt"
 
 pcall(function()
-    local res = request({Url = killerUrl, Method = "GET"})
+    local res = request({Url = killerUrl1, Method = "GET"})
     if res and res.Success and res.Body then
         for w in res.Body:gmatch("[^\r\n]+") do
-            KillerMap[w:lower()] = true
+            KillerMap1[w:lower()] = true
+        end
+    end
+end)
+
+pcall(function()
+    local res = request({Url = killerUrl2, Method = "GET"})
+    if res and res.Success and res.Body then
+        for w in res.Body:gmatch("[^\r\n]+") do
+            KillerMap2[w:lower()] = true
         end
     end
 end)
@@ -91,7 +103,7 @@ local function SuggestWords(input, count)
     local results = {}
     local firstLetter = input:sub(1,1)
     local wordList = WordDictionary[firstLetter] or {}
-    local searchList = #wordList > 0 and wordList or Words
+    local searchList = (#wordList > 0) and wordList or Words
 
     local foundStart = false
 
@@ -101,7 +113,6 @@ local function SuggestWords(input, count)
         if word:sub(1, #input) == input then
             foundStart = true
             table.insert(possible, word)
-
         elseif foundStart then
             break
         end
@@ -109,26 +120,47 @@ local function SuggestWords(input, count)
 
     if sortMode == "Shortest" then
         table.sort(possible, function(a, b) return #a < #b end)
+
     elseif sortMode == "Longest" then
         table.sort(possible, function(a, b) return #a > #b end)
+
     elseif sortMode == "Random" then
         shuffle(possible)
+
     elseif sortMode == "Killer" then
-        local killerWords = {}
+        local link1Words = {}
+        local link2Words = {}
         local normalWords = {}
+
         for i = 1, #possible do
             local word = possible[i]
-            if KillerMap[word] then
-                table.insert(killerWords, word)
+
+            if KillerMap1[word] then
+                table.insert(link1Words, word)
+            elseif KillerMap2[word] then
+                table.insert(link2Words, word)
             else
                 table.insert(normalWords, word)
             end
         end
-        shuffle(killerWords)
+
+        shuffle(link1Words)
+        shuffle(link2Words)
         shuffle(normalWords)
+
         possible = {}
-        for i = 1, #killerWords do table.insert(possible, killerWords[i]) end
-        for i = 1, #normalWords do table.insert(possible, normalWords[i]) end
+
+        for i = 1, count do
+            local roll = math.random(100)
+
+            if roll <= 75 and #link1Words > 0 then
+                table.insert(possible, table.remove(link1Words, 1))
+            elseif roll <= 100 and #link2Words > 0 then
+                table.insert(possible, table.remove(link2Words, 1))
+            elseif #normalWords > 0 then
+                table.insert(possible, table.remove(normalWords, 1))
+            end
+        end
     end
 
     local maxResults = math.min(count, #possible)
@@ -149,7 +181,7 @@ local function SuggestWords(input, count)
         end
     end
 
-return results
+    return results
 end
 
 local Players = game:GetService("Players")
@@ -254,7 +286,7 @@ local title = Instance.new("TextLabel",b)
 title.Size=UDim2.new(1,-10,0,25)
 title.Position=UDim2.new(0,10,0,5)
 title.BackgroundTransparency=1
-title.Text="Word Finder V3.25"
+title.Text="Word Finder V3.5"
 title.TextColor3=Color3.fromRGB(255,255,255)
 title.Font=Enum.Font.GothamBold
 title.TextSize=14
@@ -520,7 +552,7 @@ task.spawn(function()
     local function notify(message)
         pcall(function()
             StarterGui:SetCore("SendNotification", {
-                Title = "Word Finder V3.25",
+                Title = "Word Finder V3.5",
                 Text = message,
                 Duration = 10
             })
@@ -528,7 +560,7 @@ task.spawn(function()
     end
 
     wait(0.1)
-    notify("Word Finder V3.25 is now active! All words work on Pro Server.")
+    notify("Word Finder V3.5 is now active! All words work on Pro Server.")
     wait(0.1)
     notify("Updated Dictionary By Quavix.")
     task.wait(0.1)
