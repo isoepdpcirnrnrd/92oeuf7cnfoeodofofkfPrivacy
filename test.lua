@@ -151,14 +151,17 @@ local function SuggestWords(input, count)
         possible = {}
 
         for i = 1, count do
-            local roll = math.random(100)
+            if #link1Words > 0 then
+                table.insert(possible, table.remove(link1Words))
 
-            if roll <= 75 and #link1Words > 0 then
-                table.insert(possible, table.remove(link1Words, 1))
-            elseif roll <= 100 and #link2Words > 0 then
-                table.insert(possible, table.remove(link2Words, 1))
+            elseif #link2Words > 0 and math.random(100) <= 50 then
+                table.insert(possible, table.remove(link2Words))
+
             elseif #normalWords > 0 then
-                table.insert(possible, table.remove(normalWords, 1))
+                table.insert(possible, table.remove(normalWords))
+
+            elseif #link2Words > 0 then
+                table.insert(possible, table.remove(link2Words))
             end
         end
     end
