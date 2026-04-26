@@ -82,6 +82,7 @@ azotetrazole
 azoxazole
 backsplit
 badinage
+bakkwa
 balikbayan
 bandariyas
 bandeaux
@@ -599,6 +600,7 @@ nurserymaids
 nyanja
 nymphonacea
 obex
+obj
 octopolar
 oenanthaldehyde
 omnifidel
@@ -835,6 +837,7 @@ strophomenacea
 subareolar
 subbureaux
 subdrainage
+subj
 submytilacea
 subnuvolar
 subparty
@@ -989,6 +992,7 @@ weenier
 wennier
 whinier
 whinnier
+windjam
 windslabs
 winier
 womplit

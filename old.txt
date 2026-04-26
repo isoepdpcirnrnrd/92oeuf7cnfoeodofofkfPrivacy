@@ -73,7 +73,6 @@ accend
 accentual
 accept
 accessioned
-acciaccaturas
 accidentals
 accidentary
 accidia
@@ -81,7 +80,6 @@ acclimatiser
 acclimatize
 accoils
 accompany
-accordaturas
 accosts
 accouche
 accoucheuse
@@ -306,7 +304,6 @@ affixal
 affixion
 affluxion
 affogato
-affogatos
 afforce
 aficionadas
 aficionado
@@ -645,7 +642,6 @@ amniotomies
 amobarbitals
 amoks
 amokura
-amokuras
 amomal
 amooves
 amorce
@@ -804,7 +800,6 @@ anglicism
 anglophiles
 anglophils
 angolan
-angosturas
 angoumian
 angustia
 anhydroxime
@@ -812,7 +807,6 @@ anilidoxime
 anils
 animalcula
 animatist
-animatos
 animo
 aniridia
 anisaldoxime
@@ -1138,7 +1132,6 @@ appertinent
 appetiser
 appetize
 applesauce
-appoggiaturas
 appomatox
 apportioned
 appraise
@@ -1308,7 +1301,6 @@ arowana
 arrectary
 arrhenatherum
 arribadas
-arricciatos
 arrivederla
 arriver
 arrivisme
@@ -1438,7 +1430,6 @@ astronomies
 astrophels
 astrospectroscopic
 astrospherecentrosomic
-asuras
 aswithe
 aswooned
 asyle
@@ -1532,7 +1523,6 @@ aumails
 aumakua
 aumils
 auntish
-auras
 aureola
 auricles
 auricula
@@ -1617,9 +1607,7 @@ avowals
 avys
 awabi
 awaredom
-awatos
 awesomesauce
-awhatos
 awhirl
 awoken
 axal
@@ -1727,7 +1715,6 @@ bajoire
 bajonado
 bakatan
 bakehouse
-bakkwa
 baktun
 balaena
 balak
@@ -1788,7 +1775,6 @@ bandidos
 bandikai
 bandolero
 bandon
-banduras
 bandwagoned
 bangladeshi
 bangles
@@ -2410,7 +2396,6 @@ bongar
 bonhomies
 bonhomme
 bonhommies
-boniatos
 bonitary
 bonne
 bononian
@@ -2564,7 +2549,6 @@ brattish
 brauronian
 bravado
 bravadoed
-bravuras
 brawl
 braye
 brayera
@@ -2743,7 +2727,6 @@ bunya
 buoyant
 buprestidan
 buprestis
-buras
 burbots
 bureaucratist
 bureaucratize
@@ -2845,7 +2828,6 @@ caecocolic
 caedmonian
 caelum
 caenolestes
-caesuras
 cafenet
 cafetoria
 cagots
@@ -3064,7 +3046,6 @@ carhouse
 cariama
 cariamae
 caribal
-caricaturas
 carilloned
 carillons
 carina
@@ -3121,7 +3102,6 @@ caryocar
 caryota
 casal
 cascado
-cascaduras
 cascaron
 caseinogen
 casern
@@ -3149,7 +3129,6 @@ castellany
 castellar
 castes
 casthouse
-castratos
 casual
 casuarina
 casuarinas
@@ -3323,7 +3302,6 @@ cervisia
 cestida
 cestraciont
 cestui
-cesuras
 cetacean
 cetes
 cetonian
@@ -4028,7 +4006,6 @@ colons
 colopexia
 colophonian
 coloquintida
-coloraturas
 coloriser
 colosso
 colostomies
@@ -4126,7 +4103,6 @@ conceptacles
 concepti
 conceptual
 conceptualiser
-concertatos
 concertgoers
 concertinaing
 concertinas
@@ -4860,9 +4836,7 @@ datakit
 datals
 datary
 datiscosid
-datos
 datum
-daturas
 daubreeite
 daubreite
 dauntoned
@@ -5647,7 +5621,6 @@ douche
 doughfoots
 doughtily
 douper
-douras
 douse
 dovecots
 dovehouse
@@ -5803,7 +5776,6 @@ duply
 duppa
 durag
 duraquara
-duras
 durdums
 durra
 durukuli
@@ -6126,7 +6098,6 @@ endonyms
 endoparasitica
 endophragm
 endoplasma
-endopleuras
 endopod
 endoproct
 endoscopic
@@ -7096,7 +7067,6 @@ fortitude
 fortranh
 fortuitist
 forwastes
-forzatos
 fossette
 fossils
 fossoria
@@ -7227,7 +7197,6 @@ fucoid
 fuerte
 fugal
 fugato
-fugatos
 fughette
 fugles
 fulfils
@@ -7460,7 +7429,6 @@ geira
 geitonogamies
 geladas
 gelatiniser
-gelatos
 gelee
 gemel
 gemfibrozils
@@ -7751,7 +7719,6 @@ goosefoots
 goosehouse
 gooseliver
 goosishly
-gopuras
 goramies
 gorblimies
 gorce
@@ -7772,7 +7739,6 @@ goujons
 goularo
 goumier
 gouramies
-gouras
 gourinae
 goutily
 goutish
@@ -8627,7 +8593,6 @@ homotopic
 homovanillic
 homuncles
 honduranian
-honduras
 honed
 honeymooned
 honeypots
@@ -9071,7 +9036,6 @@ impubic
 impunctual
 impundulu
 impune
-inamoratos
 inappertinent
 inapropos
 inapt
@@ -9488,7 +9452,6 @@ jarina
 jarinas
 jason
 jateorhizin
-jatos
 jauntily
 javelinas
 javelot
@@ -9534,7 +9497,6 @@ jetfoils
 jethronian
 jetsam
 jetson
-jettaturas
 jettisoned
 jeune
 jewel
@@ -9735,7 +9697,6 @@ katinka
 katrina
 katrinka
 katsinas
-katsuras
 katsus
 katun
 katydids
@@ -9944,7 +9905,6 @@ kotukutuku
 kotwals
 koumis
 koupreys
-kouras
 kovil
 kowhais
 kowhaiwhais
@@ -10151,7 +10111,6 @@ laughed
 laulau
 launderette
 laundrette
-lauras
 laurel
 laurie
 laury
@@ -10197,7 +10156,6 @@ legantinelegatary
 legatary
 legati
 legato
-legatos
 legendary
 legioned
 legitimatist
@@ -10404,7 +10362,6 @@ lisks
 listicles
 literaliser
 literatist
-literatos
 lithe
 lithi
 lithochromic
@@ -10641,7 +10598,6 @@ macadamiser
 macaron
 macaronicism
 maccheroncini
-macchiatos
 macedon
 macedonian
 maceranduba
@@ -10726,7 +10682,6 @@ mahometan
 mahri
 mahua
 mahwa
-maiasauras
 maidan
 maieutic
 maihems
@@ -10874,7 +10829,6 @@ marathi
 marathonian
 maratist
 maravedis
-marcatos
 marcello
 marcionitish
 margarodinae
@@ -10909,7 +10863,6 @@ marsdenia
 marseillaise
 marshmallowier
 marshmallowy
-martellatos
 martello
 marteniko
 martinet
@@ -11541,7 +11494,6 @@ modems
 modenas
 moderantist
 moderatist
-moderatos
 moderniser
 modif
 modioli
@@ -11743,7 +11695,6 @@ mortiser
 morula
 morw
 mosaicism
-moscatos
 moschinae
 mosette
 moshavim
@@ -11868,7 +11819,6 @@ munjeet
 munychian
 muraena
 muraenas
-muras
 murenas
 murgeoned
 muricoid
@@ -12286,7 +12236,6 @@ noisette
 nomad
 nomadic
 nombrils
-nomenklaturas
 nomic
 nomoi
 nomothetes
@@ -12568,7 +12517,6 @@ obadiah
 obbies
 obbligati
 obbligato
-obbligatos
 obdiplostemony
 obeliscoid
 obelisks
@@ -12579,7 +12527,6 @@ obitual
 objectize
 obligati
 obligato
-obligatos
 obligatum
 obligor
 oblongatae
@@ -12588,7 +12535,6 @@ obomegoid
 obrazil
 obscuranticism
 obscurantist
-obscuras
 observantist
 observe
 obsolesc
@@ -12758,7 +12704,6 @@ ophidia
 ophioninae
 ophir
 ophiura
-ophiuras
 ophthalmiac
 ophthalmopod
 ophthalmorrhagia
@@ -12912,7 +12857,6 @@ osteophagia
 osteotomies
 ostertagia
 ostia
-ostinatos
 ostomies
 ostracean
 ostraciser
@@ -13311,7 +13255,6 @@ pandectist
 pandemian
 pandemonian
 pandorina
-panduras
 panforte
 pangamies
 pangrammatist
@@ -13501,9 +13444,7 @@ parthian
 particles
 particulariser
 partitioned
-partituras
 partygoers
-paruras
 parvitude
 pasan
 pascual
@@ -14243,7 +14184,6 @@ pituitary
 pivots
 pixie
 pizzaioli
-pizzicatos
 placean
 placentals
 placentary
@@ -14325,7 +14265,6 @@ plerocercoid
 plerophoria
 plesh
 pleughed
-pleuras
 pleurocapsa
 pleurocarpi
 pleurospasm
@@ -15306,7 +15245,6 @@ puritandom
 purlhouse
 purlieuman
 purplelip
-purpuras
 pursual
 pursuits
 purveyal
@@ -15495,7 +15433,6 @@ quokka
 quomodos
 quotha
 quyte
-rabatos
 rabbi
 rabbies
 rabbindom
@@ -15607,7 +15544,6 @@ rationalisticism
 rationed
 ratlin
 ratooned
-ratos
 rattails
 rattery
 rattily
@@ -15656,7 +15592,6 @@ reavails
 reawoken
 rebandage
 rebaptize
-rebatos
 rebecca
 rebekah
 reboils
@@ -16227,7 +16162,6 @@ rowy
 roxie
 roystonea
 rubaboo
-rubatos
 rubbaboo
 rubbies
 rubbishly
@@ -16383,7 +16317,6 @@ salsaing
 saltarello
 saltary
 saltatoria
-saltatos
 saltcellar
 saltery
 salthouse
@@ -16679,7 +16612,6 @@ scopic
 scorbutic
 scorbutize
 scorce
-scordaturas
 scoria
 scorpaena
 scorzonera
@@ -16990,8 +16922,6 @@ sextiles
 sextodecimo
 sextuply
 sfogato
-sforzatos
-sfumatos
 sgabello
 sgraffiti
 sgraffito
@@ -17144,7 +17074,6 @@ shriver
 shroves
 shtreimel
 shuler
-shuras
 shurikenjutsu
 shute
 shutoku
@@ -17680,7 +17609,6 @@ sphingurinae
 sphinxian
 sphyraena
 spicas
-spiccatos
 spicehouse
 spicery
 spicula
@@ -17828,7 +17756,6 @@ stabiles
 stabiliser
 stacationed
 staccado
-staccatos
 stacte
 stadda
 stadhouse
@@ -17955,10 +17882,8 @@ stewhouse
 stewier
 stewpots
 sthenia
-stiacciatos
 stibic
 sticcado
-sticcatos
 stichado
 stichidia
 stickles
@@ -18386,7 +18311,6 @@ supratonsillar
 supremacism
 suprematist
 surahi
-suras
 surbahar
 surcingles
 surette
@@ -18677,10 +18601,8 @@ tambaroora
 tambo
 tambor
 tambouki
-tambouras
 tambourinade
 tambuki
-tamburas
 tamburello
 tamed
 tammies
@@ -18746,7 +18668,6 @@ tariric
 tarlatan
 tarletan
 tarogato
-tarogatos
 taros
 tarots
 tarsipedinae
@@ -18864,7 +18785,6 @@ temblor
 temporiser
 temporocerebellar
 tempre
-tempuras
 tems
 tenacula
 tenaillons
@@ -18928,7 +18848,6 @@ tesla
 tessellar
 tesseract
 tesseratomic
-tessituras
 testacean
 testamentary
 testamurs
@@ -19000,7 +18919,6 @@ thalwegs
 thamnophilinae
 thanatist
 thanatophidia
-thanatos
 thanedom
 thanksgiver
 tharf
@@ -19230,7 +19148,6 @@ tissual
 titanian
 titar
 titarakura
-titarakuras
 tithe
 titledom
 titmarshian
@@ -20539,7 +20456,6 @@ veigle
 veilleuse
 veils
 velar
-velaturas
 veldschoenen
 veldskoen
 vellons
@@ -20619,14 +20535,12 @@ vestmentary
 vetiver
 vetkoek
 vetoers
-vetturas
 vexillar
 vexils
 viasma
 viatica
 vibracula
 vibratiuncles
-vibratos
 vibrissa
 vibroscopic
 vicarii
@@ -20659,7 +20573,6 @@ villanette
 villanovan
 villany
 villar
-villeggiaturas
 villein
 vinaigrette
 vinas
@@ -20997,7 +20910,6 @@ wimpishly
 winceyette
 winceys
 windage
-windjam
 windowier
 windowy
 windsails
