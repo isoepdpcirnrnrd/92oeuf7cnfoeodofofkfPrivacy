@@ -35,7 +35,6 @@ anisodactyla
 anisomeles
 anomiacea
 anopheles
-antifungals
 antiparty
 antipolar
 antisolar
@@ -50,7 +49,6 @@ appennage
 apteryla
 arcacea
 areolar
-argals
 aripiprazole
 arrayan
 arteriolar
@@ -58,7 +56,6 @@ artiodactyla
 arty
 arty-farty
 ascidiacea
-astragals
 asyla
 ateles
 aulnage
@@ -84,15 +81,14 @@ barbicanage
 barmaids
 barnage
 barnier
-baruya
 baronage
+baruya
 basialveolar
 batonnier
 beaconage
 beanier
 beguinage
 bembex
-bengals
 benzazole
 benzbitriazole
 benzimidazole
@@ -165,10 +161,10 @@ cartoonier
 carty
 cathayan
 caveolar
+cedre
 cendol
 centenier
 centimolar
-centrifugals
 cephaloceles
 cetacea
 chaenomeles
@@ -246,11 +242,11 @@ denier
 dernier
 diazole
 dictyosteles
+diedre
 dipolar
 diyas
 djerib
 doenjang-guk
-donegals
 dothideacea
 douanier
 douzainier
@@ -309,7 +305,6 @@ freinage
 fretsaw
 frownier
 fujoshi
-fungals
 funnier
 furnage
 furodiazole
@@ -319,15 +314,12 @@ gadroonage
 gaids
 gainage
 galabiyas
-galangals
 gallabiyas
 gallonage
-gals
 ganja
 garrotxa
 genii
 geopolar
-gingals
 ginnier
 girnier
 gladiolar
@@ -350,7 +342,6 @@ gunnage
 haematoceles
 hamsa
 handmaids
-harigals
 havenage
 hawthornier
 hearty
@@ -374,7 +365,6 @@ hydroceles
 hyla
 hymenicolar
 ibex
-illegals
 imidazole
 iminazole
 indazole
@@ -407,9 +397,7 @@ jargonier
 jelabs
 jennier
 jerib
-jingals
 joshi
-jugals
 jumhouriyas
 kabeles
 kadayan
@@ -425,7 +413,6 @@ kittenier
 kiyas
 knaidel
 kneidel
-kogals
 labioalveolar
 lablabs
 labs
@@ -438,11 +425,9 @@ lanier
 lansoprazole
 larnier
 larvacea
-laryngals
 latanier
 latticinii
 lawnier
-legals
 lemonier
 lernaeacea
 letrozole
@@ -463,15 +448,12 @@ lunisolar
 lynage
 macrophyla
 madreporacea
-madrigals
 magazinage
 maids
 malayan
 malleolar
 manage
-mangals
 manganja
-martingals
 marty
 matindol
 matrimonii
@@ -491,7 +473,6 @@ micromanage
 micromolar
 microparty
 milkmaids
-milligals
 millimolar
 mimamsa
 minier
@@ -510,6 +491,7 @@ moonier
 moonshinier
 moulinage
 mountainier
+mourvedre
 multinucleolar
 multiparty
 multipolar
@@ -580,7 +562,6 @@ papayan
 papicolar
 paraffinier
 paraguayan
-paralegals
 paranja
 parlourmaids
 parsonage
@@ -595,14 +576,12 @@ pentadactyla
 peonage
 peppercornier
 perameles
-peregals
 peribronchiolar
 periosteoalveolar
 peripolar
 perissodactyla
 personage
 petiolar
-pharyngals
 pholadacea
 phonier
 phthalylsulfathiazole
@@ -617,7 +596,6 @@ plenarty
 polar
 polynucleolar
 pondok
-pongals
 ponier
 pontonier
 pontonnier
@@ -637,7 +615,6 @@ pretannage
 priapulacea
 printanier
 prionodesmacea
-prodigals
 propatronage
 propyla
 proteles
@@ -653,7 +630,6 @@ punier
 punnage
 punnier
 purparty
-pygals
 pyla
 pyrazole
 pyrrodiazole
@@ -670,7 +646,6 @@ rayan
 recoinage
 rectoceles
 refinage
-regals
 reles
 remanage
 resinier
@@ -745,7 +720,6 @@ spleninii
 split
 splitsaw
 spoonier
-springals
 squarsonage
 squinnier
 starty
@@ -893,8 +867,6 @@ wagonage
 wainage
 wanier
 warnage
-warragals
-warrigals
 warty
 weenier
 wennier
