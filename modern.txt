@@ -1,6 +1,4 @@
 abeles
-aboideaux
-aboiteaux
 abraids
 abthanage
 accompanier
@@ -10,7 +8,6 @@ affinage
 after-party
 afterparty
 aglipayan
-agneaux
 aids
 albacea
 alcyonacea
@@ -80,7 +77,6 @@ badinage
 bakkwa
 balikbayan
 bandariyas
-bandeaux
 banjoleles
 banjuleles
 bantayan
@@ -88,14 +84,12 @@ barbicanage
 barmaids
 barnage
 barnier
+baruya
 baronage
 basialveolar
-bateaux
 batonnier
-batteaux
 beaconage
 beanier
-beaux
 beguinage
 bembex
 bengals
@@ -109,7 +103,6 @@ benzotetrazole
 benzothiazole
 benzothiodiazole
 benzotriazole
-berceaux
 bertillonage
 besognier
 besplit
@@ -125,13 +118,10 @@ bistriazole
 blabs
 blastocoeles
 boffinier
-boisseaux
 bolar
 bondmaids
 bonier
 bonnier
-bordeaux
-bordereaux
 boyla
 braids
 brainier
@@ -148,10 +138,8 @@ bronchoalveolar
 brownier
 bubonoceles
 buccanier
-bureaux
 buttonier
 cabotinage
-cadeaux
 cagayan
 caids
 cairnier
@@ -159,7 +147,6 @@ canier
 cannier
 cannonier
 cantinier
-capiteaux
 caponier
 capreolar
 carabinier
@@ -186,17 +173,13 @@ cephaloceles
 cetacea
 chaenomeles
 chainage
-chalumeaux
 chamacea
 chambermaids
 chansonnier
-chapeaux
 chaperonage
 charbonnier
 charterparty
-chateaux
 chendol
-cheneaux
 chenier
 chiffonier
 chiffonnier
@@ -206,7 +189,6 @@ ciceronage
 cinnamonier
 circumpolar
 circumsolar
-ciseaux
 clarty
 clienteles
 cloisonnage
@@ -227,7 +209,6 @@ cornage
 cornbraids
 cornier
 cosinage
-coteaux
 cotonier
 cottonier
 cotyla
@@ -235,11 +216,9 @@ counterespionage
 counterparty
 counterraids
 cousinage
-couteaux
 cozenage
 cranage
 crannage
-cristineaux
 croonier
 crustacea
 ctenii
@@ -285,7 +264,6 @@ dronier
 dunnage
 dunnier
 dylan
-eaux
 echinacea
 efinaconazole
 ekpweles
@@ -324,13 +302,11 @@ fideles
 finnier
 fistmeles
 flabs
-flambeaux
 forerib
 fourdrinier
 foveolar
 freinage
 fretsaw
-fricandeaux
 frownier
 fujoshi
 fungals
@@ -349,8 +325,6 @@ gallonage
 gals
 ganja
 garrotxa
-gaspereaux
-gateaux
 genii
 geopolar
 gingals
@@ -428,7 +402,6 @@ isoteles
 isoxazole
 izvestiyas
 jamahiriyas
-jambeaux
 jambiyas
 jargonier
 jelabs
@@ -452,7 +425,6 @@ kittenier
 kiyas
 knaidel
 kneidel
-knisteneaux
 kogals
 labioalveolar
 lablabs
@@ -499,8 +471,6 @@ malleolar
 manage
 mangals
 manganja
-mantappeaux
-manteaux
 martingals
 marty
 matindol
@@ -538,7 +508,6 @@ monosteles
 monoxyla
 moonier
 moonshinier
-morceaux
 moulinage
 mountainier
 multinucleolar
@@ -567,7 +536,6 @@ nonscholar
 nonsiphonage
 nonsolar
 nounier
-nouveaux
 nucleolar
 nuculacea
 nursemaids
@@ -644,12 +612,10 @@ pinnage
 pitsaw
 plaids
 plandok
-plateaux
 plebicolar
 plenarty
 polar
 polynucleolar
-ponceaux
 pondok
 pongals
 ponier
@@ -657,7 +623,6 @@ pontonier
 pontonnier
 porcupinier
 pornier
-portmanteaux
 postalveolar
 postrubeolar
 pourparty
@@ -698,7 +663,6 @@ qiyas
 quadripolar
 queenier
 racinage
-radeaux
 raids
 rainier
 raisinier
@@ -709,7 +673,6 @@ refinage
 regals
 reles
 remanage
-reseaux
 resinier
 resplit
 retroalveolar
@@ -717,21 +680,17 @@ rhabdocoeles
 rhanja
 rhynchonellacea
 ribbonier
-rinceaux
-rondeaux
 ronier
 rosacea
 roseolar
 roshi
 rosinier
-rouleaux
 rubeolar
 ruffianage
 runnier
 saffronier
 saids
 salmonier
-salteaux
 sapeles
 satinier
 satoshi
@@ -798,7 +757,6 @@ stonage
 stonier
 strophomenacea
 subareolar
-subbureaux
 subdrainage
 subj
 submytilacea
@@ -829,7 +787,6 @@ swoonier
 symphyla
 symphylan
 syphonage
-tableaux
 tamponage
 tanaidacea
 tanier
@@ -864,8 +821,6 @@ tokoloshi
 tolar
 tonier
 tonnage
-tonneaux
-torteaux
 townier
 tracheolar
 trainage
@@ -875,8 +830,6 @@ tripolar
 trisceles
 triskeles
 tronage
-trousseaux
-trumeaux
 tsukimi
 tteokguk
 tubicolar
