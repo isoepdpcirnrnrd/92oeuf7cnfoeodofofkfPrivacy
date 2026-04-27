@@ -61,6 +61,7 @@ ateles
 aulnage
 autodrainage
 autopolar
+autumn
 autumnier
 avenage
 awnier
@@ -192,6 +193,7 @@ clownage
 clypeolar
 coinage
 collabs
+column
 comanage
 commonage
 companage
@@ -238,6 +240,7 @@ decimolar
 decipolar
 deles
 demicaponier
+demicolumn
 denier
 dernier
 diazole
@@ -247,6 +250,7 @@ dipolar
 diyas
 djerib
 doenjang-guk
+dorsicolumn
 dothideacea
 douanier
 douzainier
@@ -270,6 +274,7 @@ embraids
 empennage
 enage
 encephaloceles
+encolumn
 engrenage
 ennage
 enteroceles
@@ -374,6 +379,7 @@ ingenier
 innage
 inqilabs
 interalveolar
+intercolumn
 intercommonage
 intermalleolar
 intermolar
@@ -472,6 +478,7 @@ metronidazole
 micromanage
 micromolar
 microparty
+midautumn
 milkmaids
 millimolar
 mimamsa
@@ -492,6 +499,7 @@ moonshinier
 moulinage
 mountainier
 mourvedre
+multicolumn
 multinucleolar
 multiparty
 multipolar
@@ -681,6 +689,7 @@ sedanier
 seidel
 seles
 semainier
+semicolumn
 semipolar
 senage
 sexipolar
@@ -833,6 +842,7 @@ unsolar
 unsplit
 unsunnier
 upbraids
+upcolumn
 uplit
 urazole
 urbex
