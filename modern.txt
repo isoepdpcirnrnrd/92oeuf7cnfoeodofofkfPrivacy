@@ -18,6 +18,7 @@ alnage
 alveolar
 ambipolar
 amenage
+amidakuji
 amidothiazole
 aminotriazole
 amylan
@@ -53,7 +54,6 @@ ateles
 aulnage
 autodrainage
 autopolar
-autumn
 autumnier
 avenage
 awnier
@@ -131,6 +131,7 @@ cabotinage
 cagayan
 caids
 cairnier
+campilan
 canier
 cannier
 cannonier
@@ -184,7 +185,6 @@ clownage
 clypeolar
 coinage
 collabs
-column
 comanage
 commonage
 companage
@@ -230,7 +230,6 @@ decimolar
 decipolar
 deles
 demicaponier
-demicolumn
 denier
 dernier
 diazole
@@ -240,7 +239,6 @@ dipolar
 diyas
 djerib
 doenjang-guk
-dorsicolumn
 dothideacea
 douanier
 douzainier
@@ -264,7 +262,6 @@ embraids
 empennage
 enage
 encephaloceles
-encolumn
 engrenage
 ennage
 enteroceles
@@ -339,6 +336,7 @@ hamsa
 handmaids
 havenage
 hawthornier
+he'd
 hearty
 heinz
 heles
@@ -368,7 +366,6 @@ ingenier
 innage
 inqilabs
 interalveolar
-intercolumn
 intercommonage
 intermalleolar
 intermolar
@@ -403,11 +400,13 @@ karoshi
 kayan
 kebeles
 kidel
+kilan
 kitchenmaids
 kittenier
 kiyas
 knaidel
 kneidel
+kokuji
 labioalveolar
 lablabs
 labs
@@ -466,7 +465,7 @@ metronidazole
 micromanage
 micromolar
 microparty
-midautumn
+milan
 milkmaids
 millimolar
 mimamsa
@@ -485,7 +484,6 @@ moonshinier
 moulinage
 mountainier
 mourvedre
-multicolumn
 multinucleolar
 multiparty
 multipolar
@@ -521,6 +519,7 @@ nymphonacea
 obex
 obj
 octopolar
+omikuji
 omnifidel
 onionier
 operceles
@@ -577,6 +576,7 @@ petiolar
 pholadacea
 phonier
 phthalylsulfathiazole
+piblokto
 pinier
 pinnage
 pitsaw
@@ -669,7 +669,6 @@ sedanier
 seidel
 seles
 semainier
-semicolumn
 semipolar
 senage
 sexipolar
@@ -818,7 +817,6 @@ unsolar
 unsplit
 unsunnier
 upbraids
-upcolumn
 uplit
 urazole
 urbex
