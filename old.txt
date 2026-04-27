@@ -1137,7 +1137,6 @@ appriser
 approachabl
 approves
 apraxia
-apraxic
 apricot
 apricots
 aproned
@@ -1436,10 +1435,8 @@ asystolic
 atabeg
 atacamenian
 ataraxia
-ataraxic
 atavi
 ataxia
-ataxic
 ataxinomic
 ataxonomic
 ateknia
@@ -3440,7 +3437,6 @@ chelydra
 chelydre
 chemasthenia
 chemicocautery
-chemiotaxic
 chemiotropic
 chemisette
 chemizo
@@ -5173,7 +5169,6 @@ diapsidan
 diaspidinae
 diaspinae
 diaspirin
-diastataxic
 diastems
 diastolic
 diastrophe
@@ -5786,10 +5781,8 @@ dysphoria
 dysphrenia
 dyspneas
 dyspraxia
-dyspraxic
 dysprosia
 dystaxia
-dystaxic
 dysthymiac
 dystomic
 dystopic
@@ -6257,7 +6250,6 @@ epistomian
 epistrophe
 epitaphian
 epitaphize
-epitaxic
 epithecal
 epitheliotoxin
 epithems
@@ -6458,7 +6450,6 @@ eustathian
 eusuchian
 eutaenia
 eutaxia
-eutaxic
 eutaxie
 eutexia
 euthanatize
@@ -8368,7 +8359,6 @@ heterophoria
 heteropod
 heterosyllabic
 heterotaxia
-heterotaxic
 heterothallic
 heterotopic
 heterotricha
@@ -8548,7 +8538,6 @@ homophyllic
 homoplasmies
 homopolic
 homotaxia
-homotaxic
 homothallic
 homothermies
 homotopic
@@ -8837,7 +8826,6 @@ hypostatize
 hyposthenia
 hypostrophe
 hypotaxia
-hypotaxic
 hypothecal
 hypothesiser
 hypothetist
@@ -11140,7 +11128,6 @@ metasedimentary
 metasomal
 metastrophe
 metatag
-metataxic
 metavanadic
 metaxenia
 metaxylems
@@ -13332,7 +13319,6 @@ parasuchian
 parasymbiont
 parasynaptist
 parataniwhas
-parataxic
 parathas
 parathyroidectomies
 paratonnerre
@@ -13936,7 +13922,6 @@ phyllosticta
 phyllostomatinae
 phyllostominae
 phyllostomus
-phyllotaxic
 phymosia
 physeterinae
 physharmonicas
@@ -14618,7 +14603,6 @@ prealgebra
 preallots
 preapproves
 preaptitude
-preataxic
 preatomic
 prebaptize
 prebasal
@@ -15016,7 +15000,6 @@ psammophiles
 psammophils
 pseud
 pseudarachnidan
-pseudataxic
 pseudhaemal
 pseudhemal
 pseudisodomic
@@ -17774,7 +17757,6 @@ stereomicroscopic
 stereoplasma
 stereoscopic
 stereotaxia
-stereotaxic
 stereotomic
 stereotomies
 stereotropic
@@ -18885,7 +18867,6 @@ thermopiles
 thermoremanent
 thermoscopic
 thermoset
-thermotaxic
 thermotropic
 thermovoltaic
 theropod
