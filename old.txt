@@ -6602,7 +6602,6 @@ fairnyticles
 faitery
 fakeer
 fakir
-falafel
 falanaka
 falcon
 falconet
@@ -6700,7 +6699,6 @@ feijoada
 feijoadas
 feint
 feistily
-felafel
 felinae
 fellic
 felons
@@ -9931,7 +9929,6 @@ lagorchestes
 lagostomus
 lagune
 lahar
-laich
 laicism
 laika
 laing
@@ -15252,7 +15249,6 @@ quadruman
 quadrupedan
 quadruply
 quaeritur
-quaich
 quails
 quaintish
 quakerishly
@@ -15638,7 +15634,6 @@ reinspire
 reinstals
 reishi
 reisner
-reistafel
 reiver
 rejuggles
 reknots
@@ -15919,8 +15914,6 @@ rigmarolic
 rigmarolishly
 rigolette
 rigor
-rijstafel
-rijsttafel
 rikishi
 riksha
 riles
@@ -16533,7 +16526,6 @@ scouse
 scoutish
 scovy
 scowp
-scraich
 scraighed
 scrambs
 scrapegut
@@ -17584,7 +17576,6 @@ spottily
 spouse
 sprachle
 sprackles
-spraich
 spraing
 sprangles
 sprauchle
@@ -18422,7 +18413,6 @@ tahinas
 tahona
 tahsils
 tahua
-taich
 taichi
 taigas
 taigle
