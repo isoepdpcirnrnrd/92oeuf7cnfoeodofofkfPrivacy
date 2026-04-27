@@ -175,6 +175,7 @@ chiffonnier
 chiminage
 chinnier
 ciceronage
+cichlid
 cinnamonier
 circumpolar
 circumsolar
@@ -651,6 +652,7 @@ rosinier
 rubeolar
 ruffianage
 runnier
+rushlit
 saffronier
 saids
 salmonier
@@ -779,6 +781,7 @@ tokoloshi
 tolar
 tonier
 tonnage
+torchlit
 townier
 tracheolar
 trainage
@@ -852,6 +855,7 @@ wainage
 wanier
 warnage
 warty
+we'd
 weenier
 wennier
 whinier

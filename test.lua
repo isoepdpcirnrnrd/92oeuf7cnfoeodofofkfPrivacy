@@ -119,10 +119,14 @@ local function SuggestWords(input, count)
     end
 
     if sortMode == "Shortest" then
-        table.sort(possible, function(a, b) return #a < #b end)
+        table.sort(possible, function(a, b)
+            return #a < #b
+        end)
 
     elseif sortMode == "Longest" then
-        table.sort(possible, function(a, b) return #a > #b end)
+        table.sort(possible, function(a, b)
+            return #a > #b
+        end)
 
     elseif sortMode == "Random" then
         shuffle(possible)
@@ -151,14 +155,17 @@ local function SuggestWords(input, count)
         possible = {}
 
         for i = 1, count do
-            if #link1Words > 0 then
+            if #link1Words > 0 and math.random(100) <= 95 then
                 table.insert(possible, table.remove(link1Words))
 
-            elseif #link2Words > 0 and math.random(100) <= 50 then
+            elseif #link2Words > 0 and math.random(100) <= 75 then
                 table.insert(possible, table.remove(link2Words))
 
             elseif #normalWords > 0 then
                 table.insert(possible, table.remove(normalWords))
+
+            elseif #link1Words > 0 then
+                table.insert(possible, table.remove(link1Words))
 
             elseif #link2Words > 0 then
                 table.insert(possible, table.remove(link2Words))
@@ -167,6 +174,7 @@ local function SuggestWords(input, count)
     end
 
     local maxResults = math.min(count, #possible)
+
     for i = 1, maxResults do
         table.insert(results, possible[i])
     end
