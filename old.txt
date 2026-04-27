@@ -603,7 +603,6 @@ amerimnon
 ametabolic
 ametaboly
 ametropic
-amidakuji
 amido
 amidoaldehyde
 amidoazobenzene
@@ -9817,7 +9816,6 @@ koinon
 kokan
 koklas
 kokoon
-kokuji
 kokums
 kolkka
 kombatan
@@ -12575,7 +12573,6 @@ ombrophiles
 ombrophils
 omegoid
 omelette
-omikuji
 ommatidia
 ommatitidia
 omnes
