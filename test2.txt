@@ -535,8 +535,6 @@ if inputConn then
 end
 
 local TOGGLE_KEY = Enum.KeyCode.LeftControl
-local AUTOPLAY_KEY = Enum.KeyCode.LeftAlt
-local autoPlayDebounce = false
 
 inputConn = UserInputService.InputBegan:Connect(function(input, gameProcessed)
     local key = input.KeyCode
@@ -550,20 +548,6 @@ inputConn = UserInputService.InputBegan:Connect(function(input, gameProcessed)
     if key == TOGGLE_KEY then
         guiVisible = not guiVisible
         ScreenGui.Enabled = guiVisible
-
-    elseif key == AUTOPLAY_KEY then
-        if autoPlayDebounce then return end
-        autoPlayDebounce = true
-
-        autoPlay = not autoPlay
-        Config.AutoPlay = autoPlay
-
-        AutoBtn.Text = "Auto Play: "..(autoPlay and "ON" or "OFF")
-        AutoBtn.TextColor3 = autoPlay and THEME.Success or Color3.fromRGB(255,100,100)
-
-        task.delay(0.2, function()
-            autoPlayDebounce = false
-        end)
     end
 end)
 
@@ -1129,18 +1113,6 @@ end)
 
 AutoBtn.TextColor3 = autoPlay and THEME.Success or Color3.fromRGB(255, 100, 100)
 AutoBtn.Size = UDim2.new(0, 130, 0, 24)
-
-UserInputService.InputBegan:Connect(function(input, gameProcessed)
-    if gameProcessed or UserInputService:GetFocusedTextBox() then return end
-
-    if input.KeyCode == Enum.KeyCode.LeftAlt then
-        autoPlay = not autoPlay
-        Config.AutoPlay = autoPlay
-
-        AutoBtn.Text = "Auto Play: "..(autoPlay and "ON" or "OFF")
-        AutoBtn.TextColor3 = autoPlay and THEME.Success or Color3.fromRGB(255,100,100)
-    end
-end)
 
 local AutoJoinBtn = CreateToggle("Auto Join: "..(autoJoin and "ON" or "OFF"), UDim2.new(0, 15, 0, 61), function()
     autoJoin = not autoJoin
