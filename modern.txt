@@ -28,6 +28,7 @@ anaspidacea
 anastrozole
 anatinacea
 aneles
+anepia
 angeles
 angolar
 anisomeles
@@ -299,11 +300,13 @@ esomeprazole
 espionage
 estafa
 euphausiacea
+euprepia
 eusteles
 extrapolar
 extrasolar
 facit
 falafel
+falanaka
 falsism
 fannier
 fasciolar
@@ -439,6 +442,7 @@ jumhouriyas
 kabeles
 kadayan
 kaids
+kanaka
 kandol
 kanteles
 karoshi
@@ -605,6 +609,7 @@ palatoalveolar
 palayan
 palfrenier
 panacea
+panaka
 panayan
 panier
 panini
@@ -750,6 +755,7 @@ semipolar
 senage
 sensism
 senusism
+sepia
 septi
 sexipolar
 sextipolar
@@ -841,6 +847,7 @@ tacit
 taich
 tamponage
 tanaidacea
+tanaka
 tanier
 tannage
 taqiyas
@@ -965,7 +972,3 @@ ymca
 zanier
 zanja
 zoanthacea
-falanaka
-kanaka
-panaka
-tanaka
