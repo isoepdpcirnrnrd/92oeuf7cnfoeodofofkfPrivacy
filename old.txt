@@ -550,7 +550,6 @@ alphabetiser
 alphabetist
 alphabetize
 alphecca
-alphonsism
 altaic
 alternativo
 alterum
@@ -1014,7 +1013,6 @@ antistatist
 antistes
 antistrophe
 antistrophize
-antithesism
 antitoxin
 antitropic
 antoinette
@@ -1538,7 +1536,6 @@ autist
 autoabstract
 autoallogamies
 autoantitoxin
-autobahn
 autobasidia
 autobasidiomycetes
 autocar
@@ -2435,7 +2432,6 @@ bosks
 bosnian
 bosomier
 boson
-bossism
 bossy
 bossyboots
 bostonian
@@ -2892,7 +2888,6 @@ cammies
 camomiles
 campanian
 campaniles
-campanini
 campanulatae
 campephagine
 campholic
@@ -3800,7 +3795,6 @@ claro
 claros
 clasp
 classicism
-classism
 clathrina
 clattery
 clausule
@@ -4085,7 +4079,6 @@ conceiver
 concentual
 concept
 conceptacles
-concepti
 conceptual
 conceptualiser
 concertgoers
@@ -5657,7 +5650,6 @@ dreint
 drekky
 drengh
 dressoir
-dreyfusism
 dreys
 drivels
 driver
@@ -6617,7 +6609,6 @@ fairnyticles
 faitery
 fakeer
 fakir
-falanaka
 falcon
 falconet
 falconinae
@@ -6626,7 +6617,6 @@ faldage
 falernian
 fallalishly
 falsettist
-falsism
 falunian
 falutin
 famed
@@ -7853,7 +7843,6 @@ grypanian
 guacacoa
 guacharos
 guacimo
-guadagnini
 guadeloupe
 guadua
 guahibo
@@ -8815,7 +8804,6 @@ hypodiatessaron
 hypoendocrisia
 hypogeiody
 hypohydrochloria
-hypohypophysism
 hypoionian
 hypolimnia
 hyponea
@@ -8827,7 +8815,6 @@ hypopetaly
 hypophoria
 hypophrenia
 hypophyll
-hypophypophysism
 hypophysectomies
 hypopituitary
 hypopneas
@@ -8884,7 +8871,6 @@ ichneutic
 ichnofossils
 ichthyobatrachian
 ichthyopsidan
-ichthyosism
 ichthyotoxin
 ichulle
 icicles
@@ -9055,7 +9041,6 @@ inflamed
 inflesh
 inflexion
 influxion
-infobahn
 inforce
 informatize
 infortitude
@@ -9364,7 +9349,6 @@ izzard
 jabot
 jabots
 jacconet
-jackassism
 jackboots
 jackety
 jackfruits
@@ -9610,7 +9594,6 @@ kamichi
 kamsin
 kanagawa
 kanagi
-kanaka
 kanara
 kangani
 kankanai
@@ -9837,7 +9820,6 @@ kombatan
 kommetje
 konaki
 konfyt
-konini
 konohiki
 kontakia
 koodoo
@@ -10410,7 +10392,6 @@ longinian
 longitude
 lonsdaleite
 loobies
-looksism
 lookup
 loope
 loots
@@ -10744,7 +10725,6 @@ mangroves
 mangwe
 manicotti
 manihots
-manini
 manioc
 manitou
 manjeet
@@ -11938,7 +11918,6 @@ naphthoresorcinol
 narciscissi
 narcism
 narcissi
-narcissism
 narcoticism
 narcotist
 narcotize
@@ -11989,7 +11968,6 @@ nebaliacea
 nebbishe
 nebuliser
 nebulon
-necessism
 necessitude
 necessitudo
 neckshots
@@ -12058,7 +12036,6 @@ nereite
 nereocystis
 neronian
 nerve
-nervosism
 neshly
 neskhi
 netes
@@ -12285,7 +12262,6 @@ nonmutual
 nonmyopic
 nonmysticism
 nonnarcism
-nonnarcissism
 nonnasal
 nonnattily
 nonnomad
@@ -12374,7 +12350,6 @@ normaliser
 normies
 nortenas
 nosethirl
-nosism
 nostrils
 notanduda
 notandums
@@ -13189,7 +13164,6 @@ panacean
 panadas
 panade
 panagia
-panaka
 panamanian
 panayano
 panbabylonian
@@ -13214,7 +13188,6 @@ pangwe
 panhematopenia
 panhuman
 panicles
-panini
 panionian
 panisic
 panisks
@@ -13376,7 +13349,6 @@ parkinsonian
 parlatoria
 parliamentary
 parnassiinae
-parnassism
 paroccipitals
 parochian
 parodos
@@ -13388,7 +13360,6 @@ parorexia
 parrotize
 parrots
 parsimony
-parsism
 parsondom
 parsoned
 parsonet
@@ -13709,7 +13680,6 @@ perseite
 perseitol
 persicot
 persicots
-persism
 persnickety
 personed
 perspex
@@ -14052,7 +14022,6 @@ pilliver
 pillowier
 pillowy
 pilon
-pilosism
 pilothouse
 pilots
 pilsner
@@ -14425,7 +14394,6 @@ polystellic
 polysulphid
 polysyllabic
 polysyllabicism
-polysynthesism
 polysyntheticism
 polysynthetize
 polythalamian
@@ -14878,7 +14846,6 @@ progestogen
 prognathi
 programed
 programmatist
-progressism
 prohuman
 prohydrotropic
 projectiles
@@ -16149,7 +16116,6 @@ ruritanian
 ruskinian
 rusks
 russetish
-russism
 rusticism
 rustily
 rutelinae
@@ -16766,13 +16732,11 @@ senonian
 senoufo
 sensibilitist
 sensibilitiy
-sensism
 sensitiser
 sensitize
 sensoria
 sensual
 sentimentaliser
-senusism
 seora
 separatist
 sephiric
@@ -16782,7 +16746,6 @@ septa
 septectomies
 septenarii
 septette
-septi
 septisyllabic
 septonasal
 septoria
@@ -17361,7 +17324,6 @@ solidum
 solidums
 solifluxion
 soliloquiser
-solipsism
 solitary
 solitude
 sollar
@@ -17407,7 +17369,6 @@ sophisticism
 sophocles
 sophoria
 sophta
-sopranini
 sorbitize
 sorbitol
 sorbonne
@@ -17485,7 +17446,6 @@ speakhouse
 speareye
 speccy
 specialiser
-speciesism
 speckles
 spectacles
 spectrohelioscopic
@@ -18377,7 +18337,6 @@ synoptist
 syntagm
 synthase
 synthesiser
-synthesism
 syntheticism
 synthetiser
 synthetist
@@ -18530,7 +18489,6 @@ tamponade
 tamponed
 tanaidacea
 tanaistes
-tanaka
 tanchelmian
 tanchoir
 tandems

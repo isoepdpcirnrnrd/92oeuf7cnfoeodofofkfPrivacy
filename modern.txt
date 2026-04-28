@@ -15,6 +15,7 @@ aliyas
 alleles
 almonage
 alnage
+alphonsism
 alveolar
 ambipolar
 amenage
@@ -36,6 +37,7 @@ antiparty
 antipolar
 antismoke
 antisolar
+antithesism
 apabhramsa
 apanage
 apanteles
@@ -55,6 +57,7 @@ ascidiacea
 asmoke
 ateles
 aulnage
+autobahn
 autodrainage
 autopolar
 autumnier
@@ -118,6 +121,7 @@ bondmaids
 bonier
 bonnier
 booley
+bossism
 braids
 brainier
 brannier
@@ -141,6 +145,7 @@ cabotinage
 cagayan
 caids
 cairnier
+campanini
 campilan
 canier
 cannier
@@ -190,6 +195,7 @@ cinnamonier
 circumpolar
 circumsolar
 clarty
+classism
 clienteles
 cloisonnage
 clownage
@@ -201,6 +207,7 @@ comanage
 commonage
 companage
 companionage
+concepti
 concubinage
 cookmaids
 cooley
@@ -262,6 +269,7 @@ downier
 dragoonage
 drainage
 dreidel
+dreyfusism
 dromiacea
 dronage
 dronier
@@ -296,6 +304,7 @@ extrapolar
 extrasolar
 facit
 falafel
+falsism
 fannier
 fasciolar
 fashionier
@@ -355,6 +364,7 @@ greenier
 grenier
 griffinage
 griffonage
+guadagnini
 guberniyas
 gunnage
 haematoceles
@@ -385,12 +395,16 @@ housemaids
 housetop
 hydroceles
 hymenicolar
+hypohypophysism
+hypophypophysism
 ibex
+ichthyosism
 imidazole
 iminazole
 indazole
 indol
 infidel
+infobahn
 ingenier
 innage
 inqilabs
@@ -412,6 +426,7 @@ isosceles
 isoteles
 isoxazole
 izvestiyas
+jackassism
 jamahiriyas
 jambiyas
 jamoke
@@ -437,6 +452,7 @@ kiyas
 knaidel
 kneidel
 kokuji
+konini
 labioalveolar
 lablabs
 labs
@@ -464,6 +480,7 @@ linage
 linenier
 linier
 lodemanage
+looksism
 loonier
 lucayan
 lucinacea
@@ -478,6 +495,7 @@ malayan
 malleolar
 manage
 manganja
+manini
 marty
 matindol
 matrimonii
@@ -526,11 +544,14 @@ myceles
 myopolar
 mysidacea
 mytilacea
+narcissism
 nasioalveolar
 nautilacea
 navaids
 nebaliacea
+necessism
 neeles
+nervosism
 netop
 neurocoeles
 nitrobenzole
@@ -538,11 +559,13 @@ nonage
 noncoinage
 nonespionage
 nonmolar
+nonnarcissism
 nonparty
 nonpolar
 nonscholar
 nonsiphonage
 nonsolar
+nosism
 nounier
 nucleolar
 nuculacea
@@ -584,6 +607,7 @@ palfrenier
 panacea
 panayan
 panier
+panini
 pannage
 pannier
 pantrymaids
@@ -593,6 +617,8 @@ paraffinier
 paraguayan
 paranja
 parlourmaids
+parnassism
+parsism
 parsonage
 party
 patronage
@@ -607,12 +633,14 @@ perameles
 peribronchiolar
 periosteoalveolar
 peripolar
+persism
 personage
 petiolar
 pholadacea
 phonier
 phthalylsulfathiazole
 piblokto
+pilosism
 pinier
 pinnage
 pitsaw
@@ -624,6 +652,7 @@ plenarty
 polar
 poley
 polynucleolar
+polysynthesism
 pondok
 ponier
 pontonier
@@ -644,6 +673,7 @@ pretannage
 priapulacea
 printanier
 prionodesmacea
+progressism
 propatronage
 proteles
 protocolar
@@ -695,6 +725,7 @@ rubeolar
 ruffianage
 runnier
 rushlit
+russism
 saffronier
 saids
 salmonier
@@ -717,6 +748,9 @@ seles
 semainier
 semipolar
 senage
+sensism
+senusism
+septi
 sexipolar
 sextipolar
 sharnier
@@ -740,9 +774,12 @@ slaids
 smarty
 smoke
 solar
+solipsism
+sopranini
 spacelabs
 sparerib
 spawnier
+speciesism
 spermatoceles
 spiketop
 spinage
@@ -796,6 +833,7 @@ swannier
 swarty
 swoonier
 symphylan
+synthesism
 syphonage
 tabletop
 tabooley
@@ -927,3 +965,7 @@ ymca
 zanier
 zanja
 zoanthacea
+falanaka
+kanaka
+panaka
+tanaka
