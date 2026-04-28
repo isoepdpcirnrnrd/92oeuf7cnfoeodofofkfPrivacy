@@ -426,6 +426,7 @@ alamo
 alamonti
 alantolic
 alaunian
+albacea
 albanian
 albarello
 albatros
@@ -448,6 +449,7 @@ alcornoco
 alcoves
 alcuinian
 alcumy
+alcyonacea
 alcyonacean
 aldehyde
 alditol
@@ -728,6 +730,7 @@ anarcestes
 anarchize
 anarthropod
 anaspida
+anaspidacea
 anastasimon
 anastasius
 anastatica
@@ -736,6 +739,7 @@ anastrophe
 anathematiser
 anathematize
 anatherum
+anatinacea
 anatinae
 anatocism
 anatolic
@@ -832,6 +836,7 @@ anodos
 anoli
 anomal
 anomalogonatae
+anomiacea
 anomic
 anomies
 anonol
@@ -1181,6 +1186,7 @@ arbuscles
 arbuscula
 arbusta
 arbutin
+arcacea
 arcadic
 archaei
 archaeoastronomies
@@ -1353,6 +1359,7 @@ ascendeur
 asceticism
 ascicidia
 ascidia
+ascidiacea
 ascidiia
 asclepiadic
 ascogonidia
@@ -1441,7 +1448,6 @@ ataxonomic
 ateknia
 atelorachidia
 atenolol
-ateuchi
 athena
 athenian
 athetize
@@ -3016,6 +3022,7 @@ carburiser
 carcajou
 carcinogen
 cardhouse
+cardiacea
 cardiacean
 cardiasthenia
 cardiataxia
@@ -3282,6 +3289,7 @@ cervisia
 cestida
 cestraciont
 cestui
+cetacea
 cetacean
 cetes
 cetonian
@@ -3323,6 +3331,7 @@ chaloupe
 chaluka
 chalumeau
 chalutzim
+chamacea
 chamaeprosopic
 chamberpots
 chambranle
@@ -4553,6 +4562,7 @@ crummies
 crunkles
 crusilee
 crusta
+crustacea
 crustacean
 crustily
 crux
@@ -4609,6 +4619,7 @@ cultishly
 cultist
 cultual
 culverhouse
+cumacea
 cumacean
 cumaldehyde
 cumay
@@ -5578,6 +5589,7 @@ dosha
 dosshouse
 dossils
 dossy
+dothideacea
 dotish
 dots
 dotterel
@@ -5653,6 +5665,7 @@ drochuil
 droils
 droiturel
 dromedary
+dromiacea
 dromic
 dromoi
 dromotropic
@@ -5810,6 +5823,7 @@ echafaudage
 echelette
 echeloned
 echelons
+echinacea
 echinid
 echinidan
 echoers
@@ -6419,6 +6433,7 @@ eunomian
 eunuchize
 eupad
 eupepticism
+euphausiacea
 euphausiacean
 euphemian
 euphemiser
@@ -7675,9 +7690,12 @@ goosishly
 goramies
 gorblimies
 gorce
+gordiacea
 gordiacean
 gorge
+gorgonacea
 gorgonacean
+gorgoniacea
 gorgoniacean
 gorgonian
 gormandiser
@@ -10005,6 +10023,7 @@ larmier
 larmoyant
 laron
 larruper
+larvacea
 laryngectomies
 laryngorrhagia
 laryngoscopic
@@ -10139,6 +10158,7 @@ leptoprosopic
 leptorrhinian
 leptosomic
 leptospire
+lernaeacea
 lesioned
 lesiy
 lesotho
@@ -10224,6 +10244,7 @@ likely
 lilburne
 liles
 lillibullero
+limacea
 limacinid
 limacoid
 limails
@@ -10446,6 +10467,7 @@ lozen
 lubritoria
 lucifugal
 lucile
+lucinacea
 lucombe
 lucretia
 luctual
@@ -10573,6 +10595,7 @@ madhouse
 madoqua
 madrasah
 madrasi
+madreporacea
 madreporacean
 madrid
 madrilenian
@@ -11791,6 +11814,7 @@ mutist
 mutoscopic
 mutual
 muzjik
+myacea
 myasthenia
 mycetes
 mycetozoans
@@ -11839,6 +11863,7 @@ myrmecophagoid
 myrmecophiles
 myrmicoid
 myrmidonian
+mysidacea
 mysosts
 mystax
 mystery
@@ -11851,6 +11876,7 @@ mythicism
 mythize
 mythologiser
 mythopoetize
+mytilacea
 mytilacean
 myxasthenia
 myxinoidei
@@ -11945,6 +11971,7 @@ naughtily
 nauruan
 nautic
 nautica
+nautilacea
 nautilacean
 navaid
 navels
@@ -11958,6 +11985,7 @@ nduja
 neandertals
 neanthropic
 nearctica
+nebaliacea
 nebbishe
 nebuliser
 nebulon
@@ -12393,6 +12421,7 @@ nucleophiles
 nucleosid
 nucleosomal
 nucula
+nuculacea
 nuculid
 nudibranchian
 nudzh
@@ -12429,6 +12458,7 @@ nymphalinae
 nymphette
 nympheum
 nymphid
+nymphonacea
 oafishly
 oakums
 oasal
@@ -12778,10 +12808,12 @@ osteotomies
 ostertagia
 ostia
 ostomies
+ostracea
 ostracean
 ostraciser
 ostracism
 ostracoid
+ostraeacea
 ostraka
 ostrakon
 ostrogothian
@@ -13152,6 +13184,7 @@ pamphletize
 pamphreys
 pamphysicism
 pampre
+panacea
 panacean
 panadas
 panade
@@ -13447,6 +13480,7 @@ peathouse
 pecan
 pecke
 peckishly
+pectinacea
 pectinacean
 pectinibranchian
 pectinid
@@ -13530,6 +13564,7 @@ penicil
 penicils
 penna
 pennatae
+pennatulacea
 pennatulacean
 pennatulid
 penni
@@ -13833,6 +13868,7 @@ phocinae
 phocoid
 phoenicean
 phoenigm
+pholadacea
 pholcoid
 phonasthenia
 phoned
@@ -14757,6 +14793,7 @@ preweighed
 prexie
 preys
 prezzies
+priapulacea
 priapulid
 priceite
 prickles
@@ -14774,6 +14811,7 @@ princeite
 princekin
 printery
 prioninae
+prionodesmacea
 prionodesmacean
 prionopinae
 prioritize
@@ -15877,6 +15915,7 @@ rhomphaia
 rhotacism
 rhumbaing
 rhynchocoele
+rhynchonellacea
 rhynchopinae
 rhynchosia
 rhynocheti
@@ -16016,6 +16055,7 @@ rooty
 roquette
 roridula
 roripa
+rosacea
 rosacean
 roseola
 roseroots
@@ -17065,6 +17105,7 @@ siphonet
 siphonogamies
 siphorhinian
 siphuncles
+sipunculacea
 sipunculacean
 sipunculid
 siredon
@@ -17518,6 +17559,7 @@ spirantize
 spire
 spirems
 spiric
+spiriferacea
 spiriferid
 spirillar
 spirillotropic
@@ -17884,6 +17926,7 @@ stromal
 strooken
 strophaic
 strophe
+strophomenacea
 strudel
 struggles
 struthian
@@ -17980,6 +18023,7 @@ submetallic
 submicroscopic
 submillimetre
 submittals
+submytilacea
 subnasal
 subocean
 subopercula
@@ -18484,6 +18528,7 @@ tampan
 tampioned
 tamponade
 tamponed
+tanaidacea
 tanaistes
 tanaka
 tanchelmian
@@ -18630,6 +18675,7 @@ telefacsimiles
 telei
 telencephalons
 telenomus
+teleodesmacea
 teleodesmacean
 teleonomic
 teleonomies
@@ -18647,6 +18693,7 @@ telex
 telfairic
 telharmony
 tellar
+tellinacea
 tellinacean
 telogen
 telomian
@@ -18720,6 +18767,7 @@ tesla
 tessellar
 tesseract
 tesseratomic
+testacea
 testacean
 testamentary
 testamurs
@@ -18783,6 +18831,7 @@ thalamocoele
 thalamotomies
 thalassinian
 thalassinid
+thaliacea
 thaliacean
 thallic
 thallogen
@@ -20331,6 +20380,7 @@ venae
 vendage
 vendettist
 vendeuse
+veneracea
 veneracean
 venetes
 ventailes
@@ -21032,6 +21082,7 @@ zitzit
 zitzith
 zizith
 zoaeae
+zoanthacea
 zoanthacean
 zoanthropic
 zoetropic
