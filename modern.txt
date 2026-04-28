@@ -92,6 +92,7 @@ bebotch
 beguinage
 bembex
 beneplacit
+benshi
 benzazole
 benzbitriazole
 benzimidazole
@@ -562,6 +563,7 @@ mourvedre
 multinucleolar
 multiparty
 multipolar
+munshi
 muttonier
 myacea
 myceles
