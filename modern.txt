@@ -117,6 +117,7 @@ bolar
 bondmaids
 bonier
 bonnier
+booley
 braids
 brainier
 brannier
@@ -194,6 +195,7 @@ cloisonnage
 clownage
 clypeolar
 coinage
+coley
 collabs
 comanage
 commonage
@@ -201,6 +203,7 @@ companage
 companionage
 concubinage
 cookmaids
+cooley
 coonier
 coparty
 copolar
@@ -242,6 +245,7 @@ deles
 demicaponier
 denier
 dernier
+dhooley
 diazole
 dictyosteles
 diedre
@@ -249,6 +253,8 @@ dipolar
 diyas
 djerib
 doenjang-guk
+doley
+dooley
 dothideacea
 douanier
 douzainier
@@ -306,6 +312,7 @@ finnier
 firetop
 fistmeles
 flabs
+foley
 forerib
 foretop
 fourdrinier
@@ -335,6 +342,7 @@ girnier
 gladiolar
 goidel
 gonfalonier
+gooley
 goonier
 gordiacea
 gorgonacea
@@ -366,10 +374,12 @@ hidel
 himalayan
 hirotoshi
 hitoshi
+holey
 homalosternii
 homeopolar
 homoeopolar
 homopolar
+hooley
 hornier
 housemaids
 housetop
@@ -501,6 +511,7 @@ molar
 monier
 monopolar
 monosteles
+mooley
 moonier
 moonshinier
 moulinage
@@ -611,6 +622,7 @@ plandok
 plebicolar
 plenarty
 polar
+poley
 polynucleolar
 pondok
 ponier
@@ -692,6 +704,7 @@ satoshi
 scavenage
 scholar
 schoolmaids
+scoley
 scraich
 scrannier
 scrawnier
@@ -785,6 +798,7 @@ swoonier
 symphylan
 syphonage
 tabletop
+tabooley
 tacit
 taich
 tamponage
