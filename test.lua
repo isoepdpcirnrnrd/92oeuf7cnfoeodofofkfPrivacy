@@ -12,8 +12,8 @@ local sortMode = "Random"
 local KillerMap1 = {}
 local KillerMap2 = {}
 
-local killerUrl1 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/modern.txt"
-local killerUrl2 = "https://raw.githubusercontent.com/Q7ZxN3L8mT2PEwHkA9cFrXyS/R9v-1z-K-eNp-7WdX2-qLmT-/refs/heads/something/old.txt"
+local killerUrl1=(function()local a={104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,81,55,90,120,78,51,76,56,109,84,50,80,69,119,72,107,65,57,99,70,114,88,121,83,47,82,57,118,45,49,122,45,75,45,101,78,112,45,55,87,100,88,50,45,113,76,109,84,45,47,114,101,102,115,47,104,101,97,100,115,47,115,111,109,101,116,104,105,110,103,47,109,111,100,101,114,110,46,116,120,116}local b={}for i=1,#a do b[i]=string.char(a[i])end;return table.concat(b)end)()
+local killerUrl2=(function()local a={104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,81,55,90,120,78,51,76,56,109,84,50,80,69,119,72,107,65,57,99,70,114,88,121,83,47,82,57,118,45,49,122,45,75,45,101,78,112,45,55,87,100,88,50,45,113,76,109,84,45,47,114,101,102,115,47,104,101,97,100,115,47,115,111,109,101,116,104,105,110,103,47,111,108,100,46,116,120,116}local b={}for i=1,#a do b[i]=string.char(a[i])end;return table.concat(b)end)()
 
 pcall(function()
     local res = request({Url = killerUrl1, Method = "GET"})
