@@ -453,6 +453,7 @@ jargonier
 jelabs
 jennier
 jerib
+jhvh
 joshi
 jumhouriyas
 kabeles
@@ -686,6 +687,7 @@ pondok
 ponier
 pontonier
 pontonnier
+pooa
 porcupinier
 pornier
 postalveolar
