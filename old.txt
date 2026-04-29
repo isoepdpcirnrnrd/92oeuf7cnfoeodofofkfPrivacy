@@ -184,7 +184,6 @@ actinozoans
 actioned
 actual
 acuchi
-aculeae
 acutilingual
 acutish
 acyclovir
@@ -3890,9 +3889,7 @@ coccidia
 coccoid
 coccothraustes
 coccygine
-cochleae
 cochleare
-cochleleae
 cocinera
 cockamamier
 cockarouse
@@ -6442,7 +6439,6 @@ eurodisco
 eurodollar
 eurohouse
 europhiles
-euryaleae
 euryalidan
 eurylaimi
 euryprosopic
@@ -7225,7 +7221,6 @@ galaxian
 galbijjim
 galbraithian
 galbulinae
-galeae
 galegine
 galeid
 galenas
@@ -7312,7 +7307,6 @@ gargoyle
 gargoylishly
 garishly
 garlandage
-garlopa
 garon
 garrisoned
 garrisonian
@@ -8250,7 +8244,6 @@ hemocoele
 hemogenia
 hemoglobin
 hemophagia
-hemophileae
 hemophiles
 hemopod
 hemorrhoidectomies
@@ -10925,7 +10918,6 @@ megagametes
 megagauss
 megahit
 megalocephaly
-megalopa
 megalopic
 megalopinae
 megalosplenia
@@ -13113,7 +13105,6 @@ palatize
 palatonasal
 palatopterygoid
 palauan
-paleae
 paleanthropic
 paleencephalons
 paleo
@@ -13385,7 +13376,6 @@ passioned
 passir
 pastes
 pasteups
-pasteurelleae
 pasteuriser
 pasticheuse
 pastils
@@ -15130,7 +15120,6 @@ pumis
 pumpernickels
 pumphouse
 punaise
-punaluan
 punany
 punchinello
 punctist
@@ -18112,7 +18101,6 @@ sulphophthalein
 sulphoricinoleic
 sulphur
 sultanian
-suluan
 sumbal
 sumis
 summariser
@@ -18446,7 +18434,6 @@ talaqs
 talayots
 talbots
 talcoid
-taleae
 talegallinae
 talipots
 talishi
@@ -19409,7 +19396,6 @@ trochi
 trochils
 trochiluli
 trochisks
-trochleae
 trochocephaly
 troezenian
 troglodytinae
@@ -19550,7 +19536,6 @@ tutenag
 tutin
 tutsan
 tutued
-tuvaluan
 tuxedoed
 twaddledom
 twals
@@ -21054,7 +21039,6 @@ zoned
 zooerastia
 zoogametes
 zoogamies
-zoogleae
 zoogonidia
 zoomantist
 zoomastigoda
