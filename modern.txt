@@ -66,6 +66,7 @@ banjoleles
 banjuleles
 bantayan
 barbicanage
+barbudan
 barnage
 barnier
 baronage
@@ -131,6 +132,7 @@ bubonoceles
 buccanier
 built-in
 bunya
+butsudan
 butterscotch
 buttonier
 cabotinage
@@ -202,6 +204,7 @@ companionage
 concepti
 concubinage
 consomme
+cooja
 cooley
 coonier
 cootch
@@ -213,6 +216,7 @@ cotch
 cotonier
 cottonier
 counterespionage
+counterfeit
 cousinage
 cozenage
 cranage
@@ -236,6 +240,7 @@ danoranja
 daunii
 davoch
 dayan
+defeit
 degomme
 deles
 demicaponier
@@ -251,6 +256,7 @@ diyas
 djerib
 doenjang-guk
 doley
+dooja
 dooley
 douanier
 douzainier
@@ -286,6 +292,7 @@ estafa
 euprepia
 euryaleae
 eusteles
+euterpe
 facit
 fadeur
 falafel
@@ -311,6 +318,7 @@ fluyt
 foley
 forerib
 foretop
+forfeit
 fotch
 fourdrinier
 freinage
@@ -388,6 +396,7 @@ hopscotch
 hornier
 hotch
 hotchpotch
+houdan
 housetop
 hydroceles
 hypohypophysism
@@ -484,6 +493,7 @@ malayan
 manage
 manganja
 manini
+martinoe
 matindol
 matrimonii
 matronage
@@ -534,6 +544,7 @@ neurocoeles
 nitrobenzole
 nonage
 noncoinage
+noncounterfeit
 nonespionage
 nonnarcissism
 nonsiphonage
@@ -617,6 +628,7 @@ ponier
 pontonier
 pontonnier
 pooa
+pooja
 porcupinier
 pornier
 portugese
@@ -656,6 +668,7 @@ rayan
 recoinage
 rectoceles
 refinage
+reforfeit
 reistafel
 reles
 remanage
@@ -722,6 +735,7 @@ smoke
 sociologese
 solipsism
 sopranini
+soudan
 spacelabs
 sparerib
 spawnier
@@ -756,6 +770,7 @@ subdrainage
 subj
 succinylsulfathiazole
 succinylsulphathiazole
+sudan
 sulfamethylthiazole
 sulfathiazole
 sulfisoxazole
@@ -765,6 +780,7 @@ suluan
 sunnier
 sunshinier
 superfidel
+surfeit
 surmenage
 swannier
 swoonier
@@ -837,7 +853,9 @@ ulnage
 ultratinier
 umeboshi
 uncannier
+uncounterfeit
 underdrainage
+unforfeit
 unfunnier
 unheles
 unscotch

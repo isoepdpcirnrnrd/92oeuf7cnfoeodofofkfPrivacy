@@ -1795,7 +1795,6 @@ barbette
 barbies
 barbitals
 barbots
-barbudan
 bardolphian
 bareboned
 baregine
@@ -2756,7 +2755,6 @@ butin
 butomus
 butoxy
 butsu
-butsudan
 buttals
 butterflyer
 buttery
@@ -4181,7 +4179,6 @@ convito
 convolvulinolic
 cooboo
 cooers
-cooja
 cookeite
 cookhouse
 cookishly
@@ -4363,7 +4360,6 @@ countercriticism
 counterdistinct
 counterengine
 counterfactual
-counterfeit
 counterfoils
 counterforce
 countermoves
@@ -4890,7 +4886,6 @@ deeve
 defaitisme
 defamed
 defeatist
-defeit
 defiles
 definitize
 definitude
@@ -5545,7 +5540,6 @@ doocots
 doodads
 doodoo
 doodskop
-dooja
 doolan
 doole
 doomier
@@ -6983,7 +6977,6 @@ foretoken
 foretriangles
 foreuse
 foreweighed
-forfeit
 forfex
 forficula
 forfoughen
@@ -8586,7 +8579,6 @@ hottentotish
 hottentots
 hottery
 hottish
-houdan
 houghed
 houngan
 hounskull
@@ -10783,7 +10775,6 @@ martello
 marteniko
 martinet
 martinetish
-martinoe
 martyrs
 marvels
 marxian
@@ -12190,7 +12181,6 @@ nonconsensual
 noncontextual
 noncontract
 noncontractual
-noncounterfeit
 noncurantist
 nondecasyllabic
 nondetinet
@@ -14415,7 +14405,6 @@ pontocerebellar
 pontooned
 ponytails
 poodledom
-pooja
 poonga
 poorhouse
 poots
@@ -15591,7 +15580,6 @@ reflexion
 refoots
 reforce
 reforestize
-reforfeit
 reforge
 refract
 refractary
@@ -17390,7 +17378,6 @@ sottishly
 soubrette
 soubrettish
 soudagur
-soudan
 soughed
 soundage
 soundposts
@@ -18057,7 +18044,6 @@ suckerel
 suckles
 suctioned
 suctoria
-sudan
 sudanian
 sudary
 sudatoria
@@ -18197,7 +18183,6 @@ surahi
 surbahar
 surcingles
 surette
-surfeit
 surma
 surmiser
 surnamed
@@ -19744,7 +19729,6 @@ unconventioned
 uncoquettish
 uncoquettishly
 uncottoned
-uncounterfeit
 uncraftily
 uncriticism
 uncubic
@@ -19835,7 +19819,6 @@ unflossy
 unfoamed
 unfoolishly
 unforeign
-unforfeit
 unforgiver
 unframed
 unfreakishly
