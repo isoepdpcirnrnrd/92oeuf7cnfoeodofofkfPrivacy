@@ -2857,7 +2857,6 @@ californian
 caliver
 callisteia
 callisto
-callosum
 calmier
 calombigas
 calombo
@@ -4301,7 +4300,6 @@ corundums
 corupay
 corve
 corvette
-corvillosum
 corvinae
 corvinas
 corviser
@@ -13709,7 +13707,6 @@ petroleuse
 petrolic
 petromyzont
 petronel
-petrosum
 petticoatery
 pettily
 pettish

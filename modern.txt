@@ -137,6 +137,7 @@ cabotinage
 cagayan
 cairnier
 calibre
+callosum
 camorristi
 campanini
 campilan
@@ -206,6 +207,7 @@ coonier
 cootch
 cornage
 cornier
+corvillosum
 cosinage
 cotch
 cotonier
@@ -589,6 +591,7 @@ peppercornier
 perameles
 persism
 personage
+petrosum
 phasm
 phonier
 phospho
