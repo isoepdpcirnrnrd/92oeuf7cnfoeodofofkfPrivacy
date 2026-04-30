@@ -2,11 +2,14 @@ abeles
 abthanage
 accompanier
 acetylcarbazole
+acronych
 aculeae
+aerobiont
 affinage
 after-party
 afterparty
 aglipayan
+agterskots
 albacea
 alcyonacea
 alienage
@@ -16,6 +19,7 @@ almonage
 alnage
 alphonsism
 alveolar
+ambassadeur
 ambipolar
 amenage
 amidakuji
@@ -23,6 +27,7 @@ amidothiazole
 aminotriazole
 amoke
 amylan
+anaerobiont
 anaspidacea
 anastrozole
 anatinacea
@@ -33,6 +38,7 @@ angolar
 anisomeles
 anomiacea
 anopheles
+antibiont
 antiparty
 antipolar
 antismoke
@@ -53,6 +59,7 @@ arrayan
 arteriolar
 arty
 arty-farty
+ascendeur
 ascidiacea
 asmoke
 ateles
@@ -72,6 +79,7 @@ backsplit
 badinage
 bakkwa
 balikbayan
+balsamy
 bandariyas
 banjoleles
 banjuleles
@@ -107,6 +115,8 @@ besognier
 besplit
 bialveolar
 bibliopolar
+biologese
+biont
 biparty
 bipolar
 birrotch
@@ -121,6 +131,7 @@ blotch
 bluetop
 boffinier
 bolar
+bonhomme
 bonier
 bonnier
 booley
@@ -135,12 +146,15 @@ bride-to-be
 brides-to-be
 brimstonier
 brinier
+bromo
 bronchiolar
 bronchoalveolar
 brownier
 bubbletop
 bubonoceles
 buccanier
+built-in
+bunya
 butterscotch
 buttonier
 cabotinage
@@ -175,6 +189,7 @@ cendol
 centenier
 centimolar
 cephaloceles
+cestraciont
 cetacea
 chaenomeles
 chainage
@@ -183,12 +198,15 @@ chansonnier
 chaperonage
 charbonnier
 charterparty
+chasm
 chendol
 chenier
 chiffonier
 chiffonnier
+chikungunya
 chiminage
 chinnier
+chromo
 ciceronage
 cichlid
 cinnamonier
@@ -205,12 +223,15 @@ cochleleae
 coinage
 coley
 collabs
+collegese
 comanage
+comme
 commonage
 companage
 companionage
 concepti
 concubinage
+consomme
 cooley
 coonier
 cootch
@@ -228,9 +249,11 @@ cousinage
 cozenage
 cranage
 crannage
+cromme
 croonier
 crotch
 crustacea
+cryptobiont
 ctenii
 cuinage
 cuisinier
@@ -245,17 +268,21 @@ damnii
 damnonii
 danoranja
 daunii
+davoch
 dayan
 decimolar
 decipolar
+degomme
 deles
 demicaponier
 denier
 dernier
+descendeur
 dhooley
 diazole
 dictyosteles
 diedre
+diplobiont
 dipolar
 diyas
 djerib
@@ -286,11 +313,13 @@ electropolar
 empennage
 enage
 encephaloceles
+endosymbiont
 engrenage
 ennage
 enteroceles
 enterocoeles
 environage
+eobiont
 epistolar
 equimolar
 escolar
@@ -304,6 +333,7 @@ eusteles
 extrapolar
 extrasolar
 facit
+fadeur
 falafel
 falanaka
 falsism
@@ -323,6 +353,7 @@ finnier
 firetop
 fistmeles
 flabs
+fluyt
 foley
 forerib
 foretop
@@ -331,7 +362,10 @@ fourdrinier
 foveolar
 freinage
 fretsaw
+froideur
+frondeur
 frownier
+fuchsia
 fujoshi
 funnier
 furnage
@@ -349,6 +383,8 @@ ganja
 garlopa
 garrotxa
 genii
+gentilhomme
+geobiont
 geopolar
 ginnier
 girnier
@@ -364,6 +400,7 @@ gotch
 grainage
 grainier
 granage
+grandeur
 greenage
 greenier
 grenier
@@ -373,7 +410,9 @@ guadagnini
 guberniyas
 gunnage
 haematoceles
+halobiont
 hamsa
+haplobiont
 havenage
 hawthornier
 he'd
@@ -383,6 +422,7 @@ heles
 hematoceles
 hemophileae
 hennier
+hesychasm
 heteromeles
 heteropolar
 hidel
@@ -392,8 +432,10 @@ hitoshi
 holey
 homalosternii
 homeopolar
+homme
 homoeopolar
 homopolar
+hongkongese
 hooley
 hootch
 hopscotch
@@ -429,6 +471,7 @@ intrapolar
 iraimbilanja
 ironier
 isindazole
+isochasm
 isoindazole
 isosceles
 isoteles
@@ -442,6 +485,7 @@ jargonier
 jelabs
 jennier
 jerib
+jessamy
 jhvh
 joshi
 jumhouriyas
@@ -451,10 +495,12 @@ kanaka
 kandol
 kanteles
 karoshi
+katangese
 kayan
 kebeles
 kidel
 kilan
+kiplingese
 kittenier
 kiyas
 klootch
@@ -462,6 +508,7 @@ knaidel
 kneidel
 kokuji
 konini
+korova
 kotch
 labioalveolar
 lablabs
@@ -496,6 +543,7 @@ lulabs
 lunier
 lunisolar
 lynage
+macrosymbiont
 madreporacea
 magazinage
 malayan
@@ -521,6 +569,7 @@ metronidazole
 micromanage
 micromolar
 microparty
+middelskots
 milan
 millimolar
 mimamsa
@@ -532,6 +581,7 @@ mnage
 modiolar
 moke
 molar
+momme
 momser
 monier
 monopolar
@@ -550,9 +600,11 @@ munshi
 muttonier
 myacea
 myceles
+mycobiont
 myopolar
 mysidacea
 mytilacea
+nankingese
 narcissism
 nasioalveolar
 nautilacea
@@ -588,6 +640,7 @@ omnifidel
 onionier
 operceles
 oppositipolar
+oromo
 orphanage
 osmolar
 osotriazole
@@ -623,6 +676,7 @@ papicolar
 paraffinier
 paraguayan
 paranja
+parasymbiont
 parnassism
 parsism
 parsonage
@@ -631,6 +685,8 @@ pasteurelleae
 patronage
 pawnage
 pectinacea
+pedagese
+pekingese
 peles
 pennage
 pennatulacea
@@ -643,9 +699,11 @@ peripolar
 persism
 personage
 petiolar
+phasm
 pholadacea
 phonier
 phthalylsulfathiazole
+phycobiont
 piblokto
 pilosism
 pinier
@@ -658,8 +716,10 @@ plenarty
 plotch
 polar
 poley
+polychsia
 polynucleolar
 polysynthesism
+pomme
 pondok
 ponier
 pontonier
@@ -667,6 +727,7 @@ pontonnier
 pooa
 porcupinier
 pornier
+portugese
 postalveolar
 postrubeolar
 potch
@@ -683,16 +744,20 @@ priapulacea
 printanier
 prionodesmacea
 progressism
+promo
 propatronage
 proteles
 protocolar
 protosteles
+prudhomme
 prunier
 pseudalveolar
 pseudoalleles
 pseudoalveolar
+pudeur
 pulayan
 punaluan
+punany
 punier
 punnage
 punnier
@@ -705,6 +770,7 @@ quadripolar
 quaich
 queenier
 racinage
+radeur
 rainier
 raisinier
 rayan
@@ -714,6 +780,7 @@ refinage
 reistafel
 reles
 remanage
+renomme
 resinier
 resplit
 retroalveolar
@@ -738,10 +805,12 @@ russism
 saffronier
 salmonier
 sapeles
+saprobiont
 satinier
 satoshi
 scavenage
 scholar
+schuyt
 scoley
 scootch
 scotch
@@ -782,6 +851,7 @@ skylabs
 slabs
 smarty
 smoke
+sociologese
 solar
 solipsism
 sopranini
@@ -806,6 +876,7 @@ spoonier
 spraich
 squarsonage
 squinnier
+stagese
 starty
 steatoceles
 steekkan
@@ -844,6 +915,7 @@ surmenage
 swannier
 swarty
 swoonier
+symbiont
 symphylan
 synthesism
 syphonage
@@ -852,6 +924,7 @@ tabooley
 tacit
 taich
 taleae
+talwegs
 tamponage
 tanaidacea
 tanaka
@@ -869,10 +942,12 @@ tellinacea
 temser
 tenascin-r
 testacea
+tetrabromo
 tetrapolar
 tetrazole
 thackerayan
 thaliacea
+thalwegs
 thanage
 thenage
 thiabendazole
@@ -895,6 +970,7 @@ townier
 tracheolar
 trainage
 transpolar
+treckschuyt
 treetop
 triazole
 tripolar
@@ -902,6 +978,7 @@ trisceles
 triskeles
 trochleae
 tronage
+trophobiont
 tsukimi
 tteokguk
 tubicolar
@@ -961,6 +1038,7 @@ vinier
 visayan
 voisinage
 volar
+voorskots
 waggonage
 wagonage
 wainage
@@ -984,5 +1062,6 @@ yinz
 ymca
 zanier
 zanja
+zaptiah
 zoanthacea
 zoogleae
