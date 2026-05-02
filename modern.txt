@@ -43,6 +43,7 @@ aripiprazole
 arrayan
 ascendeur
 asmoke
+atazir
 ateles
 aulnage
 autobahn
@@ -537,6 +538,7 @@ myceles
 mycobiont
 nankingese
 narcissism
+nazir
 necessism
 neeles
 nervosism
@@ -840,6 +842,7 @@ triskeles
 trochleae
 tronage
 trophobiont
+truv
 tsukimi
 tteokguk
 tunier
@@ -896,6 +899,7 @@ wagonage
 wainage
 wanier
 warnage
+wazir
 we'd
 weenier
 wennier
