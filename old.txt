@@ -1332,7 +1332,6 @@ arthrotomies
 arthrotropic
 articles
 artifactual
-artifex
 artigi
 artily
 artist
@@ -1522,7 +1521,6 @@ auntish
 aureola
 auricles
 auricula
-aurifex
 aurinasal
 auriscopic
 aurora
@@ -2185,7 +2183,6 @@ biggonet
 bigotish
 bigots
 bijasal
-bikh
 bikols
 bikram
 bilaan
@@ -3046,7 +3043,6 @@ carminette
 carnationed
 carnaubic
 carnegiea
-carnifex
 carniolan
 caroa
 carob
@@ -6411,7 +6407,6 @@ eulophid
 eumycetes
 eunomian
 eunuchize
-eupad
 eupepticism
 euphausiacea
 euphausiacean
@@ -6977,7 +6972,6 @@ foretoken
 foretriangles
 foreuse
 foreweighed
-forfex
 forficula
 forfoughen
 forge
@@ -12615,7 +12609,6 @@ ophthalmiac
 ophthalmopod
 ophthalmorrhagia
 ophthalmoscopic
-opifex
 opilonea
 opimian
 opinioned
@@ -12675,7 +12668,6 @@ orgasmed
 orguinette
 orientals
 orientize
-orifex
 origenian
 orinasal
 oriskanian
@@ -14397,7 +14389,6 @@ ponerid
 ponerinae
 ponga
 ponticello
-pontifex
 pontiles
 pontils
 pontist
@@ -16541,7 +16532,6 @@ scritoire
 scrivello
 scriver
 scrobicula
-scroinogh
 scrolar
 scroyle
 scruf
@@ -17013,7 +17003,6 @@ sillar
 silphid
 siluridan
 siluroidei
-silva
 silvereye
 silvertails
 simarouba
@@ -17489,7 +17478,6 @@ spinas
 spinet
 spinette
 spinicerebellar
-spinifex
 spinifugal
 spinnerette
 spinny
@@ -19468,7 +19456,6 @@ tuberculid
 tuberculotoxin
 tubicen
 tubicolar
-tubifex
 tubilingual
 tubularidan
 tubulibranchian

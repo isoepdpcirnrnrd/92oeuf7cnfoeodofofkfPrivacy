@@ -41,11 +41,13 @@ appenage
 appennage
 aripiprazole
 arrayan
+artifex
 ascendeur
 asmoke
 atazir
 ateles
 aulnage
+aurifex
 autobahn
 autodrainage
 autumnier
@@ -98,6 +100,7 @@ besmoke
 besognier
 besplit
 bhisti
+bikh
 biologese
 biont
 birrotch
@@ -158,6 +161,7 @@ carbinier
 careenage
 carnage
 carnier
+carnifex
 cartonage
 cartonnage
 cartonnier
@@ -291,6 +295,7 @@ eobiont
 esomeprazole
 espionage
 estafa
+eupad
 euprepia
 euryaleae
 eusteles
@@ -321,6 +326,7 @@ foley
 forerib
 foretop
 forfeit
+forfex
 fotch
 fourdrinier
 freinage
@@ -562,6 +568,8 @@ omikuji
 omnifidel
 onionier
 operceles
+opifex
+orifex
 oromo
 orphanage
 osotriazole
@@ -628,6 +636,7 @@ polysynthesism
 pomme
 pondok
 ponier
+pontifex
 pontonier
 pontonnier
 pooa
@@ -699,6 +708,7 @@ sapeles
 saprobiont
 satinier
 satoshi
+savs
 scavenage
 schnitzel
 schuyt
@@ -710,6 +720,7 @@ scraich
 scrannier
 scrawnier
 screenage
+scroinogh
 scrootch
 sedanier
 seidel
@@ -730,6 +741,7 @@ sidesplit
 sightsaw
 signage
 sikimi
+silva
 siphonage
 siphonosteles
 skinnier
@@ -749,6 +761,7 @@ spermatoceles
 spiketop
 spinage
 spinier
+spinifex
 spinnier
 splanchnoceles
 spleenier
@@ -845,6 +858,7 @@ trophobiont
 truv
 tsukimi
 tteokguk
+tubifex
 tunier
 tunnage
 turbinage
