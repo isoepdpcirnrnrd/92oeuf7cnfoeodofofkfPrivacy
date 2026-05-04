@@ -63,6 +63,7 @@ backsplit
 badinage
 bahisti
 bakkwa
+balibuntl
 balikbayan
 balsamy
 bandariyas
@@ -423,6 +424,7 @@ innage
 inqilabs
 intercommonage
 interfibre
+intl
 iraimbilanja
 ironier
 isindazole
@@ -927,6 +929,7 @@ winier
 womplit
 woodsmoke
 xylan
+yakiniku
 yardarm
 yawnier
 yinz
