@@ -375,7 +375,9 @@ griffinage
 griffonage
 guadagnini
 guberniyas
+gung-ho
 gunnage
+haak
 haematoceles
 halobiont
 hamsa
@@ -411,7 +413,6 @@ housetop
 hydroceles
 hypohypophysism
 hypophypophysism
-ibex
 ichthyosism
 imbrex
 imidazole
@@ -678,7 +679,6 @@ pyrrotriazole
 qiyas
 quaich
 queenier
-quillaja
 racinage
 radeur
 rainier
@@ -704,6 +704,7 @@ ronier
 roshi
 rosinier
 rotch
+roux
 ruffianage
 runnier
 rushlit
@@ -847,6 +848,7 @@ thwartsaw
 tinage
 tinier
 tinnier
+tody
 tokoloshi
 tonier
 tonnage
@@ -906,7 +908,6 @@ vellenage
 verminier
 vernage
 vernier
-vibex
 vicinage
 villainage
 villanage
