@@ -15,6 +15,7 @@ alleles
 almonage
 alnage
 alphonsism
+amax
 ambassadeur
 amenage
 amidakuji
@@ -665,6 +666,7 @@ polysynthesism
 pomme
 pondok
 ponier
+pons
 pontifex
 pontonier
 pontonnier
