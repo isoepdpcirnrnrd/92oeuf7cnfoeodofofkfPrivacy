@@ -247,6 +247,7 @@ cuisinier
 culavamsa
 curnier
 cushionier
+cut-in
 cystoceles
 dahabiyas
 damnii
@@ -591,6 +592,7 @@ omnifidel
 onionier
 operceles
 opifex
+opt-in
 orifex
 oromo
 orphanage
@@ -769,6 +771,7 @@ sheepsplit
 shikimi
 shinier
 shoji
+shut-in
 sidesplit
 sightsaw
 signage
@@ -776,6 +779,7 @@ sikimi
 silva
 siphonage
 siphonosteles
+sit-in
 skinnier
 skramz
 skylabs
