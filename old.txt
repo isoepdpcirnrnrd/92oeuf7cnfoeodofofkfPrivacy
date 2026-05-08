@@ -220,7 +220,6 @@ adenohypersthenia
 adenoidectomies
 adenotomic
 adephagia
-adespoton
 adffrozen
 adfluxion
 adfrozen
@@ -987,7 +986,6 @@ antipolar
 antipragmaticism
 antipragmatist
 antiprelatist
-antiproton
 antirabic
 antirabies
 antiracism
@@ -2002,7 +2000,6 @@ belamies
 belamoure
 belar
 belay
-belee
 belgicism
 belikely
 bellamoure
@@ -3256,7 +3253,6 @@ ceratobatrachinae
 ceratocricoid
 ceratocystis
 ceratothecal
-cercelee
 cercopithecoid
 cercopod
 cerdonian
@@ -4346,7 +4342,6 @@ cougar
 coughed
 couloir
 councils
-counselee
 counteract
 counterbattery
 counterboulle
@@ -4462,7 +4457,6 @@ crems
 cremsin
 crenae
 crenas
-crenelee
 creophagia
 creped
 crepidula
@@ -4521,7 +4515,6 @@ crosette
 crossette
 crotalinae
 crotals
-croton
 crotonaldehyde
 crouche
 croupe
@@ -5425,7 +5418,6 @@ distrails
 distributary
 distributee
 distros
-disulfoton
 disulphid
 disuse
 disyllabic
@@ -7362,7 +7354,6 @@ geira
 geitonogamies
 geladas
 gelatiniser
-gelee
 gemel
 gemfibrozils
 geminid
@@ -9703,7 +9694,6 @@ kilogauss
 kilogrammetre
 kilohm
 kilometre
-kiloton
 kilotonne
 kimbo
 kimboed
@@ -10157,7 +10147,6 @@ leylandiis
 lezghian
 liaise
 liason
-libelee
 libellulid
 liberaliser
 liberum
@@ -10938,11 +10927,9 @@ melbourne
 melburnian
 meleagrina
 meleagrinae
-melee
 melenas
 meletski
 melica
-melicoton
 melilots
 melinae
 meliphagidan
@@ -10952,7 +10939,6 @@ mellic
 mellivorinae
 mellowier
 mellowy
-melocoton
 melodicas
 melodiser
 melodramaticism
@@ -11617,7 +11603,6 @@ motioned
 motivo
 motmots
 motocar
-moton
 motorails
 motorbicycles
 motorcycles
@@ -11696,7 +11681,6 @@ multilobar
 multimetallic
 multinucleolar
 multiphase
-multiphoton
 multipolar
 multisensual
 multistoreys
@@ -13493,7 +13477,6 @@ pellicula
 pelomedusa
 pelons
 peloria
-peloton
 peltish
 pelvetia
 pembinas
@@ -13849,12 +13832,10 @@ photographize
 photomappi
 photomasks
 photomicroscopic
-photon
 photonovels
 photophase
 photophils
 photopic
-photoproton
 photoscopic
 photosensitiser
 photosensitize
@@ -14356,7 +14337,6 @@ polypidom
 polypneas
 polypragmatist
 polypterid
-polyptoton
 polyrhythm
 polyribosomal
 polyschematist
@@ -14930,7 +14910,6 @@ protohydrogen
 protomartyrs
 protometallic
 protometals
-proton
 protonemal
 protonotariat
 protonotary
@@ -15139,7 +15118,6 @@ pursual
 pursuits
 purveyal
 pussyfoots
-putelee
 putsch
 puttyroots
 putzed
@@ -15499,7 +15477,6 @@ receptacles
 receptacula
 receptary
 receptual
-recercelee
 rechase
 recipiendary
 reciprocatist
@@ -15710,7 +15687,6 @@ rereeve
 rereign
 reremouse
 resails
-resarcelee
 rescuer
 reseason
 reseasoned
@@ -16014,7 +15990,6 @@ rotacism
 rotary
 rotatoria
 rotolo
-roton
 rots
 rottenstoned
 rottolo

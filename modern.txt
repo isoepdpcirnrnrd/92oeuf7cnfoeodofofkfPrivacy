@@ -4,6 +4,7 @@ accompanier
 acetylcarbazole
 acronych
 aculeae
+adespoton
 aerobiont
 affinage
 aglipayan
@@ -30,6 +31,7 @@ angeles
 anisomeles
 anopheles
 antibiont
+antiproton
 antismoke
 antithesism
 apabhramsa
@@ -83,6 +85,7 @@ beanier
 beblotch
 bebotch
 beguinage
+belee
 bembex
 beneplacit
 benshi
@@ -173,6 +176,7 @@ cedre
 cendol
 centenier
 cephaloceles
+cercelee
 cestraciont
 chaenomeles
 chainage
@@ -223,16 +227,19 @@ cosinage
 cotch
 cotonier
 cottonier
+counselee
 counterespionage
 counterfeit
 cousinage
 cozenage
 cranage
 crannage
+crenelee
 cristi
 cromme
 croonier
 crotch
+croton
 cryptobiont
 ctenii
 cuinage
@@ -260,6 +267,7 @@ diazole
 dictyosteles
 diedre
 diplobiont
+disulfoton
 diyas
 djerib
 doenjang-guk
@@ -353,6 +361,7 @@ gallonage
 ganja
 garlopa
 garrotxa
+gelee
 genii
 gentilhomme
 geobiont
@@ -460,6 +469,7 @@ kebeles
 khankhuuluu
 kidel
 kilan
+kiloton
 kiplingese
 kittenier
 kiyas
@@ -487,6 +497,7 @@ lavash
 lawnier
 lemonier
 letrozole
+libelee
 libertinage
 liblabs
 libre
@@ -514,7 +525,10 @@ matronage
 mayan
 megalopa
 megatonnage
+melee
 meles
+melicoton
+melocoton
 melonier
 menage
 meningoceles
@@ -541,9 +555,11 @@ mooley
 moonier
 moonshinier
 mootch
+moton
 moulinage
 mountainier
 mourvedre
+multiphoton
 munshi
 muttonier
 myceles
@@ -614,6 +630,7 @@ pawnage
 pedagese
 pekingese
 peles
+peloton
 pennage
 peonage
 peppercornier
@@ -624,6 +641,8 @@ petrosum
 phasm
 phonier
 phospho
+photon
+photoproton
 phthalylsulfathiazole
 phycobiont
 physoclisti
@@ -639,6 +658,7 @@ plandok
 plotch
 poley
 polychsia
+polyptoton
 polysynthesism
 pomme
 pondok
@@ -662,6 +682,7 @@ progressism
 promo
 propatronage
 proteles
+proton
 protosteles
 prudhomme
 prunier
@@ -673,6 +694,7 @@ punany
 punier
 punnage
 punnier
+putelee
 pyrazole
 pyrrodiazole
 pyrrotriazole
@@ -684,6 +706,7 @@ radeur
 rainier
 raisinier
 rayan
+recercelee
 recoinage
 rectoceles
 refinage
@@ -692,6 +715,7 @@ reistafel
 reles
 remanage
 renomme
+resarcelee
 resinier
 resplit
 rhabdocoeles
@@ -704,6 +728,7 @@ ronier
 roshi
 rosinier
 rotch
+roton
 roux
 ruffianage
 runnier
