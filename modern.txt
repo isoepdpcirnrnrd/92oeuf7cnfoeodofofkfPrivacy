@@ -174,7 +174,6 @@ cartonnier
 cartoonier
 cathayan
 cedre
-cendol
 centenier
 cephaloceles
 cercelee
@@ -185,7 +184,6 @@ chansonnier
 chaperonage
 charbonnier
 chasm
-chendol
 chenier
 chiffonier
 chiffonnier
@@ -429,7 +427,6 @@ imbrex
 imidazole
 iminazole
 indazole
-indol
 infidel
 infobahn
 ingenier
@@ -462,7 +459,6 @@ jumhouriyas
 kabeles
 kadayan
 kanaka
-kandol
 kanteles
 karoshi
 katangese
@@ -483,6 +479,7 @@ konini
 korova
 kotch
 kristi
+la-de-da
 lablabs
 labs
 lacey
@@ -521,7 +518,6 @@ manage
 manganja
 manini
 martinoe
-matindol
 matrimonii
 matronage
 mayan
@@ -640,6 +636,7 @@ peppercornier
 perameles
 persism
 personage
+pesh-kabz
 petrosum
 phasm
 phonier
@@ -969,8 +966,8 @@ woodsmoke
 xylan
 yakiniku
 yardarm
+yatvyag
 yawnier
-yinz
 ymca
 zanier
 zanja
