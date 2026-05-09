@@ -293,6 +293,7 @@ dunnier
 dylan
 earthsmoke
 efinaconazole
+efl
 ekpweles
 ekueles
 ekweles
@@ -590,6 +591,7 @@ nonsiphonage
 nosism
 notch
 nounier
+nyah
 nyanja
 obadiah
 obex
@@ -769,6 +771,7 @@ sedanier
 seidel
 seles
 semainier
+semsem
 senage
 sensism
 senusism
@@ -908,6 +911,7 @@ truv
 tsukimi
 tteokguk
 tubifex
+tugs
 tunier
 tunnage
 turbinage
@@ -927,6 +931,7 @@ underdrainage
 unforfeit
 unfunnier
 unheles
+unie
 unscotch
 unsplit
 unsunnier
@@ -966,12 +971,14 @@ wazir
 we'd
 weenier
 wennier
+wens
 whinier
 whinnier
 whitetop
 windjam
 windslabs
 winier
+wne
 womplit
 woodsmoke
 xylan
@@ -983,4 +990,5 @@ ymca
 zanier
 zanja
 zaptiah
+zoid
 zoogleae
