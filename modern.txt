@@ -126,6 +126,7 @@ bonhomme
 bonier
 bonnier
 booley
+borshch
 bossism
 botch
 brainier
@@ -473,6 +474,7 @@ kanteles
 karoshi
 katangese
 kayan
+kayokyoku
 kebeles
 khankhuuluu
 kidel
@@ -782,6 +784,8 @@ sheenier
 sheepsplit
 shikimi
 shinier
+shinrin-yoku
+shinrinyoku
 shoji
 shut-in
 sidesplit
@@ -838,6 +842,7 @@ subdrainage
 subj
 succinylsulfathiazole
 succinylsulphathiazole
+suci
 sudan
 sulfamethylthiazole
 sulfathiazole
@@ -982,6 +987,7 @@ womplit
 woodsmoke
 xylan
 yakiniku
+yarb
 yardarm
 yatvyag
 yawnier
