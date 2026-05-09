@@ -1,4 +1,6 @@
 abeles
+abilities-to-be
+ability-to-be
 abthanage
 accompanier
 acetylcarbazole
@@ -15,7 +17,6 @@ alleles
 almonage
 alnage
 alphonsism
-amax
 ambassadeur
 amenage
 amidakuji
@@ -208,6 +209,8 @@ coley
 collabs
 collegese
 comanage
+coming-to-be
+comings-to-be
 comme
 commonage
 companage
@@ -382,6 +385,8 @@ greenier
 grenier
 griffinage
 griffonage
+groom-to-be
+grooms-to-be
 guadagnini
 guberniyas
 gung-ho
@@ -950,6 +955,7 @@ waggonage
 wagonage
 wainage
 wanier
+want-to-be
 warnage
 wazir
 we'd
