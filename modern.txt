@@ -78,8 +78,8 @@ barbicanage
 barbudan
 barnage
 barnier
-barszcz
 baronage
+barszcz
 baruya
 barye
 batonnier
@@ -245,6 +245,7 @@ crotch
 croton
 cryptobiont
 ctenii
+cucujid
 cuinage
 cuisinier
 culavamsa
@@ -525,6 +526,7 @@ manage
 manganja
 manini
 martinoe
+masjid
 matrimonii
 matronage
 mayan
@@ -566,6 +568,7 @@ mountainier
 mourvedre
 multiphoton
 munshi
+musjid
 muttonier
 myceles
 mycobiont
