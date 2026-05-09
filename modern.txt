@@ -290,6 +290,7 @@ dronage
 dronier
 dunnage
 dunnier
+dyed
 dylan
 earthsmoke
 efinaconazole
@@ -556,7 +557,6 @@ mismanage
 mnage
 moke
 momme
-momser
 monier
 monosteles
 mooley
@@ -872,7 +872,6 @@ teenage
 teenier
 teeny-weenier
 teles
-temser
 tenascin-r
 tetrabromo
 tetrazole
