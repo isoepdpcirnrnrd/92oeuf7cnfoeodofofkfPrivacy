@@ -2,6 +2,7 @@ abeles
 abilities-to-be
 ability-to-be
 abthanage
+acethydrazide
 acetylcarbazole
 acronych
 aculeae
@@ -61,6 +62,7 @@ avanguardisti
 avenage
 ayanamsa
 aye
+azide
 azole
 azotetrazole
 azoxazole
@@ -87,8 +89,10 @@ bechase
 beguinage
 belee
 bembex
+bendroflumethiazide
 beneplacit
 benshi
+benzazide
 benzazole
 benzbitriazole
 benzimidazole
@@ -141,8 +145,10 @@ camorristi
 campanini
 campilan
 carayan
+carbazide
 carbazole
 carbimazole
+carbohydrazide
 careenage
 carnage
 carnifex
@@ -161,6 +167,8 @@ chase
 chasm
 chikungunya
 chiminage
+chlorazide
+chlorothiazide
 chromo
 chuvash
 ciceronage
@@ -211,6 +219,7 @@ culavamsa
 cut-in
 cystoceles
 dahabiyas
+daminozide
 damnii
 damnonii
 danoranja
@@ -223,6 +232,7 @@ deles
 dephase
 descendeur
 dhooley
+diazide
 diazole
 dicaryophase
 dictyosteles
@@ -322,6 +332,7 @@ gelee
 genii
 gentilhomme
 geobiont
+gliclazide
 goidel
 gooley
 grainage
@@ -366,7 +377,9 @@ hooley
 houdan
 housetop
 huet-huet
+hydrazide
 hydroceles
+hydrochlorothiazide
 hypohypophysism
 hypophypophysism
 ichthyosism
@@ -388,6 +401,7 @@ iraimbilanja
 isindazole
 isochasm
 isoindazole
+isoniazide
 isosceles
 isoteles
 isoxazole
@@ -671,6 +685,7 @@ scroinogh
 scryne
 seidel
 seles
+semicarbazide
 semiphase
 semsem
 senage
@@ -679,6 +694,7 @@ senusism
 sepia
 septi
 sheepsplit
+sherbetzide
 shikimi
 shinrin-yoku
 shinrinyoku
@@ -735,9 +751,13 @@ suci
 sudan
 sulfamethylthiazole
 sulfathiazole
+sulfazide
 sulfisoxazole
+sulfobenzide
 sulphathiazole
+sulphazide
 sulphisoxazole
+sulphobenzide
 suluan
 superfidel
 surfeit
@@ -769,6 +789,7 @@ thanage
 thenage
 thiabendazole
 thiadiazole
+thiazide
 thiazole
 thiodiazole
 thwartsaw
