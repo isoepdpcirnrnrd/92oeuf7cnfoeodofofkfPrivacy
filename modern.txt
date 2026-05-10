@@ -7,6 +7,7 @@ acetylcarbazole
 acronych
 aculeae
 adespoton
+aeolipyle
 aerobiont
 affinage
 aglipayan
@@ -44,6 +45,7 @@ apabhramsa
 apanage
 apanteles
 apinage
+apopyle
 appanage
 appenage
 appennage
@@ -381,6 +383,7 @@ hydroceles
 hydrochlorothiazide
 hypohypophysism
 hypophypophysism
+hypsipyle
 ichthyosism
 imbrex
 imidazole
@@ -486,6 +489,7 @@ metaphase
 metronidazole
 microfibre
 micromanage
+micropyle
 middelskots
 milan
 mimamsa
@@ -623,6 +627,7 @@ promo
 propatronage
 prophase
 propurchase
+prosopyle
 proteles
 proton
 protosteles
@@ -874,8 +879,3 @@ zanja
 zaptiah
 zoid
 zoogleae
-aeolipyle
-apopyle
-hypsipyle
-micropyle
-prosopyle
