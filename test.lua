@@ -95,26 +95,20 @@ local function SuggestWords(input, count)
 
     input = input:lower()
     local cacheKey = input.."_"..count.."_"..sortMode
+
     if sortMode ~= "Random" and sortMode ~= "Killer" and searchCache[cacheKey] then
         return searchCache[cacheKey]
     end
 
-    local possible = {}
     local results = {}
     local firstLetter = input:sub(1,1)
-    local wordList = WordDictionary[firstLetter] or {}
-    local searchList = (#wordList > 0) and wordList or Words
+    local wordList = WordDictionary[firstLetter] or Words
+    local possible = {}
 
-    local foundStart = false
-
-    for i = 1, #searchList do
-        local word = searchList[i]
-
+    for i = 1, #wordList do
+        local word = wordList[i]
         if word:sub(1, #input) == input then
-            foundStart = true
             table.insert(possible, word)
-        elseif foundStart then
-            break
         end
     end
 
@@ -154,22 +148,20 @@ local function SuggestWords(input, count)
 
         possible = {}
 
-        for i = 1, count do
-            if #link1Words > 0 and math.random(100) <= 95 then
-                table.insert(possible, table.remove(link1Words))
+        local limit = count
+        local target1 = math.floor(limit * 0.75)
+        local target2 = math.floor(limit * 0.25)
 
-            elseif #link2Words > 0 and math.random(100) <= 75 then
-                table.insert(possible, table.remove(link2Words))
+        for i = 1, math.min(target1, #link1Words) do
+            table.insert(possible, link1Words[i])
+        end
 
-            elseif #normalWords > 0 then
-                table.insert(possible, table.remove(normalWords))
+        for i = 1, math.min(target2, #link2Words) do
+            table.insert(possible, link2Words[i])
+        end
 
-            elseif #link1Words > 0 then
-                table.insert(possible, table.remove(link1Words))
-
-            elseif #link2Words > 0 then
-                table.insert(possible, table.remove(link2Words))
-            end
+        for i = 1, #normalWords do
+            table.insert(possible, normalWords[i])
         end
     end
 
