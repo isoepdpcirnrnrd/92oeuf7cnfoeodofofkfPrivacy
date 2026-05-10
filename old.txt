@@ -21,7 +21,6 @@ abitur
 abnaki
 aboardage
 abobra
-abohm
 aboideau
 abomasal
 abonne
@@ -39,7 +38,6 @@ abscisic
 abscissa
 abseils
 absinthian
-absohm
 absolutist
 abstinent
 abstract
@@ -1823,7 +1821,6 @@ begems
 beglerbeglic
 beglerbeglik
 beglic
-begohm
 begoud
 begroans
 begut
@@ -8981,7 +8978,6 @@ kilocurie
 kilocycles
 kilogauss
 kilogrammetre
-kilohm
 kilometre
 kilotonne
 kimbo
@@ -10129,7 +10125,6 @@ megasclerum
 megascopic
 megasporophyll
 megaweber
-megohm
 megrel
 meibomian
 meigomian
@@ -10381,7 +10376,6 @@ microgastrinae
 microgauss
 microgrooves
 microhabitat
-microhm
 microloans
 micromesentery
 micrometre
@@ -10437,7 +10431,6 @@ millicurie
 millimetre
 millimol
 millimolar
-milliohm
 millionairedom
 millioned
 millirems
@@ -11597,7 +11590,6 @@ ogreishly
 ogrishly
 ogtiern
 ohioans
-ohm
 oidia
 oils
 oilstoned
@@ -15305,7 +15297,6 @@ seckels
 seckles
 secluse
 secobarbitals
-secohm
 secoisolariciresinol
 secondary
 secre
@@ -16289,7 +16280,6 @@ stasimon
 stasisidia
 stationed
 statist
-statohm
 statued
 statues
 statuette
@@ -17217,7 +17207,6 @@ tepehua
 tephrosia
 tepor
 tequistlatecan
-teraohm
 teratogen
 terebinthian
 terebra
@@ -17752,7 +17741,6 @@ tredecile
 tredefowel
 treenails
 trefoils
-tregohm
 trekschuits
 tremblor
 tremies

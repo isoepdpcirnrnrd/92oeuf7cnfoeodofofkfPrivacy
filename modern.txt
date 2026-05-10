@@ -300,6 +300,7 @@ fideles
 finetop
 firetop
 fistmeles
+fits
 flabs
 fluyt
 foley
