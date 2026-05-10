@@ -49,7 +49,6 @@ appenage
 appennage
 aripiprazole
 arrayan
-artifex
 ascendeur
 asmoke
 atazir
@@ -875,3 +874,8 @@ zanja
 zaptiah
 zoid
 zoogleae
+aeolipyle
+apopyle
+hypsipyle
+micropyle
+prosopyle
