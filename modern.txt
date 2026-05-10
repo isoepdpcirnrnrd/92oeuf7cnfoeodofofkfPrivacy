@@ -347,6 +347,7 @@ haplophase
 hapten
 havenage
 he'd
+heemraat
 heinz
 heles
 hematoceles
@@ -411,6 +412,7 @@ kayan
 kayokyoku
 kebeles
 khankhuuluu
+kiaat
 kidel
 kilan
 kiloton
