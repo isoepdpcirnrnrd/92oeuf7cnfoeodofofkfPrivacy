@@ -1900,7 +1900,6 @@ bergsonian
 beribboned
 berimbaus
 berith
-berkowitz
 bermuda
 bermudas
 bernicles
@@ -4429,7 +4428,6 @@ cytovirin
 czarina
 czarinas
 czarinian
-czarowitz
 czechoslovakia
 dabbity
 daceloninae
@@ -6292,7 +6290,6 @@ fissioned
 fissury
 fiuman
 fiver
-fixe
 fixion
 flagellar
 flagellatae
@@ -7963,7 +7960,6 @@ hovels
 hovenia
 hoves
 howel
-howitz
 hoyle
 hrimfaxi
 huarizo
@@ -8205,7 +8201,6 @@ iconoclasticism
 iconomaticism
 icterid
 idahoans
-ideefixe
 idiospasm
 idiotish
 idiotropic
@@ -10080,7 +10075,6 @@ maxillar
 maxillipedary
 maxillojugal
 maximon
-maxixe
 mayda
 mayhems
 mayonnaise
@@ -10566,7 +10560,6 @@ mithraicism
 mitogen
 mitrailleuse
 mitsukurina
-mixe
 mixtecan
 mleccha
 mlems
@@ -11253,7 +11246,6 @@ nitromannitol
 nitros
 nitwittery
 nivernaise
-nixe
 nixie
 nixon
 nixonian
@@ -15859,7 +15851,6 @@ sliprails
 slipstreamed
 sliver
 slivovicas
-slivowitz
 sloans
 slogan
 sloken
@@ -19423,7 +19414,6 @@ zoanthacean
 zoanthropic
 zoetropic
 zogan
-zoid
 zolpidems
 zombies
 zomotherapeutic

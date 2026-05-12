@@ -46,7 +46,6 @@ antiphase
 antiproton
 antismoke
 antithesism
-apabhramsa
 apanteles
 apopyle
 apozema
@@ -60,7 +59,6 @@ ateles
 aurifex
 autobahn
 avanguardisti
-ayanamsa
 aye
 azide
 azole
@@ -104,6 +102,7 @@ benzotetrazole
 benzothiazole
 benzothiodiazole
 benzotriazole
+berkowitz
 besmoke
 besplit
 bhisti
@@ -123,6 +122,7 @@ blabs
 blah
 blastocoeles
 bluetop
+blurb
 bonhomme
 booley
 borshch
@@ -134,7 +134,6 @@ brides-to-be
 bromo
 bubbletop
 bubonoceles
-built-in
 bunya
 butsudan
 buy-in
@@ -153,7 +152,6 @@ carbohydrazide
 carbonadoed
 carnifex
 cathayan
-cedar
 cedre
 cephaloceles
 cercelee
@@ -163,7 +161,6 @@ chabuk
 chaenomeles
 chase
 chasm
-chedar
 cheugs
 chikungunya
 chlorazide
@@ -172,6 +169,7 @@ chokidar
 choup
 chowkidar
 chromo
+chuet
 churidar
 chuvash
 cichlid
@@ -206,9 +204,8 @@ croton
 cryptobiont
 ctenii
 cucujid
-culavamsa
-cut-in
 cystoceles
+czarowitz
 dadoed
 dahabiyas
 dalt
@@ -226,6 +223,7 @@ dephase
 descendeur
 desmarestia
 desulphur
+detox
 dhooley
 diazide
 diazole
@@ -339,7 +337,6 @@ gynecomastia
 haak
 haematoceles
 halobiont
-hamsa
 handarm
 haplobiont
 haplophase
@@ -365,7 +362,7 @@ hongkongese
 hooley
 houdan
 housetop
-huet-huet
+howitz
 hydrazide
 hydroceles
 hydrochlorothiazide
@@ -400,7 +397,6 @@ isoxazole
 izvestia
 izvestiyas
 jackassism
-jaghiredar
 jamahiriyas
 jambiyas
 jamoke
@@ -421,7 +417,6 @@ katangese
 kayan
 kayokyoku
 kebeles
-kedar
 khankhuuluu
 kiaat
 kidel
@@ -470,6 +465,7 @@ martinoe
 masjid
 mastoplastia
 matrimonii
+maxixe
 mayan
 megalopa
 melee
@@ -481,11 +477,11 @@ mephistopheles
 messrs
 metaphase
 metronidazole
+mian
 microfibre
 micropyle
 middelskots
 milan
-mimamsa
 minilabs
 mispurchase
 moke
@@ -527,7 +523,6 @@ omikuji
 omnifidel
 operceles
 opifex
-opt-in
 orchestia
 orifex
 oromo
@@ -649,6 +644,7 @@ repurchase
 resarcelee
 resplit
 ressaidar
+retox
 rhabdocoeles
 rhanja
 rhipidistia
@@ -665,7 +661,6 @@ sapeles
 saprobiont
 satoshi
 savs
-schedar
 schnitzel
 schuyt
 sciniph
@@ -691,17 +686,17 @@ shikimi
 shinrin-yoku
 shitzus
 shoji
-shut-in
 sidesplit
 sightsaw
 sikimi
 silva
 siphonosteles
-sit-in
 skramz
 skylabs
 slabs
 sleazos
+slivowitz
+slurb
 smoke
 sociologese
 solipsism
@@ -734,7 +729,6 @@ steles
 stovetop
 strappadoed
 subcalibre
-subedar
 subidar
 subphase
 succinylsulfathiazole
