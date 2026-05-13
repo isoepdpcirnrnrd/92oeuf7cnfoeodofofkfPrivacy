@@ -53,7 +53,6 @@ academicism
 academies
 acaena
 acajou
-acalyptratae
 acanthas
 acantholimon
 acanthopod
@@ -303,7 +302,6 @@ agendums
 aggadas
 aggadic
 agglutinogen
-aggregatae
 agitpunkt
 aglet
 aglipayano
@@ -609,7 +607,6 @@ amphimorula
 amphipneusta
 amphisbaena
 amphisbaenae
-amphisbaenas
 amphisbaenian
 amphitricha
 amphitruo
@@ -632,7 +629,6 @@ amyosthenia
 amyotaxia
 amytals
 anabaena
-anabaenas
 anabaptist
 anabisetia
 anabolic
@@ -757,7 +753,6 @@ anoas
 anodos
 anoli
 anomal
-anomalogonatae
 anomiacea
 anomic
 anomies
@@ -1097,7 +1092,6 @@ archdiplomatist
 archdogmatist
 archdukedom
 archduxe
-archegoniatae
 archenemies
 archenia
 archesporia
@@ -1130,7 +1124,6 @@ ardisia
 arditi
 areason
 arenae
-arenas
 areola
 areolar
 areopagitica
@@ -1263,7 +1256,6 @@ asphyxia
 aspidia
 aspidinol
 aspidoganoidei
-aspiratae
 aspire
 aspirin
 asprawl
@@ -1773,7 +1765,6 @@ bearfoots
 bearishly
 bearnaise
 beastish
-beatae
 beati
 beatitude
 beauclerc
@@ -2491,7 +2482,6 @@ bucorvinae
 budas
 buddage
 budis
-buenas
 buffoon
 bufotoxin
 bugaboo
@@ -2674,7 +2664,6 @@ calycles
 calycoid
 calydonian
 calypsonian
-calyptratae
 calyptrogen
 camails
 cambouis
@@ -2688,7 +2677,6 @@ cameroonian
 camisia
 cammies
 campanian
-campanulatae
 campephagine
 campholic
 campignian
@@ -2739,7 +2727,6 @@ cantaliver
 cantaloupe
 cantals
 canticles
-cantilenas
 cantinas
 cantinier
 cantish
@@ -2836,7 +2823,6 @@ carillons
 carina
 carinae
 carinas
-carinatae
 carinthian
 carisoprodol
 carissa
@@ -2899,7 +2885,6 @@ casks
 casquette
 cassareep
 cassegrainian
-cassenas
 cassette
 cassidinae
 cassinas
@@ -2939,7 +2924,6 @@ catastrophe
 catechu
 categorem
 catenae
-catenas
 caterbrawl
 caterpillar
 caterva
@@ -3837,7 +3821,6 @@ conidia
 coninidia
 coniomycetes
 conjugal
-conjugatae
 conjugial
 conjurors
 conne
@@ -3912,7 +3895,6 @@ copaibic
 copaiye
 copatriots
 copei
-copelatae
 cophasal
 copilots
 coplots
@@ -4177,7 +4159,6 @@ cremor
 crems
 cremsin
 crenae
-crenas
 creophagia
 creped
 crepidula
@@ -4886,7 +4867,6 @@ dinitrogen
 dinka
 dinkums
 dinoceratan
-dinoflagellatae
 dinomic
 diobolons
 dioecism
@@ -5175,8 +5155,6 @@ dozen
 dozent
 drabette
 dracaena
-dracaenas
-dracenas
 drachm
 draconian
 drageoir
@@ -5261,7 +5239,6 @@ dudette
 dudishly
 duecentist
 duello
-duenas
 duenna
 duettist
 duftery
@@ -5295,7 +5272,6 @@ dunnage
 dunnier
 dunny
 duodecimo
-duodenas
 duodenectomies
 duodenojejunostomies
 duopod
@@ -5907,7 +5883,6 @@ eucaryots
 euchlaena
 eucleid
 euclid
-euconjugatae
 eucosia
 eudaimon
 eudemian
@@ -5917,7 +5892,6 @@ eudoxian
 euergetes
 eugenia
 eughen
-euglenas
 eukaryons
 eukaryots
 euler
@@ -6022,7 +5996,6 @@ experimentist
 expiatist
 expire
 exponent
-exsiccatae
 exteroceptist
 extinct
 extispex
@@ -6065,7 +6038,6 @@ faddishly
 faecal
 faecula
 faena
-faenas
 fafaronade
 fagald
 faggots
@@ -6292,7 +6264,6 @@ fiuman
 fiver
 fixion
 flagellar
-flagellatae
 flaglet
 flagonet
 flails
@@ -6516,10 +6487,8 @@ freediver
 freedom
 freemason
 freeposts
-fregatae
 freinage
 freith
-frenatae
 frenemies
 freneticism
 frenzies
@@ -6646,14 +6615,12 @@ galaginae
 galah
 galahad
 galany
-galatae
 galaxian
 galbijjim
 galbraithian
 galbulinae
 galegine
 galeid
-galenas
 galenian
 galeod
 galeopithecoid
@@ -6809,7 +6776,6 @@ gemmier
 gemots
 gems
 genae
-genas
 genep
 genera
 genesiac
@@ -7148,7 +7114,6 @@ grasseye
 grassplots
 grassquits
 grassroots
-gratae
 gratitude
 grattoir
 gratuito
@@ -8006,7 +7971,6 @@ huzzard
 huzzies
 hyacinthian
 hyaena
-hyaenas
 hyakume
 hyalithe
 hyalogen
@@ -8035,7 +7999,6 @@ hydrofoils
 hydrogen
 hydromedusa
 hydronitrogen
-hydroparastatae
 hydrophid
 hydrophinae
 hydrophoria
@@ -8056,7 +8019,6 @@ hydroxybenzene
 hydrozoans
 hydrula
 hyemal
-hyenas
 hyenia
 hygroplasma
 hygroscopic
@@ -8774,7 +8736,6 @@ jubus
 judas
 judogi
 jugal
-jugatae
 jugerum
 juggernautish
 juggles
@@ -9146,7 +9107,6 @@ kyabuka
 kyogen
 kyung
 labdacism
-labiatae
 labioalveolar
 labiodentals
 labiolingual
@@ -9179,7 +9139,6 @@ ladyloves
 laeotropic
 lafayette
 lagenae
-lagenas
 lagenian
 lagorchestes
 lagostomus
@@ -9576,7 +9535,6 @@ loans
 loasa
 loave
 lobar
-lobatae
 lobbied
 lobbies
 lobbyer
@@ -9801,7 +9759,6 @@ madreporacean
 madrid
 madrilenian
 maeandrina
-maecenas
 maenadic
 maeonian
 maestros
@@ -9875,7 +9832,6 @@ malacoid
 malacopod
 maladapt
 malagigi
-malaguenas
 malaise
 malakon
 malambo
@@ -10150,7 +10106,6 @@ meissa
 meith
 mekka
 melaena
-melaenas
 melamed
 melampyritol
 melanagogal
@@ -10167,7 +10122,6 @@ melbourne
 melburnian
 meleagrina
 meleagrinae
-melenas
 meletski
 melica
 melilots
@@ -10578,7 +10532,6 @@ mocuddums
 modafinils
 modello
 modems
-modenas
 moderantist
 moderatist
 modif
@@ -10881,8 +10834,6 @@ munitionette
 munjeet
 munychian
 muraena
-muraenas
-murenas
 murgeoned
 muricoid
 murinae
@@ -11431,7 +11382,6 @@ noria
 norimon
 norma
 normies
-nortenas
 nosethirl
 nostrils
 notanduda
@@ -11459,7 +11409,6 @@ novelettish
 novelettist
 novels
 novenae
-novenas
 novicery
 novillero
 nowel
@@ -11530,7 +11479,6 @@ obitual
 obligati
 obligato
 obligor
-oblongatae
 oblongitude
 obomegoid
 obrazil
@@ -11557,7 +11505,6 @@ ocellar
 ocelot
 ocelots
 ochratoxin
-ocreatae
 octacolic
 octactinian
 octadic
@@ -12059,7 +12006,6 @@ oxysulphid
 oxytocic
 oxytricha
 ozaena
-ozaenas
 ozoned
 ozonoscopic
 ozzies
@@ -12213,7 +12159,6 @@ pannikels
 pannonian
 panoan
 panomphaic
-panorpatae
 panouchi
 panphagia
 panscientist
@@ -12509,7 +12454,6 @@ penicil
 penicils
 penna
 pennage
-pennatae
 pennatulacea
 pennatulacean
 pennatulid
@@ -12558,7 +12502,6 @@ peptotoxin
 pequistes
 peract
 peraeopod
-peratae
 perceiver
 percentual
 percept
@@ -12696,8 +12639,6 @@ phaenogamian
 phaeophycean
 phaeophyll
 phagedaena
-phagedaenas
-phagedenas
 phalaecean
 phalaenae
 phalangerinae
@@ -12738,7 +12679,6 @@ phenolphthalein
 phenolsulfonphthalein
 phenolsulphonephthalein
 phenolsulphonphthalein
-phenomenas
 pheny
 phenylbenzene
 phenylcarbinol
@@ -12762,8 +12702,6 @@ philohela
 philohellenian
 philomots
 philonian
-philopenas
-philopoenas
 philopterid
 philosophe
 philosophedom
@@ -14116,7 +14054,6 @@ queijada
 queijadas
 queint
 quelme
-quenas
 quercitol
 querido
 queridos
@@ -15036,7 +14973,6 @@ saoshyant
 sapajou
 saphena
 saphenae
-saphenas
 saphie
 sapid
 saple
@@ -15150,7 +15086,6 @@ scauper
 scaurie
 scaury
 scavenage
-scenas
 scend
 scepticism
 sceptredom
@@ -15426,7 +15361,6 @@ sempre
 semsems
 senage
 senarii
-senas
 seneca
 senecan
 senectitude
@@ -15700,7 +15634,6 @@ silica
 silicas
 silicean
 silicles
-silicoflagellatae
 silicula
 silktails
 sillabub
@@ -16588,13 +16521,11 @@ subpagoda
 subpartitioned
 subpatellar
 subpenaing
-subpenas
 subpermanent
 subpetiolar
 subplexal
 subplots
 subpoenaing
-subpoenas
 subpolar
 subproblems
 subproletariat
@@ -17276,7 +17207,6 @@ tetradynamian
 tetragynian
 tetrahydrid
 tetrahydrocannabinol
-tetrahymenas
 tetraiodophenolphthalein
 tetraoninae
 tetrapneumonian
@@ -17656,7 +17586,6 @@ totaquina
 totchka
 totems
 totery
-totipalmatae
 tots
 tottery
 touche
@@ -17686,7 +17615,6 @@ toyons
 toyos
 toyota
 tozies
-trabeatae
 trabecula
 trabu
 tracaulon
@@ -18586,7 +18514,6 @@ uranoscopic
 urceolar
 urechitoxin
 uredidia
-urenas
 ureterectomies
 ureterolithotomies
 ureterorrhagia
@@ -18722,7 +18649,6 @@ vauntery
 vedantist
 vedda
 vedette
-veenas
 vegetals
 vegetist
 vehicles
@@ -18758,7 +18684,6 @@ ventrotomies
 verapamils
 veratralbin
 veratrina
-verbenas
 verbesserte
 verderors
 verdi
@@ -18803,7 +18728,6 @@ vesicas
 vesicles
 vesicopubic
 vesicula
-vesiculatae
 vespertilioninae
 vessails
 vestals
@@ -19105,7 +19029,6 @@ wheatpastes
 wheem
 wheeped
 wheeple
-whenas
 whereanent
 wherve
 wheughed

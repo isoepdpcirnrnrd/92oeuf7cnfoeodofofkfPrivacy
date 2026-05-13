@@ -29,9 +29,11 @@ amidakuji
 amidothiazole
 aminotriazole
 amoke
+amphisbaenas
 amueixa
 amuyong
 amylan
+anabaenas
 anaerobiont
 anaphase
 anastrozole
@@ -50,6 +52,7 @@ apanteles
 apopyle
 apozema
 arcual
+arenas
 aripiprazole
 arrayan
 ascendeur
@@ -59,7 +62,6 @@ ateles
 aurifex
 autobahn
 avanguardisti
-aye
 azide
 azole
 azotetrazole
@@ -134,6 +136,7 @@ brides-to-be
 bromo
 bubbletop
 bubonoceles
+buenas
 bunya
 butsudan
 buy-in
@@ -144,6 +147,7 @@ camacey
 camorristi
 campanini
 campilan
+cantilenas
 carayan
 carbazide
 carbazole
@@ -151,6 +155,8 @@ carbimazole
 carbohydrazide
 carbonadoed
 carnifex
+cassenas
+catenas
 cathayan
 cedre
 cephaloceles
@@ -196,6 +202,7 @@ cordonazos
 corvillosum
 counselee
 counterfeit
+crenas
 crenelee
 crescendoed
 cristi
@@ -244,9 +251,14 @@ doenjang-guk
 doley
 dooja
 dooley
+dracaenas
+dracenas
 dreidel
 dreyfusism
+dryth
 du'a'
+duenas
+duodenas
 dyed
 dylan
 earthsmoke
@@ -270,6 +282,7 @@ ephestia
 esomeprazole
 espiegle
 estafa
+euglenas
 eupad
 euprepia
 euryaleae
@@ -277,6 +290,7 @@ eusteles
 euterpe
 facit
 fadeur
+faenas
 falafel
 falanaka
 falsism
@@ -310,6 +324,7 @@ furomonazole
 furzetop
 galabiyas
 galeae
+galenas
 gallabiyas
 gallinazos
 gambadoed
@@ -318,6 +333,7 @@ garlopa
 garrotxa
 gazabo
 gelee
+genas
 genii
 gentilhomme
 geobiont
@@ -363,9 +379,11 @@ hooley
 houdan
 housetop
 howitz
+hyaenas
 hydrazide
 hydroceles
 hydrochlorothiazide
+hyenas
 hypergeustia
 hyperglycistia
 hypohypophysism
@@ -438,6 +456,7 @@ lablabs
 labs
 lacey
 lacrym
+lagenas
 laich
 lamplit
 lansoprazole
@@ -457,6 +476,8 @@ lulabs
 macromastia
 macroplastia
 macrosymbiont
+maecenas
+malaguenas
 malayan
 mandapa
 manganja
@@ -468,7 +489,9 @@ matrimonii
 maxixe
 mayan
 megalopa
+melaenas
 melee
+melenas
 meles
 melicoton
 melocoton
@@ -484,6 +507,7 @@ middelskots
 milan
 minilabs
 mispurchase
+modenas
 moke
 momme
 monaphase
@@ -497,6 +521,8 @@ mourvedre
 multiphase
 multiphoton
 munshi
+muraenas
+murenas
 musjid
 myceles
 mycobiont
@@ -513,7 +539,9 @@ nitrobenzole
 noncounterfeit
 nonnarcissism
 nonpurchase
+nortenas
 nosism
+novenas
 nyah
 nyanja
 nzema
@@ -541,6 +569,7 @@ owlspiegle
 oxadiazole
 oxazole
 oxdiazole
+ozaenas
 pacey
 pachyrhizus
 paegle
@@ -568,9 +597,14 @@ perameles
 persism
 pesh-kabz
 petrosum
+phagedaenas
+phagedenas
 phase
 phasm
+phenomenas
 philistia
+philopenas
+philopoenas
 phospho
 photon
 photophase
@@ -629,6 +663,7 @@ pyrrodiazole
 pyrrotriazole
 qiyas
 quaich
+quenas
 radeur
 rayan
 recercelee
@@ -658,9 +693,11 @@ rushlit
 russism
 salacot
 sapeles
+saphenas
 saprobiont
 satoshi
 savs
+scenas
 schnitzel
 schuyt
 sciniph
@@ -674,6 +711,7 @@ seles
 semicarbazide
 semiphase
 semsem
+senas
 sensism
 senusism
 sepia
@@ -730,7 +768,9 @@ stovetop
 strappadoed
 subcalibre
 subidar
+subpenas
 subphase
+subpoenas
 succinylsulfathiazole
 succinylsulphathiazole
 suci
@@ -764,6 +804,7 @@ teles
 telophase
 tenascin-r
 tetrabromo
+tetrahymenas
 tetramastia
 tetrazole
 thackerayan
@@ -811,19 +852,23 @@ untorpedoed
 uplit
 urazole
 urbex
+urenas
 urethylan
 urodeles
 uruguayan
 vacual
 varicoceles
 vedutisti
+veenas
 veles
+verbenas
 visayan
 voorskots
 wazir
 we'd
 wens
 whase
+whenas
 whiskerandoed
 whitetop
 windjam
