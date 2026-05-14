@@ -103,6 +103,7 @@ achilleid
 achillein
 acholic
 achomawi
+achroglobin
 achromic
 aciclovir
 acicula
@@ -425,6 +426,7 @@ aleye
 alfoncino
 alforge
 alfridary
+algarrobin
 algarsyf
 algebra
 algine
@@ -854,9 +856,11 @@ antiestrogen
 antifascism
 antiforeign
 antifouler
+antihemoglobin
 antihuman
 antihydrogen
 antihydropic
+antijacobin
 antikamnia
 antikathode
 antikenotoxin
@@ -897,6 +901,7 @@ antirabic
 antirabies
 antiracism
 antiritual
+antirobin
 antiromanticism
 antiscepticism
 antischizophrenia
@@ -2787,9 +2792,12 @@ caravanette
 caravels
 carayan
 carbamido
+carbamino-haemoglobin
+carbamino-hemoglobin
 carbies
 carbinier
 carbinol
+carbohemoglobin
 carbohydrogen
 carbolic
 carbonade
@@ -2797,7 +2805,9 @@ carbonado
 carbonara
 carboned
 carbonette
+carbonmonoxyhemoglobin
 carbonnade
+carboxyhemoglobin
 carbromal
 carbuncles
 carcajou
@@ -3412,6 +3422,7 @@ chronoscopic
 chronotropic
 chroococcoid
 chrysanisic
+chrysarobin
 chrysatropic
 chrysogen
 chrysophyll
@@ -3692,6 +3703,7 @@ collogen
 colloq
 collutoria
 colobid
+colobin
 colocolic
 cologarithm
 colognes
@@ -4333,9 +4345,12 @@ cutlette
 cutset
 cuvette
 cuzzies
+cyanmethemoglobin
 cyano
 cyanobenzene
 cyanogen
+cyanomethaemoglobin
+cyanomethemoglobin
 cyanophycean
 cyathi
 cyberathletes
@@ -4389,6 +4404,7 @@ cystospasm
 cystostomies
 cystotomies
 cytoblastemal
+cytoglobin
 cytopenia
 cytoproct
 cytosolic
@@ -5903,6 +5919,7 @@ eupraxia
 eurekas
 eurhodol
 eurhythmies
+eurobin
 eurocreep
 eurodisco
 eurodollar
@@ -6166,6 +6183,7 @@ fernytickles
 fernyticles
 ferredoxin
 ferricyanogen
+ferrihemoglobin
 ferroalloy
 ferroconcretes
 ferrocyanogen
@@ -6916,6 +6934,7 @@ globetrots
 globigerina
 globigerinae
 globigerinas
+globin
 glochchidia
 glochidia
 gloeocapsa
@@ -7315,6 +7334,7 @@ haematinon
 haematocystis
 haematoin
 haematoxylons
+haemoglobin
 haemogregarina
 haemopod
 haemorrhagia
@@ -7412,6 +7432,7 @@ haploperistomic
 haploscopic
 haply
 happi
+haptoglobin
 haptotropic
 hapukas
 haramda
@@ -7550,6 +7571,7 @@ hemiataxia
 hemibasidiomycetes
 hemicycles
 hemidrachm
+hemiglobin
 hemilingual
 hemimetabolic
 hemimetaboly
@@ -7565,6 +7587,7 @@ hemitropic
 hemochromogen
 hemocoele
 hemogenia
+hemoglobin
 hemophagia
 hemopod
 hemorrhoidectomies
@@ -8580,6 +8603,7 @@ jackety
 jackfruits
 jackpots
 jacksonian
+jacobin
 jacobitish
 jacobitishly
 jaconet
@@ -8845,6 +8869,7 @@ katat
 katchinas
 katcinas
 katharina
+kathemoglobin
 kathode
 katinka
 katrina
@@ -9562,7 +9587,6 @@ london
 londonian
 longa
 longan
-longeve
 longganisa
 longilingual
 longinian
@@ -9774,6 +9798,7 @@ magnetist
 magneto
 magnitude
 magots
+magpie-robin
 magyar
 mahajan
 mahaly
@@ -10259,7 +10284,9 @@ metempiric
 metempiricism
 metencephalons
 metes
+methaemoglobin
 methanolic
+methemoglobin
 methinketh
 methodeutic
 methoxybenzene
@@ -10889,6 +10916,8 @@ myocoele
 myofibrillar
 myofibrils
 myogen
+myoglobin
+myohemoglobin
 myoinositol
 myomectomies
 myoneurasthenia
@@ -11982,6 +12011,8 @@ oxyaena
 oxyazo
 oxybenzene
 oxycephaly
+oxyhaemoglobin
+oxyhemoglobin
 oxyhydrogen
 oxylabrax
 oxyphils
@@ -12206,6 +12237,7 @@ parafle
 parafoils
 paragammacism
 paragastrula
+paraglobin
 paraglycogen
 paragnosia
 paragoge
@@ -12214,6 +12246,7 @@ paragrammatist
 paraguayan
 parah
 paraheliotropic
+parahemoglobin
 parahopeite
 parahydrogen
 paralambdacism
@@ -12914,6 +12947,7 @@ pinkos
 pinkroots
 pinnacles
 pinnage
+pinnaglobin
 pinniewinkles
 pinny
 pinnywinkles
@@ -13234,7 +13268,6 @@ polytomies
 polytopic
 polytropic
 polyzoans
-pomak
 pomatomus
 pombe
 pombo
@@ -14642,6 +14675,7 @@ roadway
 roamed
 roans
 roastery
+robin
 robinet
 robots
 robusta
@@ -15226,6 +15260,7 @@ sealioned
 seamed
 seamier
 seare
+searobin
 seasan
 season
 seasoned
@@ -16582,8 +16617,10 @@ sulfoleic
 sulfonephthalein
 sulfophthalein
 sulforicinoleic
+sulphhemoglobin
 sulphid
 sulphito
+sulphmethemoglobin
 sulphocarbolic
 sulphochromic
 sulphocyanogen
@@ -17467,7 +17504,6 @@ tokelauan
 token
 tokneneng
 tokoloshe
-tokomak
 tokopat
 tolan
 tolar
@@ -18875,6 +18911,7 @@ waive
 waiver
 waivode
 waiwai
+wakerobin
 wakhi
 wakon
 wakwak
