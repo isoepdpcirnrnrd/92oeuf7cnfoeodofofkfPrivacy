@@ -4,6 +4,7 @@ ableist
 abrazos
 acethydrazide
 acetylcarbazole
+achroglobin
 acronych
 actinistia
 aculeae
@@ -20,6 +21,7 @@ agterskots
 airy
 ajaja
 akia
+algarrobin
 alleles
 allotheist
 alphonsism
@@ -48,8 +50,11 @@ anthropomorphotheist
 anthropotheist
 antiatheist
 antibiont
+antihemoglobin
+antijacobin
 antiphase
 antiproton
+antirobin
 antismoke
 antitheist
 antithesism
@@ -154,11 +159,16 @@ campanini
 campilan
 canoeist
 cantilenas
+carbamino-haemoglobin
+carbamino-hemoglobin
 carbazide
 carbazole
 carbimazole
+carbohemoglobin
 carbohydrazide
 carbonadoed
+carbonmonoxyhemoglobin
+carboxyhemoglobin
 carnifex
 cassenas
 catenas
@@ -180,6 +190,7 @@ chokidar
 choup
 chowkidar
 chromo
+chrysarobin
 chuet
 churidar
 chuvash
@@ -194,6 +205,7 @@ cochleleae
 coley
 collabs
 collegese
+colobin
 colpheg
 coming-to-be
 comings-to-be
@@ -220,7 +232,11 @@ cryptodeist
 ctenii
 cucujid
 cueist
+cyanmethemoglobin
+cyanomethaemoglobin
+cyanomethemoglobin
 cystoceles
+cytoglobin
 czarowitz
 dadoed
 dalt
@@ -300,6 +316,7 @@ estafa
 euglenas
 eupad
 euprepia
+eurobin
 euryaleae
 eusteles
 euterpe
@@ -313,6 +330,7 @@ falsism
 fascisti
 feist
 felafel
+ferrihemoglobin
 fexinidazole
 fibre
 fideist
@@ -358,6 +376,7 @@ gentilhomme
 geobiont
 gigaherz
 gliclazide
+globin
 goidel
 gooley
 gramarye
@@ -371,11 +390,13 @@ gynaecomastia
 gynecomastia
 haak
 haematoceles
+haemoglobin
 halobiont
 handarm
 haplobiont
 haplophase
 hapten
+haptoglobin
 he'd
 heemraat
 heinz
@@ -383,10 +404,13 @@ heist
 heles
 hematoceles
 hemiageustia
+hemiglobin
+hemoglobin
 hemophileae
 henotheist
 hestia
 hesychasm
+hetairai
 heteromeles
 hidel
 hikuli
@@ -441,6 +465,7 @@ isoteles
 isoxazole
 izvestia
 jackassism
+jacobin
 jamoke
 jelabs
 jemidar
@@ -455,6 +480,7 @@ kanzus
 karateist
 karoshi
 katangese
+kathemoglobin
 kayokyoku
 kebeles
 keist
@@ -500,6 +526,7 @@ macromastia
 macroplastia
 macrosymbiont
 maecenas
+magpie-robin
 malaguenas
 mandapa
 manganja
@@ -525,6 +552,8 @@ meningoceles
 mephistopheles
 messrs
 metaphase
+methaemoglobin
+methemoglobin
 metronidazole
 mian
 microfibre
@@ -536,6 +565,7 @@ misoneist
 misotheist
 mispurchase
 modenas
+moirai
 moke
 momme
 monaphase
@@ -558,6 +588,8 @@ museist
 musjid
 myceles
 mycobiont
+myoglobin
+myohemoglobin
 myriotheist
 mythopeist
 mythopoeist
@@ -610,6 +642,8 @@ owlspiegle
 oxadiazole
 oxazole
 oxdiazole
+oxyhaemoglobin
+oxyhemoglobin
 ozaenas
 pacey
 pachyrhizus
@@ -621,6 +655,8 @@ panaka
 panentheist
 panini
 pantheist
+paraglobin
+parahemoglobin
 paranja
 parasymbiont
 parnassism
@@ -658,8 +694,10 @@ physoclisti
 piblokto
 pillowy
 pilosism
+pinnaglobin
 pipiwharauroa
 pipra
+pirai
 pistia
 pitsaw
 placit
@@ -736,6 +774,7 @@ rhipidistia
 ridgetop
 rijstafel
 rijsttafel
+robin
 roshi
 roton
 roux
@@ -760,6 +799,7 @@ scoley
 scraich
 scroinogh
 scryne
+searobin
 seidel
 selensulphur
 seles
@@ -846,7 +886,9 @@ sulfisoxazole
 sulfobenzide
 sulphathiazole
 sulphazide
+sulphhemoglobin
 sulphisoxazole
+sulphmethemoglobin
 sulphobenzide
 sulphur
 suluan
@@ -931,6 +973,7 @@ veenas
 veles
 verbenas
 voorskots
+wakerobin
 wazir
 we'd
 wens
@@ -958,6 +1001,7 @@ zanja
 zaptiah
 zeist
 zeitgeist
+zirai
 zoid
 zooerastia
 zoogleae
