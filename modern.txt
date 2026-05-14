@@ -161,6 +161,7 @@ carbohydrazide
 carbonadoed
 carnifex
 cassenas
+cassumunars
 catenas
 cedre
 cephaloceles
@@ -172,8 +173,10 @@ chaenomeles
 chase
 chasm
 chawl
+chenars
 cheugs
 chikungunya
+chinars
 chlorazide
 chlorothiazide
 chokidar
@@ -195,8 +198,6 @@ coley
 collabs
 collegese
 colpheg
-coming-to-be
-comings-to-be
 comme
 concepti
 consomme
@@ -235,6 +236,7 @@ degomme
 deist
 deles
 demiatheist
+denars
 dephase
 descendeur
 desmarestia
@@ -249,6 +251,7 @@ dictyosteles
 diedre
 dikaryophase
 diminuendoed
+dinars
 diphase
 diplobiont
 diplophase
@@ -358,6 +361,7 @@ gentilhomme
 geobiont
 gigaherz
 gliclazide
+gnars
 goidel
 gooley
 gramarye
@@ -467,6 +471,7 @@ kiloton
 kiplingese
 kiss-me
 knaidel
+knars
 kneidel
 kokuji
 konini
@@ -480,6 +485,7 @@ lablabs
 labs
 lacey
 lacrym
+lacunars
 lagenas
 laich
 lamplit
@@ -498,6 +504,8 @@ looksism
 low-sulphur
 lowy
 lulabs
+lunars
+lupanars
 macromastia
 macroplastia
 macrosymbiont
@@ -533,6 +541,7 @@ microfibre
 micropyle
 middelskots
 milan
+minars
 minilabs
 misoneist
 misotheist
@@ -540,6 +549,7 @@ mispurchase
 modenas
 moirai
 moke
+molendinars
 momme
 monaphase
 monophase
@@ -597,6 +607,7 @@ operceles
 opifex
 orangeist
 orchestia
+ordinars
 orifex
 oromo
 orpheist
@@ -697,6 +708,7 @@ progressism
 promo
 prophase
 propurchase
+proseminars
 prosopyle
 proteles
 proton
@@ -707,6 +719,7 @@ pseudogeustia
 psychotheist
 pterophryne
 pudeur
+pulvinars
 punaluan
 punany
 purchase
@@ -770,6 +783,7 @@ selensulphur
 seles
 semiatheist
 semicarbazide
+seminars
 semiphase
 semsem
 senas
@@ -802,9 +816,11 @@ sleazos
 slivowitz
 slurb
 smoke
+snars
 snowy
 sociologese
 solipsism
+sonars
 sopranini
 sorrowy
 soudan
@@ -816,6 +832,7 @@ speciesism
 spermatoceles
 speugs
 spiketop
+spinars
 spinifex
 splanchnoceles
 splenii
@@ -879,6 +896,7 @@ tetratheist
 tetrazole
 thalwegs
 theist
+thenars
 theopneustia
 theriotheist
 thiabendazole
@@ -939,6 +957,7 @@ verbenas
 voorskots
 wazir
 we'd
+webinars
 wens
 whase
 whenas
@@ -951,6 +970,7 @@ windowy
 windslabs
 womplit
 woodsmoke
+would-be
 xylan
 yakiniku
 yankeeist

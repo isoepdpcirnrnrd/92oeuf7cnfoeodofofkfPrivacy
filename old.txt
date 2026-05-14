@@ -2903,7 +2903,6 @@ cassinian
 cassius
 cassolette
 cassonade
-cassumunars
 castanian
 castellany
 castellar
@@ -3224,7 +3223,6 @@ chempaduk
 chems
 chemtrails
 chena
-chenars
 chenet
 chenier
 chenopod
@@ -3297,7 +3295,6 @@ chimneypots
 chinachinas
 chinantecan
 chinaroots
-chinars
 chinas
 chinchillette
 chinchona
@@ -4614,7 +4611,6 @@ demotist
 demurs
 denarii
 denarinarii
-denars
 dendraxon
 dendrobatinae
 dendrocoele
@@ -4867,7 +4863,6 @@ dimensioned
 dimetallic
 dimethylbenzene
 dimethylcarbinol
-dinars
 dindon
 dinette
 dingar
@@ -6973,7 +6968,6 @@ glycyrrhizin
 glyoxal
 glyoxime
 glyptals
-gnars
 gnathopod
 gnomic
 gnosticism
@@ -9030,7 +9024,6 @@ klikitat
 klootch
 knack
 knappishly
-knars
 knavishly
 knickknack
 knicknack
@@ -9146,7 +9139,6 @@ lactitol
 lactogen
 lactosid
 lactotoxin
-lacunars
 ladakhi
 laddishly
 ladette
@@ -9675,7 +9667,6 @@ lummier
 lumpectomies
 lumpenproletariat
 lumpishly
-lunars
 luncheoned
 luncheonette
 lunchpails
@@ -9684,7 +9675,6 @@ lungan
 lunier
 lunisolar
 lunka
-lupanars
 lupis
 lushly
 lusitanian
@@ -10426,7 +10416,6 @@ milvinae
 mimicism
 miminae
 minae
-minars
 minas
 minchah
 mincy
@@ -10577,7 +10566,6 @@ molar
 moldasle
 moldovan
 molecula
-molendinars
 molinet
 mollienisia
 mollitude
@@ -11695,7 +11683,6 @@ orchiectomies
 orchils
 orchotomies
 orcinol
-ordinars
 orecchiette
 oregonian
 oreillette
@@ -13713,7 +13700,6 @@ proscenia
 proscholasticism
 proscutellar
 proselytist
-proseminars
 prosequitur
 proseuche
 prosimian
@@ -13915,7 +13901,6 @@ pulmonectomies
 pulpitish
 pulvillar
 pulvils
-pulvinars
 pumies
 pumis
 pumpernickels
@@ -15342,7 +15327,6 @@ semilegendary
 semillons
 semimetallic
 semimetals
-seminars
 seminasal
 seminegro
 seminomad
@@ -15853,7 +15837,6 @@ snakeroots
 snaphaan
 snappishly
 snapshots
-snars
 snastes
 sneak
 sneakeups
@@ -15940,7 +15923,6 @@ somatotropic
 somatotyper
 sombreite
 sonar
-sonars
 sonatinas
 sondage
 songhai
@@ -16078,7 +16060,6 @@ spigots
 spilt
 spinae
 spinage
-spinars
 spinas
 spinet
 spinette
@@ -17276,7 +17257,6 @@ thegndom
 thelorrhagia
 thematist
 thenage
-thenars
 theobromic
 theocentricism
 theocon
@@ -18984,7 +18964,6 @@ webbies
 webcomic
 weber
 webeye
-webinars
 webmails
 wedel
 weeaboo
