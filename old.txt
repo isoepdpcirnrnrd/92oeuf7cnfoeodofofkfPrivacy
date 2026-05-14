@@ -304,6 +304,7 @@ aggadic
 agglutinogen
 agitpunkt
 aglet
+aglipayan
 aglipayano
 aglus
 aglycon
@@ -447,6 +448,7 @@ alienage
 alinasal
 alingual
 aliquots
+aliyas
 aliyos
 aljofaina
 alkahestica
@@ -1174,6 +1176,7 @@ aromal
 aromanticism
 aros
 arowana
+arrayan
 arrhenatherum
 arribadas
 arrivederla
@@ -1182,7 +1185,6 @@ arrivisme
 arrivistes
 arrowier
 arrowroots
-arrowy
 arroyo
 arroyos
 arsacidan
@@ -1569,6 +1571,7 @@ balconette
 baldicoots
 baleare
 balibuntals
+balikbayan
 balistarii
 balistes
 balladic
@@ -1601,6 +1604,7 @@ bambusa
 bampots
 bandage
 bandariya
+bandariyas
 bandeau
 bandeira
 bandelette
@@ -1624,6 +1628,7 @@ banjore
 bannack
 bannerette
 banquette
+bantayan
 bantery
 banuyo
 bapistery
@@ -2011,7 +2016,6 @@ bilingual
 billette
 billons
 billowier
-billowy
 bilobar
 bimbette
 bimbo
@@ -2049,7 +2053,9 @@ birdshots
 birkenia
 birrotch
 birthroots
+bisayan
 bisbeeite
+biscayan
 biscotti
 biscuits
 bisdiapason
@@ -2123,7 +2129,6 @@ bloubiskop
 blowier
 blowies
 blowoff
-blowy
 bludgeoned
 bluefin
 bluestems
@@ -2615,6 +2620,7 @@ caelum
 caenolestes
 cafenet
 cafetoria
+cagayan
 cagots
 cahoots
 cahuy
@@ -2784,6 +2790,7 @@ carangoid
 carapo
 caravanette
 caravels
+carayan
 carbamido
 carbies
 carbinier
@@ -2930,6 +2937,7 @@ caterva
 caterwauler
 catery
 catharina
+cathayan
 cathedrae
 cathedratica
 catheti
@@ -4102,7 +4110,6 @@ cowals
 cowbrute
 cowier
 cowp
-cowy
 coxal
 coxcombity
 coyan
@@ -4422,6 +4429,7 @@ dagesh
 daggles
 daghesh
 daguerreotyper
+dahabiyas
 dahalokely
 daibutsu
 daiko
@@ -4484,6 +4492,7 @@ daubreite
 dauntoned
 dauw
 davidia
+dayan
 daydreamed
 daydreamier
 daysails
@@ -5017,6 +5026,7 @@ divorceuse
 divoto
 divots
 dixie
+diyas
 dizzard
 dizzies
 djent
@@ -5148,7 +5158,6 @@ downier
 downriver
 downzoned
 dowp
-dowy
 doxie
 doyle
 dozen
@@ -5420,7 +5429,6 @@ elastica
 elaterid
 elatery
 elayl
-elbowy
 eldin
 eleaticism
 eleazar
@@ -6530,7 +6538,6 @@ frothi
 frothy
 frowier
 frownier
-frowy
 frozen
 fructidor
 frugal
@@ -6583,7 +6590,6 @@ furmenty
 furnage
 furors
 furrowier
-furrowy
 fursuits
 furuncles
 fusils
@@ -6610,6 +6616,7 @@ gaffsails
 gageite
 gaggles
 gainage
+galabiyas
 galactagoguic
 galaginae
 galah
@@ -6630,6 +6637,7 @@ galidia
 galilee
 galiots
 galipots
+gallabiyas
 gallein
 gallerygoers
 gallic
@@ -7224,6 +7232,7 @@ gubbo
 guberla
 gubernacula
 guberniya
+guberniyas
 gucki
 gudgeoned
 guemal
@@ -7278,7 +7287,6 @@ guttery
 gutturonasal
 guyots
 guzzledom
-gwyddbwyll
 gyeranjjim
 gymbal
 gymnadenia
@@ -7738,6 +7746,7 @@ hightails
 higra
 hikuli
 hilloaing
+himalayan
 himbo
 hinahinas
 hiney
@@ -8583,6 +8592,7 @@ ixodids
 izafat
 izard
 izoklakeite
+izvestiyas
 izzard
 jabot
 jabots
@@ -8610,6 +8620,8 @@ jalebi
 jallebi
 jalor
 jamahiriya
+jamahiriyas
+jambiyas
 jambo
 jambolan
 jambs
@@ -8750,6 +8762,7 @@ jumbal
 jumbies
 jumbo
 jumhouriya
+jumhouriyas
 jumpoff
 jumpshots
 jumpsuits
@@ -8785,6 +8798,7 @@ kabuzuchi
 kaccha
 kachahri
 kachinas
+kadayan
 kaffeeklatsch
 kafir
 kafirin
@@ -8865,6 +8879,7 @@ katun
 katydids
 kaury
 kawaii
+kayan
 kayfabe
 kayos
 kazatske
@@ -9001,6 +9016,7 @@ kivikivi
 kiwai
 kiwanian
 kiwifruits
+kiyas
 kkakdugi
 klatsch
 klaxon
@@ -9622,7 +9638,6 @@ lowbrowism
 loweite
 lowishly
 lowp
-lowy
 loxia
 loxiinae
 loxodromic
@@ -9631,6 +9646,7 @@ loxodromy
 lozell
 lozen
 lubritoria
+lucayan
 lucifugal
 lucile
 lucinacea
@@ -9837,6 +9853,7 @@ malakon
 malambo
 malapportioned
 malapropos
+malayan
 maleic
 malemuits
 malengine
@@ -9959,12 +9976,10 @@ marplots
 marquisette
 marquito
 marrowier
-marrowy
 marrucinian
 marsdenia
 marseillaise
 marshmallowier
-marshmallowy
 martello
 marteniko
 martinet
@@ -10031,6 +10046,7 @@ maxillar
 maxillipedary
 maxillojugal
 maximon
+mayan
 mayda
 mayhems
 mayonnaise
@@ -10045,7 +10061,6 @@ mazzinian
 mccoy
 meadow
 meadowier
-meadowy
 meane
 meare
 measle
@@ -10132,7 +10147,6 @@ melissa
 mellic
 mellivorinae
 mellowier
-mellowy
 melodicas
 melodramaticism
 melodramatist
@@ -10997,7 +11011,6 @@ narcism
 narcissi
 narcoticism
 narcotist
-narrowy
 narthecal
 narw
 narwals
@@ -11412,7 +11425,6 @@ novenae
 novicery
 novillero
 nowel
-nowy
 noxal
 noyant
 nubecula
@@ -11810,6 +11822,8 @@ otoscopic
 otosteon
 oubliette
 oudemian
+ougiyas
+ouguiyas
 ourali
 ourie
 ouroboroi
@@ -12078,6 +12092,7 @@ palatoalveolar
 palatonasal
 palatopterygoid
 palauan
+palayan
 paleanthropic
 paleencephalons
 paleo
@@ -12121,6 +12136,7 @@ panadas
 panade
 panagia
 panamanian
+panayan
 panayano
 panbabylonian
 panbroils
@@ -12185,6 +12201,7 @@ papabot
 papadums
 papaprelatist
 papasan
+papayan
 papelonne
 paphian
 papicolar
@@ -12226,6 +12243,7 @@ paragnosia
 paragoge
 paragoned
 paragrammatist
+paraguayan
 parah
 paraheliotropic
 parahemoglobin
@@ -12902,7 +12920,6 @@ pillau
 pillioned
 pilliver
 pillowier
-pillowy
 pilon
 pilots
 pilsner
@@ -13889,6 +13906,7 @@ pukka
 pulahan
 pulajan
 pulasan
+pulayan
 pulchritude
 puler
 pulicoid
@@ -14006,6 +14024,7 @@ qawwals
 qipchaq
 qipchaqs
 qishlaqs
+qiyas
 qorma
 quackishly
 quackles
@@ -14149,7 +14168,6 @@ raglet
 rahul
 rails
 rainbowier
-rainbowy
 rainier
 rainsuits
 raise
@@ -14222,6 +14240,7 @@ raviney
 ravioli
 rawaru
 rawboned
+rayan
 rayat
 rayonne
 rayons
@@ -14760,7 +14779,6 @@ roves
 rowdyishly
 rowel
 rowies
-rowy
 roxie
 roystonea
 rubaboo
@@ -14887,7 +14905,6 @@ salenixon
 saligots
 salinas
 sallowier
-sallowy
 salmanazar
 salmiac
 salmonet
@@ -15076,7 +15093,6 @@ scapulette
 scapulocoracoid
 scarabaeinae
 scaramouche
-scarecrowy
 scarlatinas
 scarpaing
 scatophagoid
@@ -15455,7 +15471,6 @@ shado
 shadow
 shadowier
 shadowishly
-shadowy
 shaganappi
 shagia
 shaglet
@@ -15474,7 +15489,6 @@ shakti
 shalako
 shallons
 shallots
-shallowy
 shalom
 shalots
 shaly
@@ -15576,7 +15590,6 @@ shoves
 showgoers
 showier
 showoff
-showy
 shreeve
 shrewishly
 shrivels
@@ -15869,7 +15882,6 @@ snowier
 snowploughed
 snowshoers
 snowsuits
-snowy
 snubbe
 snubbishly
 snuggles
@@ -15960,7 +15972,6 @@ sorel
 sorgo
 soricinae
 soricoid
-sorrowy
 sortals
 sorva
 sosia
@@ -16008,7 +16019,6 @@ spanishly
 spansule
 sparkishly
 sparkles
-sparrowy
 spartacism
 sparticles
 spartinas
@@ -16937,7 +16947,6 @@ tallitoth
 talloel
 tallots
 tallowier
-tallowy
 taloned
 talons
 taltushtuntude
@@ -17007,6 +17016,7 @@ taphrina
 tapinocephaly
 taproots
 taqiya
+taqiyas
 taquito
 taramea
 tarantaraing
@@ -17236,6 +17246,7 @@ tewel
 textonyms
 textual
 tezcatlipoca
+thackerayan
 thais
 thalamencephalons
 thalamocoele
@@ -17604,7 +17615,6 @@ towier
 towies
 townier
 townishly
-towy
 toxicoid
 toxicophidia
 toxin
@@ -17952,6 +17962,7 @@ turricula
 tursenoi
 turtledom
 turtledoves
+tusayan
 tuscarora
 tusks
 tutee
@@ -18404,7 +18415,6 @@ unshawl
 unshoots
 unshots
 unshowier
-unshowy
 unshrubd
 unsleeve
 unslogh
@@ -18551,6 +18561,7 @@ urtica
 urticas
 urubu
 urubus
+uruguayan
 urutu
 usenet
 usherette
@@ -18813,6 +18824,7 @@ virtued
 virtues
 visagistes
 visaing
+visayan
 viscerotropic
 viscoid
 visioned
@@ -19070,7 +19082,6 @@ whute
 whyda
 wichtje
 widdrim
-widowy
 wifedom
 wifekin
 wifock
@@ -19081,7 +19092,6 @@ wildishly
 wilkeite
 william
 willowier
-willowy
 wilsonian
 wimbrel
 wimpishly
@@ -19089,7 +19099,6 @@ winceyette
 winceys
 windage
 windowier
-windowy
 windsails
 windway
 winepot
@@ -19236,7 +19245,6 @@ ycleped
 yelek
 yellowier
 yellowtails
-yellowy
 yeomanette
 yeow
 yepeleic
