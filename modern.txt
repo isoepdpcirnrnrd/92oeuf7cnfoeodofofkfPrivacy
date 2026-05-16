@@ -22,7 +22,6 @@ ajaja
 akia
 alleles
 allotheist
-alphonsism
 amastia
 ambassadeur
 ambuscadoed
@@ -52,7 +51,6 @@ antiphase
 antiproton
 antismoke
 antitheist
-antithesism
 apanteles
 apopyle
 apozema
@@ -132,7 +130,6 @@ blurb
 bonhomme
 booley
 borshch
-bossism
 bravadoed
 breist
 brexpiprazole
@@ -189,7 +186,6 @@ chuvash
 cichlid
 cinquecentisti
 citropten
-classism
 clienteles
 coccyzus
 cochleae
@@ -267,7 +263,6 @@ dowy
 dracaenas
 dracenas
 dreidel
-dreyfusism
 dryth
 du'a'
 duenas
@@ -312,7 +307,6 @@ fadeur
 faenas
 falafel
 falanaka
-falsism
 fascisti
 feist
 felafel
@@ -405,6 +399,7 @@ hooley
 houdan
 housetop
 howitz
+hwan
 hyaenas
 hydrazide
 hydroceles
@@ -415,10 +410,7 @@ hygieist
 hylotheist
 hypergeustia
 hyperglycistia
-hypohypophysism
-hypophypophysism
 hypsipyle
-ichthyosism
 ideist
 ideoplastia
 illeist
@@ -445,7 +437,6 @@ isoseist
 isoteles
 isoxazole
 izvestia
-jackassism
 jamoke
 jelabs
 jemidar
@@ -471,6 +462,7 @@ kiloton
 kiplingese
 kiss-me
 knaidel
+knappan
 knars
 kneidel
 kokuji
@@ -500,7 +492,6 @@ libre
 lidar
 limesulphur
 longeve
-looksism
 low-sulphur
 lowy
 lulabs
@@ -576,24 +567,19 @@ mythopeist
 mythopoeist
 nankingese
 narceen
-narcissism
 narrowy
 nazir
-necessism
 neeles
 neist
-nervosism
 netheist
 netop
 neurocoeles
 nitrobenzole
 noncounterfeit
 nondeist
-nonnarcissism
 nonpurchase
 nontheist
 nortenas
-nosism
 novenas
 nowy
 nyah
@@ -601,6 +587,7 @@ nyanja
 nzema
 obadiah
 obex
+omar
 omikuji
 omnifidel
 operceles
@@ -637,8 +624,6 @@ panini
 pantheist
 paranja
 parasymbiont
-parnassism
-parsism
 pascual
 pasteurelleae
 patnidar
@@ -648,7 +633,6 @@ pekingese
 peles
 peloton
 perameles
-persism
 pesh-kabz
 petrosum
 phagedaenas
@@ -657,6 +641,7 @@ pharmacopoeist
 phase
 phasm
 phenomenas
+philippan
 philistia
 philopenas
 philopoenas
@@ -671,7 +656,6 @@ physitheist
 physoclisti
 piblokto
 pillowy
-pilosism
 pipiwharauroa
 pipra
 pirai
@@ -688,7 +672,6 @@ polychsia
 polymastia
 polyphase
 polyptoton
-polysynthesism
 polytheist
 pomak
 pomme
@@ -704,7 +687,6 @@ prepurchase
 presplit
 pretzel
 proatheist
-progressism
 promo
 prophase
 propurchase
@@ -759,12 +741,12 @@ roton
 roux
 rowy
 rushlit
-russism
 sadduceeist
 salacot
 sallowy
 sapeles
 saphenas
+sappan
 saprobiont
 satoshi
 savs
@@ -787,8 +769,6 @@ seminars
 semiphase
 semsem
 senas
-sensism
-senusism
 sepia
 septi
 sestia
@@ -819,7 +799,6 @@ smoke
 snars
 snowy
 sociologese
-solipsism
 sonars
 sopranini
 sorrowy
@@ -828,7 +807,6 @@ spacelabs
 spacey
 sparerib
 sparrowy
-speciesism
 spermatoceles
 speugs
 spiketop
@@ -852,6 +830,7 @@ steepletop
 steles
 stovetop
 strappadoed
+strappan
 subcalibre
 subidar
 subpenas
@@ -877,7 +856,6 @@ surfeit
 symbiont
 symphylan
 synthase
-synthesism
 tabletop
 tabooley
 tacit
