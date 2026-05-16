@@ -1,7 +1,6 @@
 abacot
 abeles
 ableist
-abrazos
 acethydrazide
 acetylcarbazole
 acronych
@@ -51,6 +50,7 @@ antiproton
 antismoke
 antitheist
 apanteles
+apolytikion
 apopyle
 apozema
 arcual
@@ -76,6 +76,7 @@ backsplit
 bahisti
 baidar
 bakkwa
+baloskion
 balsamy
 banjoleles
 banjuleles
@@ -196,10 +197,10 @@ colpheg
 comme
 concepti
 consomme
+contakion
 cooja
 cooley
 copei
-cordonazos
 corvillosum
 cosmotheist
 counselee
@@ -216,6 +217,7 @@ cryptodeist
 ctenii
 cucujid
 cueist
+cuerda
 cystoceles
 czarowitz
 dadoed
@@ -240,7 +242,6 @@ detox
 dhooley
 diazide
 diazole
-diazos
 dicaryophase
 dictyosteles
 diedre
@@ -253,6 +254,7 @@ diplophase
 dischase
 disulfoton
 ditheist
+divos
 djerib
 doenjang-guk
 doley
@@ -290,6 +292,8 @@ enterocoeles
 eobiont
 epeeist
 ephestia
+epimanikion
+epinikion
 epopoeist
 esomeprazole
 espiegle
@@ -340,7 +344,6 @@ furrowy
 furzetop
 galeae
 galenas
-gallinazos
 gambadoed
 ganja
 garlopa
@@ -356,6 +359,8 @@ gigaherz
 gliclazide
 gnars
 goidel
+golomynka
+good-o
 gooley
 gramarye
 grandeur
@@ -444,6 +449,8 @@ jessamy
 jhvh
 joshi
 kabeles
+kalymmaukion
+kamelaukion
 kanaka
 kanteles
 kanzus
@@ -466,6 +473,7 @@ knars
 kneidel
 kokuji
 konini
+kontakion
 korova
 kristi
 kudzus
@@ -483,7 +491,6 @@ lamplit
 lansoprazole
 latticinii
 lavash
-lazos
 letrozole
 libelee
 liblabs
@@ -536,6 +543,7 @@ minilabs
 misoneist
 misotheist
 mispurchase
+mistakion
 modenas
 moirai
 moke
@@ -714,12 +722,15 @@ radeur
 rainbowy
 recercelee
 rechase
+recitativos
 rectoceles
+referda
 reforfeit
 regd
 regle
 reist
 reistafel
+releivos
 reles
 renomme
 reparteeist
@@ -735,6 +746,7 @@ rhipidistia
 ridgetop
 rijstafel
 rijsttafel
+rivos
 roshi
 roton
 roux
@@ -744,6 +756,7 @@ sadduceeist
 salacot
 sallowy
 sapeles
+saperda
 saphenas
 sappan
 saprobiont
@@ -791,7 +804,6 @@ sizeist
 skramz
 skylabs
 slabs
-sleazos
 slivowitz
 slurb
 smoke
@@ -882,6 +894,7 @@ thiazide
 thiazole
 thiodiazole
 thwartsaw
+tifos
 tody
 tokoloshi
 tokomak
@@ -931,7 +944,9 @@ vedutisti
 veenas
 veles
 verbenas
+vivos
 voorskots
+wakwak
 wazir
 we'd
 webinars
@@ -961,6 +976,7 @@ zanja
 zaptiah
 zeist
 zeitgeist
+zerda
 zirai
 zoid
 zooerastia

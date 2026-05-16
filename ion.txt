@@ -152,7 +152,6 @@ aeolodion
 aeration
 aerifaction
 aerification
-aerobion
 aerosolisation
 aerosolization
 aerostation
@@ -200,7 +199,6 @@ alation
 albation
 albication
 albification
-albion
 albitization
 albumenisation
 albumenization
@@ -209,7 +207,6 @@ alcoholisation
 alcoholization
 aldolisation
 aldolization
-alebion
 alectrion
 alembication
 alerion
@@ -272,7 +269,6 @@ amnion
 amortisation
 amortization
 amotion
-amphibion
 amphion
 amplexation
 ampliation
@@ -280,7 +276,6 @@ amplication
 amplification
 amputation
 anaerobation
-anaerobion
 anaesthetization
 anagrammatization
 analogion
@@ -621,7 +616,6 @@ axiomatisation
 axiomatization
 axion
 azofication
-babion
 bacchanalization
 baccheion
 backadation
@@ -641,7 +635,6 @@ bandonion
 bannition
 barbarisation
 barbarization
-barbion
 basculation
 basiation
 basification
@@ -674,7 +667,6 @@ biodegradation
 biodetection
 biodeterioration
 bioinstrumentation
-bion
 bioprecipitation
 bioreaction
 bioregion
@@ -753,7 +745,6 @@ callisection
 calonyction
 calorification
 calumniation
-cambion
 cameration
 camion
 campion
@@ -1072,7 +1063,6 @@ columbeion
 columnation
 columniation
 columnization
-colymbion
 combination
 combustion
 comessation
@@ -1353,7 +1343,6 @@ counterexcommunication
 counterexplanation
 counterexposition
 counterexpostulation
-countergabion
 counterimagination
 counterimitation
 counterindentation
@@ -2238,7 +2227,6 @@ dysoxidation
 ebullition
 eburnation
 eburnification
-eccaleobion
 echinulation
 echolocation
 eclipsation
@@ -2525,7 +2513,6 @@ exauguration
 excalation
 excalceation
 excalfaction
-excambion
 excantation
 excardination
 excarnation
@@ -2878,7 +2865,6 @@ fusillation
 fussification
 fustigation
 futurition
-gabion
 gaelicization
 gallicisation
 gallicization
@@ -3770,7 +3756,6 @@ kerykeion
 ketonization
 kjeldahlization
 kochliarion
-kolobion
 kontakion
 kronion
 kyanisation
@@ -4131,7 +4116,6 @@ metrification
 metrization
 micasization
 mication
-microbion
 microcirculation
 microcombustion
 microdetection
@@ -7735,7 +7719,6 @@ syllabication
 syllabification
 syllogisation
 syllogization
-symbion
 symbolisation
 symbolization
 symmetrisation
