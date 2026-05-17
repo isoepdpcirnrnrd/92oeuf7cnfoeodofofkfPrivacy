@@ -55,7 +55,6 @@ acclimatisation
 acclimatization
 accombination
 accommodation
-accordion
 accorporation
 accreditation
 accrementition
@@ -111,7 +110,6 @@ adfluxion
 adhibition
 adiation
 adinvention
-adion
 adjection
 adjudication
 adjunction
@@ -148,7 +146,6 @@ advection
 adverbiation
 advocation
 advolution
-aeolodion
 aeration
 aerifaction
 aerification
@@ -529,7 +526,6 @@ attribution
 attrition
 attuition
 auction
-audion
 audition
 augmentation
 auguration
@@ -1044,7 +1040,6 @@ colliquation
 colliquefaction
 collocation
 collocution
-collodion
 collodionization
 colluctation
 collution
@@ -1960,7 +1955,6 @@ dezincification
 diabolification
 diabolisation
 diabolization
-diacodion
 diagnostication
 diagonalisation
 diagonalization
@@ -2014,12 +2008,10 @@ dimidiation
 diminution
 dinoturbation
 dinumeration
-dion
 dipartition
 diphthongation
 diphthongisation
 diphthongization
-diploidion
 dipolarization
 diradiation
 directexamination
@@ -2337,9 +2329,6 @@ enamoration
 enarration
 enation
 encapsulation
-encardion
-encheiridion
-enchiridion
 encolpion
 encomion
 encrustation
@@ -2381,7 +2370,6 @@ envenomation
 envenomisation
 envenomization
 eolation
-epeisodion
 ephebeion
 epichorion
 epidermidalization
@@ -2396,7 +2384,6 @@ epilogation
 epimanikion
 epinicion
 epinikion
-epipsychidion
 episcopation
 episcopization
 epistolization
@@ -2874,7 +2861,6 @@ galvanization
 galvanocauterization
 galvanofaradization
 gamification
-gammadion
 gammation
 gangion
 gasification
@@ -3034,7 +3020,6 @@ hiemation
 higgaion
 himation
 hipparion
-hippidion
 hirmologion
 histrion
 homeotransplantation
@@ -3161,7 +3146,6 @@ idealization
 ideation
 identification
 ideomotion
-idion
 idiosepion
 idolisation
 idolization
@@ -3874,8 +3858,6 @@ literalization
 literation
 lithifaction
 lithification
-lithopaedion
-lithopedion
 liticontestation
 litigation
 litiscontestation
@@ -4063,7 +4045,6 @@ melanisation
 melanization
 melioration
 mellification
-melodion
 melodramatization
 memoration
 memorialisation
@@ -4084,7 +4065,6 @@ mercurialisation
 mercurialization
 mercurification
 mercurization
-meridion
 mermithization
 merorganization
 mesmerisation
@@ -5052,7 +5032,6 @@ onion
 opacification
 opaion
 operation
-ophidion
 ophion
 opination
 opinion
@@ -5100,8 +5079,6 @@ osirification
 osmoregulation
 ossification
 ostentation
-osteopaedion
-osteopedion
 ostracion
 ostracization
 ottomanization
@@ -5289,7 +5266,6 @@ palatalization
 palation
 palatization
 palification
-palladion
 palletisation
 palletization
 palliation
@@ -5308,14 +5284,12 @@ pancreatization
 pandation
 pandestruction
 pandiculation
-pandion
 panelation
 panellation
 panhellenion
 panification
 panion
 pankration
-panmelodion
 pannellation
 pantheonization
 papalization
@@ -5381,7 +5355,6 @@ peculation
 peculiarization
 pedicellation
 pediculation
-pedion
 pedipulation
 pedunculation
 pegmatization
@@ -6191,7 +6164,6 @@ proselytisation
 proselytization
 prosemination
 prosification
-prosodion
 prospection
 prospeculation
 prosperation
@@ -6265,9 +6237,7 @@ putation
 putrefaction
 putrification
 puzzleation
-pyramidion
 pyritization
-pyrocollodion
 pyrocondensation
 pyrogenation
 quadrifurcation
@@ -6316,7 +6286,6 @@ radication
 radioactivation
 radiocommunication
 radiolocation
-radion
 radioprotection
 radiosterilization
 radiumization
@@ -6926,7 +6895,6 @@ revivification
 revocation
 revolution
 rhinion
-rhipidion
 rhythmisation
 rhythmization
 rigation
@@ -7183,7 +7151,6 @@ shrinkflation
 sibilation
 siccation
 sideration
-sidion
 sigillation
 sigmation
 signalisation
@@ -7306,7 +7273,6 @@ stabilisation
 stabilization
 stabulation
 stacation
-stadion
 stagflation
 stagion
 stagnation
@@ -7314,7 +7280,6 @@ stanchion
 standardisation
 standardization
 starvation
-stasidion
 station
 staurion
 stauropegion
@@ -7794,7 +7759,6 @@ tergiversation
 terminalization
 termination
 ternion
-terpodion
 terrification
 territorialisation
 territorialization
@@ -7821,7 +7785,6 @@ theologisation
 theologization
 theorisation
 theorization
-theridion
 thermalisation
 thermalization
 thermion
@@ -7859,7 +7822,6 @@ toleration
 tolutation
 tompion
 tonation
-tordion
 tormentation
 torrefacation
 torrefaction
@@ -7972,7 +7934,6 @@ trilobation
 trimerization
 trination
 trinitration
-triodion
 tripartition
 triplication
 tripudiation
@@ -8022,7 +7983,6 @@ tumultuation
 tundation
 turbination
 turcification
-turdion
 turion
 turkification
 turrion
