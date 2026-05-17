@@ -130,6 +130,7 @@ blurb
 bonhomme
 booley
 borshch
+boruca
 bravadoed
 breist
 brexpiprazole
@@ -201,6 +202,7 @@ contakion
 cooja
 cooley
 copei
+coprincipal
 corvillosum
 cosmotheist
 counselee
@@ -295,6 +297,7 @@ ephestia
 epimanikion
 epinikion
 epopoeist
+eruca
 esomeprazole
 espiegle
 estafa
@@ -310,6 +313,7 @@ fadeur
 faenas
 falafel
 falanaka
+farruca
 fascisti
 feist
 felafel
@@ -326,6 +330,7 @@ flabs
 fluyt
 foley
 forchase
+forcipal
 forechase
 forerib
 foretop
@@ -562,6 +567,7 @@ mourvedre
 multiphase
 multiphoton
 multitheist
+municipal
 munshi
 muraenas
 murenas
@@ -594,6 +600,7 @@ nyanja
 nzema
 obadiah
 obex
+oedipal
 omar
 omikuji
 omnifidel
@@ -663,6 +670,7 @@ physitheist
 physoclisti
 piblokto
 pillowy
+pipal
 pipiwharauroa
 pipra
 pirai
@@ -746,6 +754,7 @@ rhipidistia
 ridgetop
 rijstafel
 rijsttafel
+ripal
 rivos
 roshi
 roton
@@ -905,6 +914,7 @@ tracey
 treckschuyt
 treetop
 triazole
+tripal
 triphase
 trisceles
 triskeles
@@ -944,6 +954,7 @@ vedutisti
 veenas
 veles
 verbenas
+verruca
 vivos
 voorskots
 wakwak
@@ -973,6 +984,7 @@ yellowy
 ymca
 yuzus
 zanja
+zantiot
 zaptiah
 zeist
 zeitgeist
