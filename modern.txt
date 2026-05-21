@@ -1,7 +1,6 @@
 abacot
 abeles
 acethydrazide
-acetylcarbazole
 acronych
 actinistia
 aculeae
@@ -21,8 +20,6 @@ amastia
 ambassadeur
 ambuscadoed
 amidakuji
-amidothiazole
-aminotriazole
 amoke
 amphisbaenas
 amueixa
@@ -30,7 +27,6 @@ amuyong
 amylan
 anabaenas
 anaphase
-anastrozole
 aneles
 anepia
 angeles
@@ -47,7 +43,6 @@ apopyle
 apozema
 arcual
 arenas
-aripiprazole
 arrowy
 ascendeur
 asmoke
@@ -56,9 +51,6 @@ ateles
 aurifex
 autobahn
 azide
-azole
-azotetrazole
-azoxazole
 babaylan
 babracot
 backsplit
@@ -87,16 +79,6 @@ bendroflumethiazide
 beneplacit
 benshi
 benzazide
-benzazole
-benzbitriazole
-benzimidazole
-benziminazole
-benzodiazole
-benzole
-benzotetrazole
-benzothiazole
-benzothiodiazole
-benzotriazole
 beowulf
 berkowitz
 besmoke
@@ -108,8 +90,6 @@ billowy
 billyos
 biologese
 biphase
-bistetrazole
-bistriazole
 blabs
 blah
 blastocoeles
@@ -123,7 +103,6 @@ boruca
 botel
 bravadoed
 brekky
-brexpiprazole
 bride-to-be
 brides-to-be
 bromo
@@ -141,8 +120,6 @@ campanini
 campilan
 cantilenas
 carbazide
-carbazole
-carbimazole
 carbohydrazide
 carbonadoed
 carnifex
@@ -229,7 +206,6 @@ desulphur
 detox
 dhooley
 diazide
-diazole
 dicaryophase
 dictyosteles
 diedre
@@ -263,7 +239,6 @@ earthsmoke
 eaux
 ecca
 eczema
-efinaconazole
 efl
 ekpweles
 ekueles
@@ -282,7 +257,6 @@ epimanikion
 epinikion
 erizo
 eruca
-esomeprazole
 espiegle
 estafa
 euglenas
@@ -298,7 +272,6 @@ falafel
 falanaka
 farruca
 felafel
-fexinidazole
 fibre
 fidel
 fideles
@@ -323,8 +296,6 @@ froideur
 frondeur
 frowy
 fuchsia
-furodiazole
-furomonazole
 furrowy
 furzetop
 galeae
@@ -396,10 +367,7 @@ hypsipyle
 ideoplastia
 ikra
 imbrex
-imidazole
-iminazole
 inchase
-indazole
 infidel
 infobahn
 innuendoed
@@ -409,13 +377,10 @@ interchase
 interfibre
 interphase
 iraimbilanja
-isindazole
 isochasm
-isoindazole
 isoniazide
 isosceles
 isoteles
-isoxazole
 izvestia
 jamoke
 jelabs
@@ -459,11 +424,9 @@ lacunars
 lagenas
 laich
 lamplit
-lansoprazole
 latticinii
 lavash
 lehrjahre
-letrozole
 libelee
 liblabs
 libre
@@ -504,7 +467,6 @@ mephistopheles
 messrs
 mestizo
 metaphase
-metronidazole
 mian
 microfibre
 micropyle
@@ -544,7 +506,6 @@ ndogo
 neeles
 netop
 neurocoeles
-nitrobenzole
 noncounterfeit
 nonpurchase
 nortenas
@@ -565,7 +526,6 @@ orchestia
 ordinars
 orifex
 oromo
-osotriazole
 ostia
 otsukimi
 outchase
@@ -575,9 +535,6 @@ overchase
 overpurchase
 oversmoke
 owlspiegle
-oxadiazole
-oxazole
-oxdiazole
 ozaenas
 pacey
 pachyrhizus
@@ -612,7 +569,6 @@ phospho
 photon
 photophase
 photoproton
-phthalylsulfathiazole
 piblokto
 pillowy
 pipal
@@ -639,7 +595,6 @@ ponzus
 pooa
 pooja
 portugese
-pozole
 prepurchase
 presplit
 pretzel
@@ -661,9 +616,6 @@ punaluan
 punany
 purchase
 putelee
-pyrazole
-pyrrodiazole
-pyrrotriazole
 quaich
 quenas
 radeur
@@ -791,18 +743,11 @@ subidar
 subpenas
 subphase
 subpoenas
-succinylsulfathiazole
-succinylsulphathiazole
 suci
 sudan
-sulfamethylthiazole
-sulfathiazole
 sulfazide
-sulfisoxazole
 sulfobenzide
-sulphathiazole
 sulphazide
-sulphisoxazole
 sulphobenzide
 sulphur
 suluan
@@ -828,16 +773,11 @@ tenascin-r
 tetrabromo
 tetrahymenas
 tetramastia
-tetrazole
 tezcatlipoca
 thalwegs
 thenars
 theopneustia
-thiabendazole
-thiadiazole
 thiazide
-thiazole
-thiodiazole
 thwartsaw
 tifos
 tody
@@ -849,7 +789,6 @@ tracey
 treckschuyt
 treetop
 tremor
-triazole
 tripal
 triphase
 trisceles
@@ -878,7 +817,6 @@ unsplit
 untorpedoed
 uplit
 upsy
-urazole
 urbex
 urenas
 urethylan
