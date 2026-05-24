@@ -42,9 +42,18 @@ local function SuggestWords(input, count)
     
     local possible = {}
     local results = {}
+    local sourceWords
 
-    for i=1,#Words do
-        local word = Words[i]
+    if #input == 1 then
+        sourceWords = Words
+    elseif #input == 2 then
+        sourceWords = Words
+    else
+        sourceWords = Words
+    end
+
+    for i=1,#sourceWords do
+        local word = sourceWords[i]
 
         if string.find(word, input, 1, true) then
             table.insert(possible, word)
@@ -52,17 +61,27 @@ local function SuggestWords(input, count)
     end
     
     if sortMode == "Shortest" then
+        for i=#possible,2,-1 do
+            local j = math.random(i)
+            possible[i],possible[j] = possible[j],possible[i]
+        end
+
         table.sort(possible,function(a,b)
             if #a == #b then
-                return math.random(0,1) == 1
+                return a < b
             end
             return #a < #b
         end)
 
     elseif sortMode == "Longest" then
+        for i=#possible,2,-1 do
+            local j = math.random(i)
+            possible[i],possible[j] = possible[j],possible[i]
+        end
+
         table.sort(possible,function(a,b)
             if #a == #b then
-                return math.random(0,1) == 1
+                return a < b
             end
             return #a > #b
         end)
