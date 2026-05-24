@@ -35,44 +35,39 @@ local function SuggestWords(input, count)
     
     input = input:lower()
     local cacheKey = input.."_"..count.."_"..sortMode
-    if sortMode ~= "Random" then
-        if searchCache[cacheKey] then
-            return searchCache[cacheKey]
-        end
+
+    if searchCache[cacheKey] then
+        return searchCache[cacheKey]
     end
     
     local possible = {}
     local results = {}
-    local searchList
 
-if sortMode == "Contains Exactly" then
-    searchList = Words
-else
-    local firstLetter = input:sub(1,1)
-    local wordList = WordDictionary[firstLetter] or {}
-    searchList = #wordList > 0 and wordList or Words
-end
-    
-    for i=1,#searchList do
-    local word = searchList[i]
+    for i=1,#Words do
+        local word = Words[i]
 
-    if sortMode == "Contains Exactly" then
         if string.find(word, input, 1, true) then
             table.insert(possible, word)
         end
-    else
-        if word:sub(1,#input) == input then
-            table.insert(possible, word)
-        end
     end
-
-end
     
-    if sortMode=="Shortest" then
-        table.sort(possible,function(a,b) return #a<#b end)
-    elseif sortMode=="Longest" then
-        table.sort(possible,function(a,b) return #a>#b end)
-    elseif sortMode=="Random" or sortMode=="Contains Exactly" then
+    if sortMode == "Shortest" then
+        table.sort(possible,function(a,b)
+            if #a == #b then
+                return math.random(0,1) == 1
+            end
+            return #a < #b
+        end)
+
+    elseif sortMode == "Longest" then
+        table.sort(possible,function(a,b)
+            if #a == #b then
+                return math.random(0,1) == 1
+            end
+            return #a > #b
+        end)
+
+    elseif sortMode == "Contains Exactly" then
         for i=#possible,2,-1 do
             local j = math.random(i)
             possible[i],possible[j] = possible[j],possible[i]
@@ -80,13 +75,12 @@ end
     end
     
     local maxResults = math.min(count,#possible)
+
     for i=1,maxResults do
         table.insert(results, possible[i])
     end
     
-    if sortMode ~= "Random" and sortMode ~= "Contains Exactly" then
-        searchCache[cacheKey] = results
-    end
+    searchCache[cacheKey] = results
     return results
 end
 
@@ -185,7 +179,7 @@ sortButton.Font=Enum.Font.Gotham
 sortButton.TextSize=11
 Instance.new("UICorner",sortButton).CornerRadius=UDim.new(0,4)
 
-local sortModes = {"Contains Exactly", "Shortest", "Longest", "Random"}
+local sortModes = {"Contains Exactly", "Shortest", "Longest"}
 local currentSortIndex = 1
 
 sortButton.MouseButton1Click:Connect(function()

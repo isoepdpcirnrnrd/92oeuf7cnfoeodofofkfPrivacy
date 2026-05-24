@@ -83,6 +83,7 @@ beowulf
 berkowitz
 besmoke
 besplit
+betamax
 bhumidar
 bidar
 bikh
@@ -299,6 +300,7 @@ fretsaw
 froideur
 frondeur
 frowy
+frs
 fuchsia
 furrowy
 furzetop
@@ -335,6 +337,7 @@ haematoceles
 handarm
 haplophase
 hapten
+hawaii
 he'd
 heemraat
 heles
@@ -446,6 +449,8 @@ lupanars
 macromastia
 macroplastia
 maecenas
+mafic
+malaccamax
 malaguenas
 mandapa
 manganja
@@ -509,6 +514,7 @@ narrowy
 nazir
 ndogo
 neeles
+neo-panamax
 netop
 neurocoeles
 noncounterfeit
@@ -600,6 +606,7 @@ ponzus
 pooa
 pooja
 portugese
+post-panamax
 prepurchase
 presplit
 pretzel
@@ -808,6 +815,7 @@ tuvaluan
 tuxedoed
 ukeleles
 ukuleles
+ultramafic
 unbarricadoed
 unbastinadoed
 uncounterfeit
