@@ -31,6 +31,7 @@ aneles
 anepia
 angeles
 angustia
+animo
 anisomeles
 anopheles
 antiphase
@@ -63,7 +64,6 @@ banjuleles
 banuyo
 barbudan
 barricadoed
-barszcz
 baruya
 barye
 bastinadoed
@@ -245,6 +245,7 @@ eaux
 ecca
 eczema
 efl
+eid-ul-fitr
 ekpweles
 ekueles
 ekweles
@@ -315,6 +316,7 @@ gelee
 genas
 genii
 gentilhomme
+geronimo
 gigaherz
 gilenyer
 gliclazide
@@ -434,7 +436,6 @@ laich
 lamplit
 latticinii
 lavash
-lehrjahre
 libelee
 liblabs
 libre
