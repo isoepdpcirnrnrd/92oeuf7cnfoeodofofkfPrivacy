@@ -10,6 +10,7 @@ adiapneustia
 aegle
 aeolipyle
 ageustia
+agos
 agterskots
 airy
 ajaja
@@ -43,6 +44,7 @@ apolytikion
 apopyle
 apozema
 arcual
+areg
 arenas
 arrowy
 ascendeur
@@ -54,7 +56,6 @@ autobahn
 azide
 babaylan
 babracot
-backsplit
 baidar
 bakkwa
 baloskion
@@ -82,7 +83,6 @@ benzazide
 beowulf
 berkowitz
 besmoke
-besplit
 betamax
 bhumidar
 bidar
@@ -130,6 +130,7 @@ carrizo
 cassenas
 cassumunars
 catenas
+cays
 cedre
 cenizo
 cephaloceles
@@ -223,11 +224,14 @@ divos
 djerib
 dlcs
 dm
+doen
 doenjang-guk
 doley
 dooja
 dooley
+dost
 dowy
+doxy
 dracaenas
 dracenas
 dreidel
@@ -287,6 +291,7 @@ fits
 flabs
 flotel
 fluyt
+foen
 foley
 forchase
 forcipal
@@ -352,6 +357,7 @@ hetairai
 heteromeles
 hidel
 hikuli
+hits
 holey
 homalosternii
 homme
@@ -363,7 +369,6 @@ houdan
 housetop
 howitz
 huarizo
-hwan
 hyaenas
 hydrazide
 hydroceles
@@ -397,6 +402,7 @@ jemidar
 jerib
 jessamy
 jhvh
+jovy
 kabeles
 kalymmaukion
 kamelaukion
@@ -423,6 +429,7 @@ kontakion
 korova
 kudzus
 kuli
+kurn
 kuzus
 la-de-da
 lablabs
@@ -432,7 +439,6 @@ lacrym
 lacunars
 lagenas
 laich
-lamplit
 latticinii
 lavash
 libelee
@@ -547,6 +553,7 @@ overpurchase
 oversmoke
 owlspiegle
 ozaenas
+paar
 pacey
 pachyrhizus
 paegle
@@ -608,7 +615,6 @@ pooja
 portugese
 post-panamax
 prepurchase
-presplit
 pretzel
 promo
 prophase
@@ -644,10 +650,10 @@ reistafel
 releivos
 reles
 renomme
+rens
 rephase
 repurchase
 resarcelee
-resplit
 ressaidar
 retox
 rhabdocoeles
@@ -695,7 +701,6 @@ sestia
 shadowy
 shallowy
 shawl
-sheepsplit
 sherbetzide
 shiatzus
 shikimi
@@ -703,7 +708,6 @@ shinrin-yoku
 shitzus
 shoji
 showy
-sidesplit
 sightsaw
 sikimi
 silva
@@ -734,7 +738,6 @@ spinifex
 splanchnoceles
 splenii
 spleninii
-split
 splitsaw
 spondylizema
 spraich
@@ -826,9 +829,7 @@ uniphase
 unpalisadoed
 unshawl
 unshowy
-unsplit
 untorpedoed
-uplit
 upsy
 urbex
 urenas
@@ -854,11 +855,11 @@ whenas
 whiskerandoed
 whitetop
 widowy
+wied
 willowy
 windjam
 windowy
 windslabs
-womplit
 woodsmoke
 would-be
 xylan
