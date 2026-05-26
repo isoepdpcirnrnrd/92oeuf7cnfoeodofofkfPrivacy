@@ -15,6 +15,7 @@ agterskots
 airy
 ajaja
 akia
+aldm
 alleles
 almemor
 amastia
@@ -223,7 +224,6 @@ disulfoton
 divos
 djerib
 dlcs
-dm
 doen
 doenjang-guk
 doley
