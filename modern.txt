@@ -18,19 +18,19 @@ akia
 aldm
 alleles
 almemor
+alpha-bisabolol
 amastia
 ambassadeur
 ambuscadoed
 amidakuji
 amoke
 amphisbaenas
-amueixa
+amuchco
 amuyong
 amylan
 anabaenas
 anaphase
 aneles
-anepia
 angeles
 angustia
 animo
@@ -52,6 +52,7 @@ ascendeur
 asmoke
 atazir
 ateles
+atenolol
 aurifex
 autobahn
 azide
@@ -92,6 +93,7 @@ billowy
 billyos
 biologese
 biphase
+bisoprolol
 blabs
 blastocoeles
 blowy
@@ -225,7 +227,6 @@ divos
 djerib
 dlcs
 doen
-doenjang-guk
 doley
 dooja
 dooley
@@ -240,7 +241,6 @@ dryth
 du'a'
 duenas
 duodenas
-durukuli
 dyed
 dylan
 earthsmoke
@@ -248,7 +248,6 @@ eaux
 ecca
 eczema
 efl
-eid-ul-fitr
 ekpweles
 ekueles
 ekweles
@@ -257,6 +256,7 @@ elbowy
 emphase
 encephaloceles
 enchase
+end-all
 enshawl
 ensulphur
 enteroceles
@@ -270,7 +270,6 @@ espiegle
 estafa
 euglenas
 eupad
-euprepia
 euryaleae
 eusteles
 euterpe
@@ -316,6 +315,7 @@ ganja
 garlopa
 garrotxa
 gazabo
+gazang
 gelee
 genas
 genii
@@ -343,6 +343,7 @@ haematoceles
 handarm
 haplophase
 hapten
+harem
 hawaii
 he'd
 heemraat
@@ -356,7 +357,6 @@ hesychasm
 hetairai
 heteromeles
 hidel
-hikuli
 hits
 holey
 homalosternii
@@ -379,7 +379,6 @@ hyperglycistia
 hypsipyle
 ideoplastia
 ijazat
-ikra
 imbrex
 inchase
 infidel
@@ -418,9 +417,7 @@ kidel
 kilan
 kiloton
 kiplingese
-kiss-me
 knaidel
-knappan
 knars
 kneidel
 kokuji
@@ -428,7 +425,6 @@ konini
 kontakion
 korova
 kudzus
-kuli
 kurn
 kuzus
 la-de-da
@@ -579,7 +575,6 @@ phagedenas
 phase
 phasm
 phenomenas
-philippan
 philistia
 philopenas
 philopoenas
@@ -614,10 +609,12 @@ pooa
 pooja
 portugese
 post-panamax
+practolol
 prepurchase
 pretzel
 promo
 prophase
+propranolol
 propurchase
 proseminars
 prosopyle
@@ -674,8 +671,6 @@ sallowy
 sapeles
 saperda
 saphenas
-sappan
-savs
 scarecrowy
 scenas
 schizo
@@ -695,7 +690,6 @@ seminars
 semiphase
 semsem
 senas
-sepia
 septi
 sestia
 shadowy
@@ -713,7 +707,6 @@ sikimi
 silva
 siphonosteles
 skime
-skramz
 skylabs
 slabs
 slivowitz
@@ -752,7 +745,6 @@ steepletop
 steles
 stovetop
 strappadoed
-strappan
 subcalibre
 subidar
 subpenas
@@ -797,6 +789,7 @@ thwartsaw
 tifos
 tody
 tokomak
+toktokje
 torchlit
 torpedoed
 towy
