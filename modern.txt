@@ -1,5 +1,8 @@
 abacot
+abdominal-a
 abeles
+ace-k
+acesulfame-k
 acethydrazide
 acronych
 actinistia
@@ -56,6 +59,7 @@ atenolol
 aurifex
 autobahn
 azide
+azomethine-h
 babaylan
 babracot
 baidar
@@ -106,6 +110,7 @@ booley
 borshch
 boruca
 botel
+bottle-o
 bravadoed
 brekky
 bride-to-be
@@ -151,6 +156,7 @@ cheugs
 chikungunya
 chinars
 chlorazide
+chlorophyll-a
 chlorothiazide
 chokidar
 chorizo
@@ -188,6 +194,7 @@ crenelee
 crescendoed
 cromme
 croton
+cryptophane-a
 ctenii
 cucujid
 cuerda
@@ -231,6 +238,7 @@ doley
 dooja
 dooley
 dost
+double-o
 dowy
 doxy
 dracaenas
@@ -256,7 +264,6 @@ elbowy
 emphase
 encephaloceles
 enchase
-end-all
 enshawl
 ensulphur
 enteroceles
@@ -287,6 +294,7 @@ finetop
 firetop
 fistmeles
 fits
+five-o
 flabs
 flotel
 fluyt
@@ -331,6 +339,8 @@ good-o
 gooley
 gramarye
 grandeur
+gray-a
+grey-a
 groom-to-be
 grooms-to-be
 guadagnini
@@ -409,6 +419,7 @@ kanaka
 kanteles
 kanzus
 kapok
+karay-a
 katangese
 kayokyoku
 kebeles
@@ -416,6 +427,7 @@ kiaat
 kidel
 kilan
 kiloton
+kinaray-a
 kiplingese
 knaidel
 knars
@@ -435,6 +447,7 @@ lacrym
 lacunars
 lagenas
 laich
+lame-o
 latticinii
 lavash
 libelee
@@ -442,6 +455,8 @@ liblabs
 libre
 lidar
 limesulphur
+ling-ling-o
+lingling-o
 longeve
 low-sulphur
 lowy
@@ -610,6 +625,7 @@ pooja
 portugese
 post-panamax
 practolol
+pre-k
 prepurchase
 pretzel
 promo
@@ -799,6 +815,7 @@ treetop
 tremor
 tripal
 triphase
+triple-a
 trisceles
 triskeles
 trochleae
