@@ -175,10 +175,10 @@ local info = Instance.new("TextLabel", contentFrame)
 info.Size=UDim2.new(1,-10,0,30)
 info.Position=UDim2.new(0,5,0,30)
 info.BackgroundTransparency=1
-info.Text="Word Bomb Searcher (286k)"
+info.Text="Prefix: "
 info.TextColor3=Color3.fromRGB(100,255,100)
 info.Font=Enum.Font.Gotham
-info.TextSize=10
+info.TextSize=12
 info.TextXAlignment=Enum.TextXAlignment.Center
 info.TextWrapped=true
 
@@ -391,5 +391,102 @@ spawn(function()
 
     if h.Text ~= "" then
         UpdateSuggestions()
+    end
+end)
+
+local currentPrefix = ""
+
+local function GetPrefix()
+    local success, result = pcall(function()
+
+        local gamecontainer = game.Players.LocalPlayer
+            .PlayerGui.GameUI.Container.GameSpace.DefaultUI.GameContainer
+
+        if #gamecontainer.DesktopContainer.InfoFrameContainer:GetChildren() > 0 then
+            gamecontainer =
+                gamecontainer.DesktopContainer
+                .InfoFrameContainer
+                .InfoFrame
+                .TextFrame
+        else
+            gamecontainer =
+                gamecontainer.Mobile
+                .MobileContainer
+                .InfoFrame
+                .TextFrame
+        end
+
+        local prefix = ""
+
+        for _,v in pairs(gamecontainer:GetChildren()) do
+            if v:FindFirstChild("Letter") and v.Visible then
+                prefix = prefix .. v.Letter.TextLabel.Text
+            end
+        end
+
+        return prefix
+    end)
+
+    if success and result then
+        return result
+    end
+
+    return ""
+end
+
+spawn(function()
+    while task.wait(0.1) do
+
+        local detected = GetPrefix()
+
+        if detected ~= currentPrefix then
+            currentPrefix = detected
+
+            info.Text = "Prefix: "..detected
+
+            if detected ~= "" then
+                ClearSuggestions()
+
+                local suggests = SuggestWords(detected,1000)
+
+                if #suggests == 0 then
+                    local message = Instance.new("TextLabel",list)
+                    message.Size=UDim2.new(1,0,0,22)
+                    message.BackgroundTransparency=1
+                    message.Text="No words found for: '"..detected.."'"
+                    message.TextColor3=Color3.fromRGB(255,100,100)
+                    message.Font=Enum.Font.Gotham
+                    message.TextSize=12
+                    message.TextXAlignment=Enum.TextXAlignment.Center
+                else
+                    local totalPages = math.ceil(#suggests/wordsPerPage)
+                    local startIndex=(currentPage-1)*wordsPerPage+1
+                    local endIndex=math.min(currentPage*wordsPerPage,#suggests)
+
+                    pageLabel.Text="Page "..currentPage.."/"..totalPages
+                    prevButton.Visible=currentPage>1
+                    nextButton.Visible=currentPage<totalPages
+
+                    for i=startIndex,endIndex do
+                        local word = suggests[i]
+
+                        local btn = Instance.new("TextButton",list)
+                        btn.Size=UDim2.new(1,0,0,22)
+                        btn.BackgroundColor3=Color3.fromRGB(45,45,45)
+                        btn.TextColor3=Color3.fromRGB(255,255,255)
+                        btn.Font=Enum.Font.Gotham
+                        btn.TextSize=12
+                        btn.Text=word
+                        btn.AutoButtonColor=true
+                        Instance.new("UICorner",btn).CornerRadius=UDim.new(0,4)
+                        btn.Selectable=false
+
+                        btn.MouseButton1Click:Connect(function()
+                            h.Text=word
+                        end)
+                    end
+                end
+            end
+        end
     end
 end)
