@@ -1,8 +1,5 @@
 abacot
-abdominal-a
 abeles
-ace-k
-acesulfame-k
 acethydrazide
 acronych
 actinistia
@@ -110,7 +107,6 @@ booley
 borshch
 boruca
 botel
-bottle-o
 bravadoed
 brekky
 bride-to-be
@@ -156,7 +152,6 @@ cheugs
 chikungunya
 chinars
 chlorazide
-chlorophyll-a
 chlorothiazide
 chokidar
 chorizo
@@ -201,6 +196,7 @@ cuerda
 cystoceles
 czarowitz
 dadoed
+dalf
 daminozide
 damnii
 damnonii
@@ -238,7 +234,6 @@ doley
 dooja
 dooley
 dost
-double-o
 dowy
 doxy
 dracaenas
@@ -294,7 +289,6 @@ finetop
 firetop
 fistmeles
 fits
-five-o
 flabs
 flotel
 fluyt
@@ -339,8 +333,6 @@ good-o
 gooley
 gramarye
 grandeur
-gray-a
-grey-a
 groom-to-be
 grooms-to-be
 guadagnini
@@ -353,7 +345,6 @@ haematoceles
 handarm
 haplophase
 hapten
-harem
 hawaii
 he'd
 heemraat
@@ -447,7 +438,6 @@ lacrym
 lacunars
 lagenas
 laich
-lame-o
 latticinii
 lavash
 libelee
@@ -625,7 +615,6 @@ pooja
 portugese
 post-panamax
 practolol
-pre-k
 prepurchase
 pretzel
 promo
@@ -681,7 +670,6 @@ roton
 roux
 rowy
 rushlit
-rux
 salacot
 sallowy
 sapeles
@@ -853,6 +841,7 @@ verbenas
 verruca
 vivos
 voorskots
+wabi
 wakwak
 walu
 wazir
