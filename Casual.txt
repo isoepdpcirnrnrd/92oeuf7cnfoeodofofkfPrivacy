@@ -1,34 +1,22 @@
-local url=(function()local a={104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,81,55,90,120,78,51,76,56,109,84,50,80,69,119,72,107,65,57,99,70,114,88,121,83,47,82,57,118,45,49,122,45,75,45,101,78,112,45,55,87,100,88,50,45,113,76,109,84,45,47,114,101,102,115,47,104,101,97,100,115,47,115,111,109,101,116,104,105,110,103,47,119,111,114,100,115,46,116,120,116}local b={}for i=1,#a do b[i]=string.char(a[i])end;return table.concat(b)end)()
+local url=(function()local a={104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,81,55,90,120,78,51,76,56,109,84,50,80,69,119,72,107,65,57,99,70,114,88,121,83,47,82,57,118,45,49,122,45,75,45,101,78,112,45,55,87,100,88,50,45,113,76,109,84,45,47,114,101,102,115,47,104,101,97,100,115,47,115,111,109,101,116,104,105,110,103,47,99,97,115,117,97,108,95,119,111,114,100,115,46,116,120,116}local b={}for i=1,#a do b[i]=string.char(a[i])end;return table.concat(b)end)()
 
 local Words = {}
 local loaded = false
 local WordDictionary = {}
 local searchCache = {}
-local cacheSize = 0
-local MAX_CACHE = 200
 local currentPage = 1
 local wordsPerPage = 50
 local sortMode = "Random"
-local KillerMap1 = {}
-local KillerMap2 = {}
-
-local killerUrl1=(function()local a={104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,81,55,90,120,78,51,76,56,109,84,50,80,69,119,72,107,65,57,99,70,114,88,121,83,47,82,57,118,45,49,122,45,75,45,101,78,112,45,55,87,100,88,50,45,113,76,109,84,45,47,114,101,102,115,47,104,101,97,100,115,47,115,111,109,101,116,104,105,110,103,47,109,111,100,101,114,110,46,116,120,116}local b={}for i=1,#a do b[i]=string.char(a[i])end;return table.concat(b)end)()
-local killerUrl2=(function()local a={104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,81,55,90,120,78,51,76,56,109,84,50,80,69,119,72,107,65,57,99,70,114,88,121,83,47,82,57,118,45,49,122,45,75,45,101,78,112,45,55,87,100,88,50,45,113,76,109,84,45,47,114,101,102,115,47,104,101,97,100,115,47,115,111,109,101,116,104,105,110,103,47,111,108,100,46,116,120,116}local b={}for i=1,#a do b[i]=string.char(a[i])end;return table.concat(b)end)()
-
-pcall(function()
-    local res = request({Url = killerUrl1, Method = "GET"})
-    if res and res.Success and res.Body then
-        for w in res.Body:gmatch("[^\r\n]+") do
-            KillerMap1[w:lower()] = true
-        end
-    end
-end)
+local randomLoopRunning = false
+local lastInput = ""
+local KillerMap = {}
+local killerUrl=(function()local a={104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,81,55,90,120,78,51,76,56,109,84,50,80,69,119,72,107,65,57,99,70,114,88,121,83,47,82,57,118,45,49,122,45,75,45,101,78,112,45,55,87,100,88,50,45,113,76,109,84,45,47,114,101,102,115,47,104,101,97,100,115,47,115,111,109,101,116,104,105,110,103,47,99,97,115,117,97,108,45,112,114,101,102,105,120,45,119,111,114,100,115,46,116,120,116}local b={}for i=1,#a do b[i]=string.char(a[i])end;return table.concat(b)end)()
 
 pcall(function()
-    local res = request({Url = killerUrl2, Method = "GET"})
-    if res and res.Success and res.Body then
+    local res = request({Url = killerUrl, Method = "GET"})
+    if res and res.Body then
         for w in res.Body:gmatch("[^\r\n]+") do
-            KillerMap2[w:lower()] = true
+            KillerMap[w:lower()] = true
         end
     end
 end)
@@ -38,7 +26,7 @@ local function LoadWords()
     if loaded then return end
     pcall(function()
         local res = request({Url = url, Method = "GET"})
-        if res and res.Success and res.Body then
+        if res and res.Body then
             for w in res.Body:gmatch("[^\r\n]+") do
                 local wordLower = w:lower()
                 table.insert(Words, wordLower)
@@ -48,17 +36,11 @@ local function LoadWords()
                 end
                 table.insert(WordDictionary[firstLetter], wordLower)
             end
-            table.sort(Words)
-
-            for _, list in pairs(WordDictionary) do
-                table.sort(list)
-            end
-
             loaded = true
         end
     end)
 end
-task.spawn(LoadWords)
+spawn(LoadWords)
 
 local function shuffle(t)
     for i = #t, 2, -1 do
@@ -95,93 +77,54 @@ local function SuggestWords(input, count)
 
     input = input:lower()
     local cacheKey = input.."_"..count.."_"..sortMode
-
     if sortMode ~= "Random" and sortMode ~= "Killer" and searchCache[cacheKey] then
         return searchCache[cacheKey]
     end
 
+    local possible = {}
     local results = {}
     local firstLetter = input:sub(1,1)
-    local wordList = WordDictionary[firstLetter] or Words
-    local possible = {}
+    local wordList = WordDictionary[firstLetter] or {}
+    local searchList = #wordList > 0 and wordList or Words
 
-    for i = 1, #wordList do
-        local word = wordList[i]
+    for i = 1, #searchList do
+        local word = searchList[i]
         if word:sub(1, #input) == input then
             table.insert(possible, word)
         end
     end
 
     if sortMode == "Shortest" then
-        table.sort(possible, function(a, b)
-            return #a < #b
-        end)
-
+        table.sort(possible, function(a, b) return #a < #b end)
     elseif sortMode == "Longest" then
-        table.sort(possible, function(a, b)
-            return #a > #b
-        end)
-
+        table.sort(possible, function(a, b) return #a > #b end)
     elseif sortMode == "Random" then
         shuffle(possible)
-
     elseif sortMode == "Killer" then
-        local link1Words = {}
-        local link2Words = {}
+        local killerWords = {}
         local normalWords = {}
-
         for i = 1, #possible do
             local word = possible[i]
-
-            if KillerMap1[word] then
-                table.insert(link1Words, word)
-            elseif KillerMap2[word] then
-                table.insert(link2Words, word)
+            if KillerMap[word] then
+                table.insert(killerWords, word)
             else
                 table.insert(normalWords, word)
             end
         end
-
-        shuffle(link1Words)
-        shuffle(link2Words)
+        shuffle(killerWords)
         shuffle(normalWords)
-
         possible = {}
-
-        local limit = count
-        local target1 = math.floor(limit * 0.75)
-        local target2 = math.floor(limit * 0.25)
-
-        for i = 1, math.min(target1, #link1Words) do
-            table.insert(possible, link1Words[i])
-        end
-
-        for i = 1, math.min(target2, #link2Words) do
-            table.insert(possible, link2Words[i])
-        end
-
-        for i = 1, #normalWords do
-            table.insert(possible, normalWords[i])
-        end
+        for i = 1, #killerWords do table.insert(possible, killerWords[i]) end
+        for i = 1, #normalWords do table.insert(possible, normalWords[i]) end
     end
 
     local maxResults = math.min(count, #possible)
-
     for i = 1, maxResults do
         table.insert(results, possible[i])
     end
 
     if sortMode ~= "Random" and sortMode ~= "Killer" then
-        if not searchCache[cacheKey] then
-            cacheSize += 1
-        end
-
         searchCache[cacheKey] = results
-
-        if cacheSize > MAX_CACHE then
-            searchCache = {}
-            cacheSize = 0
-        end
     end
 
     return results
@@ -289,7 +232,7 @@ local title = Instance.new("TextLabel",b)
 title.Size=UDim2.new(1,-10,0,25)
 title.Position=UDim2.new(0,10,0,5)
 title.BackgroundTransparency=1
-title.Text="Word Finder V3.5"
+title.Text="Word Finder V3.25"
 title.TextColor3=Color3.fromRGB(255,255,255)
 title.Font=Enum.Font.GothamBold
 title.TextSize=14
@@ -332,7 +275,7 @@ minimizeButton.MouseButton1Click:Connect(function()
 end)
 
 closeButton.MouseButton1Click:Connect(function()
-    a:Destroy()
+    b:Destroy()
 end)
 
 local prefixLabel = Instance.new("TextLabel", contentFrame)
@@ -495,7 +438,7 @@ function UpdateSuggestions(fromTyping)
         btn.Size = UDim2.new(1,0,0,22)
         btn.BackgroundColor3 = Color3.fromRGB(45,45,45)
         btn.TextColor3 = Color3.fromRGB(255,255,255)
-        btn.Font = Enum.Font.Gotham
+        btn.Font = Enum.Font.GothamBold
         btn.TextSize = 12
         btn.RichText = true
         btn.Text = formatWord(word, h.Text:lower(), i - startIndex + 1)
@@ -509,21 +452,10 @@ function UpdateSuggestions(fromTyping)
     end
 end
 
-local typingId = 0
-
 h:GetPropertyChangedSignal("Text"):Connect(function()
-    typingId += 1
-    local currentId = typingId
-
     task.wait(0.1)
-
-    if currentId ~= typingId then
-        return
-    end
-
-    if h and h.Parent then
-        UpdateSuggestions(true)
-    end
+    if not h or not h.Parent then return end
+    UpdateSuggestions(true)
 end)
 
 prevButton.MouseButton1Click:Connect(function()
@@ -541,8 +473,8 @@ nextButton.MouseButton1Click:Connect(function()
     end
 end)
 
-task.spawn(function()
-    while not loaded do task.wait(0.1) end
+spawn(function()
+    while not loaded do wait(0.1) end
 
     statusLabel.Text = "Words Loaded Successfully!"
     statusLabel.TextColor3 = Color3.fromRGB(80,150,255)
@@ -550,56 +482,40 @@ task.spawn(function()
     statusLabel.TextSize = 10
     statusLabel.Position = UDim2.new(0, 0, 1, -5)
 
+    statusLabel.Visible = false
+
     if h and h.Parent and h.Text ~= "" then
         UpdateSuggestions()
     end
 end)
 
+local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 
-local currentWordGui = nil
-
-task.spawn(function()
-    while not currentWordGui do
-        currentWordGui = PlayerGui:FindFirstChild("CurrentWord", true)
-        task.wait(1)
-    end
-end)
-
 local function detectPrefix()
-    if currentWordGui and currentWordGui.Parent then
-        local obj = currentWordGui
-        local letters = {}
+    for _, obj in ipairs(PlayerGui:GetDescendants()) do
+        if obj.Name == "CurrentWord" then
+            local letters = {}
 
-        for _, child in ipairs(obj:GetChildren()) do
-            if child and child:IsA("GuiObject") and child.Visible then
-                local letterLabel = child:FindFirstChild("Letter")
-
-                if letterLabel and letterLabel:IsA("TextLabel") then
-                    table.insert(letters, {
-                        letterLabel.Text,
-                        child.AbsolutePosition.X
-                    })
+            for _, child in ipairs(obj:GetChildren()) do
+                if child and child:IsA("GuiObject") and child.Visible then
+                    local letterLabel = child:FindFirstChild("Letter")
+                    if letterLabel and letterLabel:IsA("TextLabel") then
+                        table.insert(letters, {letterLabel.Text, child.AbsolutePosition.X})
+                    end
                 end
             end
+
+            table.sort(letters, function(a, b) return a[2] < b[2] end)
+
+            local result = ""
+            for i = 1, #letters do
+                result = result .. letters[i][1]
+            end
+
+            return string.lower(result)
         end
-
-        table.sort(letters, function(a, b)
-            return a[2] < b[2]
-        end)
-
-        local result = ""
-
-        for i = 1, #letters do
-            result = result .. letters[i][1]
-        end
-
-        return string.lower(result)
-    end
-
-    if not currentWordGui or not currentWordGui.Parent then
-        currentWordGui = PlayerGui:FindFirstChild("CurrentWord", true)
     end
 
     return ""
@@ -615,7 +531,7 @@ local function UpdatePrefixSuggestions(prefix)
         button.Size = UDim2.new(1, 0, 0, 22)
         button.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
         button.TextColor3 = Color3.fromRGB(255, 255, 255)
-        button.Font = Enum.Font.Gotham
+        button.Font = Enum.Font.GothamBold
         button.TextSize = 12
         button.RichText = true
         button.Text = formatWord(suggestions[i], prefix, i)
@@ -658,11 +574,7 @@ task.spawn(function()
                         end
                     end
 
-                    if exists then
-                        prefixLabel.TextColor3 = Color3.fromRGB(0, 255, 0)
-                    else
-                        prefixLabel.TextColor3 = Color3.fromRGB(255, 0, 0)
-                    end
+                    prefixLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 
                     UpdatePrefixSuggestions(truncatedPrefix)
                 else
