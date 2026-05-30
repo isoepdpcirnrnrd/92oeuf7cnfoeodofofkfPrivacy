@@ -189,7 +189,6 @@ crenelee
 crescendoed
 cromme
 croton
-cryptophane-a
 ctenii
 cucujid
 cuerda
@@ -445,8 +444,6 @@ liblabs
 libre
 lidar
 limesulphur
-ling-ling-o
-lingling-o
 longeve
 low-sulphur
 lowy
