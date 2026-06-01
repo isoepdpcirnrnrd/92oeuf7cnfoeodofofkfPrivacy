@@ -40,6 +40,7 @@ antiproton
 antismoke
 apanteles
 aparthotel
+apodemal
 apolytikion
 apopyle
 apozema
@@ -54,6 +55,7 @@ ateles
 atenolol
 aurifex
 autobahn
+axonemal
 azide
 azomethine-h
 babaylan
@@ -95,6 +97,7 @@ biologese
 biphase
 bisoprolol
 blabs
+blastemal
 blastocoeles
 blowy
 bluetop
@@ -157,6 +160,7 @@ chorizo
 choup
 chowkidar
 chromo
+chromonemal
 chuet
 churidar
 chuvash
@@ -191,6 +195,7 @@ croton
 ctenii
 cucujid
 cystoceles
+cytoblastemal
 czarowitz
 dadoed
 dalf
@@ -204,9 +209,11 @@ decke
 defeit
 degomme
 deles
+demal
 denars
 denyer
 dephase
+dermohemal
 descendeur
 desmarestia
 desulphur
@@ -266,6 +273,7 @@ epimanikion
 epinikion
 erizo
 eruca
+erythemal
 espiegle
 estafa
 euglenas
@@ -273,6 +281,7 @@ eupad
 euryaleae
 eusteles
 euterpe
+extremal
 facit
 fadeur
 faenas
@@ -280,6 +289,7 @@ falafel
 falanaka
 farruca
 felafel
+femal
 fibre
 fidel
 fideles
@@ -334,11 +344,13 @@ grandeur
 groom-to-be
 grooms-to-be
 guadagnini
+guemal
 gung-ho
 gwyddbwyll
 gynaecomastia
 gynecomastia
 haak
+haemal
 haematoceles
 handarm
 haplophase
@@ -347,6 +359,7 @@ hawaii
 he'd
 heemraat
 heles
+hemal
 hematoceles
 hemiageustia
 hemitremor
@@ -356,6 +369,7 @@ hesychasm
 hetairai
 heteromeles
 hidel
+hiemal
 hins
 hits
 hoed
@@ -375,6 +389,7 @@ hyaenas
 hydrazide
 hydroceles
 hydrochlorothiazide
+hyemal
 hyenas
 hypergeustia
 hyperglycistia
@@ -390,6 +405,8 @@ inphase
 inqilabs
 interchase
 interfibre
+interhaemal
+interhemal
 interphase
 iraimbilanja
 isochasm
@@ -415,6 +432,7 @@ karay-a
 katangese
 kayokyoku
 kebeles
+kemal
 kiaat
 kidel
 kilan
@@ -503,6 +521,7 @@ momme
 monaphase
 monophase
 monosteles
+monotremal
 mooley
 moonphase
 moror
@@ -627,10 +646,14 @@ proseminars
 prosopyle
 proteles
 proton
+protonemal
 protosteles
 prudhomme
+pseudhaemal
+pseudhemal
 pseudoalleles
 pseudogeustia
+pseudohemal
 pterophryne
 pudeur
 pulvinars
@@ -802,6 +825,7 @@ tracey
 treckschuyt
 treetop
 tremor
+treponemal
 tripal
 triphase
 triple-a

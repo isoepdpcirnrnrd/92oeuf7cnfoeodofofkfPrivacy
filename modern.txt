@@ -57,6 +57,7 @@ antiproton
 antismoke
 apanteles
 aparthotel
+apodemal
 apolytikion
 apopyle
 apozema
@@ -81,6 +82,7 @@ avg
 awd
 awm
 aww
+axonemal
 azide
 azomethine-h
 babaylan
@@ -126,6 +128,7 @@ biphase
 bisoprolol
 bixa
 blabs
+blastemal
 blastocoeles
 blowy
 bluetop
@@ -193,6 +196,7 @@ chorizo
 choup
 chowkidar
 chromo
+chromonemal
 chuet
 churidar
 chuvash
@@ -232,6 +236,7 @@ cucujid
 cui
 cuz
 cystoceles
+cytoblastemal
 czarowitz
 dadoed
 dalf
@@ -251,9 +256,11 @@ decke
 defeit
 degomme
 deles
+demal
 denars
 denyer
 dephase
+dermohemal
 descendeur
 desmarestia
 desulphur
@@ -329,6 +336,7 @@ erke
 erma
 errs
 eruca
+erythemal
 espiegle
 estafa
 euglenas
@@ -337,6 +345,7 @@ euryaleae
 eusteles
 euterpe
 expt
+extremal
 eyl
 faba
 facit
@@ -346,6 +355,7 @@ falafel
 falanaka
 farruca
 felafel
+femal
 ferd
 fibre
 fidel
@@ -413,6 +423,7 @@ grex
 groom-to-be
 grooms-to-be
 guadagnini
+guemal
 guib
 guls
 gung-ho
@@ -425,6 +436,7 @@ gynaecomastia
 gynecomastia
 haak
 hads
+haemal
 haematoceles
 halp
 handarm
@@ -435,6 +447,7 @@ hawaii
 he'd
 heemraat
 heles
+hemal
 hematoceles
 hemiageustia
 hemitremor
@@ -444,6 +457,7 @@ hesychasm
 hetairai
 heteromeles
 hidel
+hiemal
 hins
 hits
 hizb
@@ -467,6 +481,7 @@ hyaenas
 hydrazide
 hydroceles
 hydrochlorothiazide
+hyemal
 hyenas
 hypergeustia
 hyperglycistia
@@ -489,6 +504,8 @@ inphase
 inqilabs
 interchase
 interfibre
+interhaemal
+interhemal
 interphase
 ios
 iraimbilanja
@@ -524,6 +541,7 @@ katy
 kavi
 kayokyoku
 kebeles
+kemal
 kiaat
 kidel
 kiel
@@ -631,6 +649,7 @@ moms
 monaphase
 monophase
 monosteles
+monotremal
 mooley
 moonphase
 moror
@@ -791,10 +810,14 @@ proseminars
 prosopyle
 proteles
 proton
+protonemal
 protosteles
 prudhomme
+pseudhaemal
+pseudhemal
 pseudoalleles
 pseudogeustia
+pseudohemal
 psid
 pterophryne
 pudeur
@@ -862,6 +885,7 @@ schnecke
 schnitzel
 schuyt
 sciniph
+scirrhi
 scoley
 scraich
 scroinogh
@@ -889,6 +913,7 @@ shinrin-yoku
 shitzus
 shoji
 showy
+shtg
 sibs
 sics
 sightsaw
@@ -1011,6 +1036,7 @@ tracey
 treckschuyt
 treetop
 tremor
+treponemal
 tripal
 triphase
 triple-a
